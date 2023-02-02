@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Ocupacion-Actividad</name>
+   <tag></tag>
+   <elementGuidId>ba482c7e-bec0-43c8-bde6-c2b9330c571f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name = 'OcupacionId_input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0c2cae08-b21e-4a76-af86-5ef12ceda537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>OcupacionId_input</value>
+      <webElementGuid>69dfbfb8-4c21-4c7c-8fd0-cc7ace4f40b2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Suma asegurada_k-numeric-wrap k-state-_a41a9d</name>
+   <tag></tag>
+   <elementGuidId>5b9c44e9-7e68-40ce-bbe5-d919b31ed3d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-numeric-wrap.k-state-default.k-expand-padding.k-state-hover.k-state-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='divSumaAsegurada']/span/span/input)[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0c022956-3881-4f3d-aae5-e1350bca1ce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-numeric-wrap k-state-default k-expand-padding k-state-hover k-state-focused</value>
+      <webElementGuid>36626312-2493-411c-8407-75b60d7dff8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divSumaAsegurada&quot;)/span[@class=&quot;k-widget k-numerictextbox&quot;]/span[@class=&quot;k-numeric-wrap k-state-default k-expand-padding k-state-hover k-state-focused&quot;]</value>
+      <webElementGuid>2ea88806-25c5-4328-8cc7-14aba99f46a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divSumaAsegurada']/span/span</value>
+      <webElementGuid>94e69e8e-a07e-42ee-be3e-6102120d7c4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suma asegurada'])[2]/following::span[2]</value>
+      <webElementGuid>089ca3ba-18dd-454b-993a-ce0fd5e83f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Año'])[2]/following::span[7]</value>
+      <webElementGuid>c078b431-33a2-4098-a0e1-0e9f5ad6ddd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kilometraje'])[1]/preceding::span[7]</value>
+      <webElementGuid>4c718149-7f85-49f9-8e94-2ffbb09b2f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione'])[1]/preceding::span[7]</value>
+      <webElementGuid>b40880f5-f486-41a1-aad7-99c87e87cb78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/span/span</value>
+      <webElementGuid>5c39a37c-6e5e-4913-b1fb-63c3a0c7bedc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

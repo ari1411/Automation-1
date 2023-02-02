@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_ButtonAgregarExclusion</name>
+   <tag></tag>
+   <elementGuidId>e1173e59-477c-4330-9bf5-5bb6b2c6255a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@onclick = 'addExclusion(this)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f22f69db-37dc-4ed6-97c2-07e31e30e689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>addExclusion(this)</value>
+      <webElementGuid>83c0c909-92c6-461a-a1ac-ad9bd888172a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

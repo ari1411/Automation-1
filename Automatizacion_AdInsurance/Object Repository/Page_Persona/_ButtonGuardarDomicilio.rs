@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_ButtonGuardarDomicilio</name>
+   <tag></tag>
+   <elementGuidId>7a429e4d-849f-4faa-a7c7-10ef3beca4dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@type = 'button' and @class = 'k-button k-primary']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.k-button.k-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type = 'button' and @class = 'k-button  k-primary '])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ee8309cf-444b-44e5-a379-a27ffa8ea56b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5cad3ec5-2666-4df0-80a9-a445a24afd67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-button k-primary</value>
+      <webElementGuid>d1f2ddac-0f36-4f94-8d9e-fec7e473e67a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>f3663f3b-5d53-4901-8434-76a6c377fbd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit86&quot;]/body[@class=&quot;skin-green custom-skin sidebar-collapse sidebar-mini&quot;]/div[@class=&quot;k-widget k-window k-dialog&quot;]/div[@class=&quot;k-dialog-buttongroup k-dialog-button-layout-stretched&quot;]/button[@class=&quot;k-button k-primary&quot;]</value>
+      <webElementGuid>7832b21c-31f2-4625-85b9-4ba25bf8b842</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[14]</value>
+      <webElementGuid>a8571e4e-a085-4c99-ae85-b87f0e79396e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione'])[10]/following::button[2]</value>
+      <webElementGuid>4082aad9-283c-4a45-a9bd-5bc06cbfa5df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sexo'])[3]/following::button[2]</value>
+      <webElementGuid>34c7f48d-c5d4-457d-8eac-7a7f7b628915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione'])[11]/preceding::button[1]</value>
+      <webElementGuid>6e0248f9-724e-4fae-b7fd-2332f55fb893</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cedula de Identidad Policia Federal'])[1]/preceding::button[1]</value>
+      <webElementGuid>4bb64670-9887-4883-91bb-0a51f23a813d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/button[2]</value>
+      <webElementGuid>f45c2cae-c0ed-441c-b8a5-506fb6c24e3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

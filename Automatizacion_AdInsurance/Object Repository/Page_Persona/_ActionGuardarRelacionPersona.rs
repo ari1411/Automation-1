@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_ActionGuardarRelacionPersona</name>
+   <tag></tag>
+   <elementGuidId>4fbea6c2-dabc-4049-92f4-aa2c5c0cdff0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@onclick = 'updateRowPersonaRelacion()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>428af61f-3b14-40ce-ae8a-f73953c95435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>updateRowPersonaRelacion()</value>
+      <webElementGuid>eb0eb5a3-803c-4ece-8e40-3a34cc334c71</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

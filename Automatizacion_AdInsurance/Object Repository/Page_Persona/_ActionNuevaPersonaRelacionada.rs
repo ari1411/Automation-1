@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_ActionNuevaPersonaRelacionada</name>
+   <tag></tag>
+   <elementGuidId>1a35c3a7-e827-476e-8735-4992fc754506</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@onclick = 'createRowPersonaRelacionada()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>af2dc0c7-91b3-480e-9ae1-6a4a5538d626</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>createRowPersonaRelacionada()</value>
+      <webElementGuid>2f424c9f-8c8f-48be-9419-1e01c675ceb1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

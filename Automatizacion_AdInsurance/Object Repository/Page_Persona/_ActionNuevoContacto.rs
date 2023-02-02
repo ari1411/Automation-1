@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_ActionNuevoContacto</name>
+   <tag></tag>
+   <elementGuidId>07894675-8972-4f04-8421-f8e479fdd522</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@onclick = 'createRowContacto()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>de74760a-6c6d-4890-bb31-5d9de586a0e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>createRowContacto()</value>
+      <webElementGuid>bc43d316-7b65-44ee-8bee-333a00f60b1e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
