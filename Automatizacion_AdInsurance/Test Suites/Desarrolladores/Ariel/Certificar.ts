@@ -5,11 +5,11 @@
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>0</numberOfRerun>
+   <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
+   <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>9c7a839f-8674-4c74-8473-0f986a67f872</testSuiteGuid>
    <testCaseLink>
       <guid>62851db6-b429-4f48-b987-eff7e47790d1</guid>
@@ -541,7 +541,7 @@
    <testCaseLink>
       <guid>d06ab30b-5d56-4ae0-a331-74c35b3ee49e</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/Emision/Caución/Poliza/Emision_Caución_TextoObraGarantia</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
