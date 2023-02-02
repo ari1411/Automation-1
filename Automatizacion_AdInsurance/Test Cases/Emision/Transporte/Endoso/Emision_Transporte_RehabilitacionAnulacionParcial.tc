@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_RehabilitacionAnulacionParcial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c2d31be3-76ec-4eec-9235-db5b5a879fcb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>078db9a8-187f-4138-9a82-2f16acf401f6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3c75ce7-a05e-43d3-908b-dafc3595403c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb3e96d0-27ed-4c6d-8fca-2febd3831520</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a23d8bd8-40c1-432e-91e7-d783c261a95b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6cff7054-307d-4da0-85bd-2b76064e0690</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc753dc4-a86a-427b-accc-9b68461f13a9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>248b0d37-d046-4e27-934f-16fc0318e21a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bfee9f06-d863-41a8-b298-1b1adc8d7a17</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d80fa95f-e69d-4b73-8ade-882d0db5674c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_RehabilitacionAnulacionParcial').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>078db9a8-187f-4138-9a82-2f16acf401f6</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_RehabilitacionAnulacionParcial').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>a3c75ce7-a05e-43d3-908b-dafc3595403c</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_RehabilitacionAnulacionParcial').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>fb3e96d0-27ed-4c6d-8fca-2febd3831520</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_RehabilitacionAnulacionParcial').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>a23d8bd8-40c1-432e-91e7-d783c261a95b</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_RehabilitacionAnulacionParcial').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>6cff7054-307d-4da0-85bd-2b76064e0690</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_RehabilitacionAnulacionParcial').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>dc753dc4-a86a-427b-accc-9b68461f13a9</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_RehabilitacionAnulacionParcial').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>248b0d37-d046-4e27-934f-16fc0318e21a</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_RehabilitacionAnulacionParcial').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>bfee9f06-d863-41a8-b298-1b1adc8d7a17</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_RehabilitacionAnulacionParcial').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>d80fa95f-e69d-4b73-8ade-882d0db5674c</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+</TestCaseEntity>

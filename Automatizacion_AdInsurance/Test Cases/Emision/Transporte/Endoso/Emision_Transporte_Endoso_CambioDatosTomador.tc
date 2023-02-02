@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_Endoso_CambioDatosTomador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ef4b64e-5310-4397-ab4d-629dbd88a34b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2505a12-cfad-4732-8e62-ab6d72d2230d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92128cae-f459-4b7f-9c97-508a8ea2472c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2503fa0f-0b00-408d-b337-5bf1336cbadf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>868e3e46-bfc8-40f7-a491-ee6f9a7c3585</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58b4b3c1-a965-4147-bb4c-4491b2504647</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ce49b79-02a6-423f-ab84-9ddbc3cdf7ce</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5c2653b-05c1-4f3a-bcc2-d7cd43ffc20f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>910ef16f-23d7-4ffa-ab4a-e8f45157662e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioDatosTomador').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>c2505a12-cfad-4732-8e62-ab6d72d2230d</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioDatosTomador').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>92128cae-f459-4b7f-9c97-508a8ea2472c</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>2503fa0f-0b00-408d-b337-5bf1336cbadf</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioDatosTomador').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>868e3e46-bfc8-40f7-a491-ee6f9a7c3585</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioDatosTomador').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>58b4b3c1-a965-4147-bb4c-4491b2504647</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioDatosTomador').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>5ce49b79-02a6-423f-ab84-9ddbc3cdf7ce</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioDatosTomador').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>a5c2653b-05c1-4f3a-bcc2-d7cd43ffc20f</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioDatosTomador').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>910ef16f-23d7-4ffa-ab4a-e8f45157662e</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

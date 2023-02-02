@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caución_ProrrogasAutomaticas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b3d7dda-2ab9-4056-9397-c1cb5d8efac1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e88d67c0-38c7-4794-af48-7bc3391985e1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6e28e396-48aa-410b-a40d-9e2ed79428ed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96b9f51a-574a-4286-8ab2-72f26d5d30b3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7b9b8f2a-7228-4393-8855-d2ff41577fef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d9b48997-1fda-4043-ad95-e4164f6b0b90</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eef9094c-49aa-4ade-8dfb-b0419e7ae0fa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ed621c1-c621-4944-b1fa-74fd323639e1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caución_ProrrogasAutomaticas').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>e88d67c0-38c7-4794-af48-7bc3391985e1</id>
+      <masked>false</masked>
+      <name>filtroActivoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caución_ProrrogasAutomaticas').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>6e28e396-48aa-410b-a40d-9e2ed79428ed</id>
+      <masked>false</masked>
+      <name>TxtFiltro_Log</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caución_ProrrogasAutomaticas').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>96b9f51a-574a-4286-8ab2-72f26d5d30b3</id>
+      <masked>false</masked>
+      <name>Msj_GeneraPoliza1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caución_ProrrogasAutomaticas').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>7b9b8f2a-7228-4393-8855-d2ff41577fef</id>
+      <masked>false</masked>
+      <name>Msj_GeneraPoliza2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caución_ProrrogasAutomaticas').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>181dbc71-b08d-4f1f-8ea4-f03311099159</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caución_ProrrogasAutomaticas').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>8fb80f90-bd1e-4d20-8400-74c9aa5ae9aa</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caución_ProrrogasAutomaticas').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>a26cd77b-3527-4fc9-9164-e001682598fc</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_MonitorDistribucion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>184555af-28ec-4fb8-a6be-e2eec290970d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_MonitorDistribucion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>bf83df24-c8d0-4aab-a93a-9cce09ee5de8</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_MonitorDistribucion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f4c69d4f-cba0-45d8-8bb2-0b9da7a9861d</id>
+      <masked>false</masked>
+      <name>nCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_MonitorDistribucion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>17919b38-8aa2-4619-97a2-604397813d01</id>
+      <masked>false</masked>
+      <name>equipoDistribucion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_MonitorDistribucion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>aa9ce2b4-735b-424e-828f-6f29ac8969f7</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_MonitorDistribucion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>8e6eb3a4-d1ef-43d2-b355-1416088789cf</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_MonitorDistribucion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>f0e4cde4-1eab-414b-a6d3-077401c44b04</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_MonitorDistribucion').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>290e3556-2a0d-426e-bdcf-3bd88cb6f584</id>
+      <masked>false</masked>
+      <name>estadoCotizacion2</name>
+   </variable>
+</TestCaseEntity>

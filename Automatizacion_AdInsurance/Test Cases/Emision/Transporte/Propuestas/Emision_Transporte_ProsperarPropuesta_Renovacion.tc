@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_ProsperarPropuesta_Renovacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaa38d4b-7381-41a5-87c0-3a78ed265fdc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>457ebed6-cb10-474a-a94c-4b2492a06648</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb73d70a-197d-4101-b208-a5cf526397a5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d873040-cf30-480a-9401-a01a5b2989e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9af1a53-5c10-40f1-a6f7-b0732de1a7cc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>034983f9-f226-4667-9780-4bef01e09857</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea52502f-f3a1-4f33-a16c-4961ee916a81</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dbbaf3b4-c092-4075-ae35-2cba872e137e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08ebb7fd-f376-4c0c-b5bc-0de2f10cf980</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Renovacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>457ebed6-cb10-474a-a94c-4b2492a06648</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Renovacion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>cb73d70a-197d-4101-b208-a5cf526397a5</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Renovacion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>9d873040-cf30-480a-9401-a01a5b2989e4</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>a9af1a53-5c10-40f1-a6f7-b0732de1a7cc</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Renovacion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>034983f9-f226-4667-9780-4bef01e09857</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Renovacion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>ea52502f-f3a1-4f33-a16c-4961ee916a81</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Renovacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>dbbaf3b4-c092-4075-ae35-2cba872e137e</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Renovacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>08ebb7fd-f376-4c0c-b5bc-0de2f10cf980</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+</TestCaseEntity>

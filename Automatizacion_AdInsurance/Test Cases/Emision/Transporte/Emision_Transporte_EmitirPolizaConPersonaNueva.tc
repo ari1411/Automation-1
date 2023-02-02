@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_EmitirPolizaConPersonaNueva</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8384aa5f-e30a-4a10-919b-f4151c69c0c7</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>119aab1e-806c-4213-8d0d-f9027f371eb7</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>810359e5-659f-4475-aa7b-07ece7fcb0fb</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>98afefae-0231-46df-a5dc-28d40468a14b</id>
+      <masked>false</masked>
+      <name>prodPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>c8c2d627-f334-42c8-a2dc-90305549820c</id>
+      <masked>false</masked>
+      <name>producto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>60e73a07-e54b-44d6-aac0-fed8643dbb7f</id>
+      <masked>false</masked>
+      <name>subproducto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>34be235c-431d-499c-94bc-1c6acedfe83d</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>51994bdd-86cb-4e60-8492-1af7348c47ff</id>
+      <masked>false</masked>
+      <name>docTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>af71a888-ce78-4602-9bf7-6451c53fea55</id>
+      <masked>false</masked>
+      <name>montoEstimadoTransitoAereo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>378d32f1-a7e8-4a91-b751-273053ffc4c6</id>
+      <masked>false</masked>
+      <name>montoEstimadoAereoBasica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>9a934508-dba2-417f-9283-16e37ed92a8c</id>
+      <masked>false</masked>
+      <name>montoEstimadoTeleportacionCuantica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>e805f8f7-567f-4d51-b557-2a2968007fa9</id>
+      <masked>false</masked>
+      <name>porcentajePrimaDeposito</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>daf6a8f5-d5d7-4b49-aa92-3bc61e0cb385</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>afda263c-25bb-4ea0-a336-94285bc3108c</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

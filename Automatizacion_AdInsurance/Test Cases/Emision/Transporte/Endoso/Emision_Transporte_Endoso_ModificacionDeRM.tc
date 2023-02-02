@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_Endoso_ModificacionDeRM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9cae91f-4c93-4261-8302-7f253df235af</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f606d243-1ec2-4b99-9092-f1ca1fa4bbc2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa5c0a23-d104-4cb8-9275-069e5e97ecd6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>edd65474-cc19-4889-b5a6-e945cdf1a9fe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6e322f49-7841-41e1-aa82-062f3181b15e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>225b18a4-ed40-456c-87f0-aaeb62cdcd46</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56463ffa-0a13-4a82-b0f9-beb6093ec71b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9366371e-94b3-4376-a7e2-b4cdf7cca792</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>156c7167-b6fb-4b82-b074-ef44fc0d1c30</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b29f6caa-0285-48e2-8ff2-4530400782be</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ModificacionDeRM').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>f606d243-1ec2-4b99-9092-f1ca1fa4bbc2</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ModificacionDeRM').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>fa5c0a23-d104-4cb8-9275-069e5e97ecd6</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>edd65474-cc19-4889-b5a6-e945cdf1a9fe</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ModificacionDeRM').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>6e322f49-7841-41e1-aa82-062f3181b15e</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ModificacionDeRM').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>225b18a4-ed40-456c-87f0-aaeb62cdcd46</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ModificacionDeRM').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>56463ffa-0a13-4a82-b0f9-beb6093ec71b</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ModificacionDeRM').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>9366371e-94b3-4376-a7e2-b4cdf7cca792</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ModificacionDeRM').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>156c7167-b6fb-4b82-b074-ef44fc0d1c30</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ModificacionDeRM').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>b29f6caa-0285-48e2-8ff2-4530400782be</id>
+      <masked>false</masked>
+      <name>montoRM</name>
+   </variable>
+</TestCaseEntity>

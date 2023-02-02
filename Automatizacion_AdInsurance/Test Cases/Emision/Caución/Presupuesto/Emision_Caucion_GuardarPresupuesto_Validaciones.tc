@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_GuardarPresupuesto_Validaciones</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7af22f93-e82d-4737-991b-252954b0c846</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>a33327a4-f3b0-4e64-b033-2caa715f67b2</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>e294e1dd-a8e8-4b86-ad6d-3201a2b36948</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>c6bbdb0a-b2c3-45cd-96ad-fd76f5f47953</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>074f69be-e7be-4ba1-8c04-1a055a7f8417</id>
+      <masked>false</masked>
+      <name>CUIL_CUIT</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>df30aa08-d715-42c5-a00b-8108acacec09</id>
+      <masked>false</masked>
+      <name>TipoPersonaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>a0df5d82-9a6a-4962-9428-360df186e8eb</id>
+      <masked>false</masked>
+      <name>TipoDocumentoIdAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>e82482db-3791-4992-af5f-07c2bb7b1d47</id>
+      <masked>false</masked>
+      <name>CUIL_CUIT_Asegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>076ce27e-96ec-4daa-8331-c44abb04820a</id>
+      <masked>false</masked>
+      <name>TipoPersonaIdAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>de24d931-2862-414e-baf2-bb93b59168c6</id>
+      <masked>false</masked>
+      <name>Productor</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>3675116c-8cfa-4677-b11c-5ef81565d37c</id>
+      <masked>false</masked>
+      <name>ProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>1766ab56-9c3d-4121-84a6-2d29924d455b</id>
+      <masked>false</masked>
+      <name>VigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>25a4300f-d8b6-417b-a29b-d525a3c82f6e</id>
+      <masked>false</masked>
+      <name>FormaPagoIdCUPON</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>0f1f65ee-3e1e-4352-9022-ff76ec547351</id>
+      <masked>false</masked>
+      <name>TipoMonedaId_1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>6d02a45f-0a65-4ceb-aad8-dc1d076b3e28</id>
+      <masked>false</masked>
+      <name>TipoMonedaId_2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>0e9cc742-c8c1-433b-bb51-d4662d4f57cd</id>
+      <masked>false</masked>
+      <name>PlanCuotasId_1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_GuardarPresupuesto_Validaciones').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>993db0b5-7114-4463-9f9f-120c51c2bfcd</id>
+      <masked>false</masked>
+      <name>PlanCuotasId_2</name>
+   </variable>
+</TestCaseEntity>

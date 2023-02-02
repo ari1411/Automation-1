@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ReplicaPropuesta_RamoInactivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0eb61d99-e8a8-4974-983a-dd9d3a21b529</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ReplicaPropuesta_RamoInactivo').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>5d216aab-c9f3-4c5e-bf9f-0db5194234bd</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ReplicaPropuesta_RamoInactivo').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f163789e-3f0f-4995-9c3c-1e61de1cff9f</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ReplicaPropuesta_RamoInactivo').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>b79ed5e9-0fec-4fab-be4b-1c46f89e5d4d</id>
+      <masked>false</masked>
+      <name>Message</name>
+   </variable>
+</TestCaseEntity>

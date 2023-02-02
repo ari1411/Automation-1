@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emisión_Endosos_Anular_y_Rehabilitar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad6aae1d-206d-4296-b2de-646c098ce89e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>ea08f6e2-f4e9-4aff-b3cf-29606e2090d7</id>
+      <masked>false</masked>
+      <name>GrupoRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>b4590831-a74b-4683-b1d9-c0db28f1a610</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>92016fd8-925d-45cd-a3df-817f9d21ccd7</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>c2d58f84-ba47-4b8a-af1e-a30058c8c87c</id>
+      <masked>false</masked>
+      <name>nPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>0d2b2759-0586-4779-bb33-cc2530bd00a6</id>
+      <masked>false</masked>
+      <name>GrupoEndosoIdAnular</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>0a4e26ee-4631-492a-9a28-869c2fc2b689</id>
+      <masked>false</masked>
+      <name>TipoEndosoIdAnular</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>977d1af1-9330-48d7-8fa6-7fb279e8ada5</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaIdAnular</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>58c87d7f-ad85-4ed7-98ac-8b8444cd4c1e</id>
+      <masked>false</masked>
+      <name>GrupoEndosoIdRehabilitar</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>367a95e9-fce9-4e84-8f3d-646a5932468c</id>
+      <masked>false</masked>
+      <name>TipoEndosoIdRehabilitar</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Endosos_Anular_y_Rehab').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>87fe0f52-a1f7-44f3-8354-3da1801dbca1</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaIdRehabilitar</name>
+   </variable>
+</TestCaseEntity>

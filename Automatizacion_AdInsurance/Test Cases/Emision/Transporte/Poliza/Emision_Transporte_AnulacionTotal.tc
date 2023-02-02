@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_AnulacionTotal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>baf40cff-20da-44f2-886c-b0537623f615</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9fa9fb05-4921-4884-863e-5aed792ea5c3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b1212d34-dbad-4bc0-8dda-4fbf4f320c32</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cd598e5d-0a5b-4979-9bcf-3266d174c760</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e79e47a6-481c-4472-a8eb-c341faa5b846</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53e73059-88bb-491b-8bb8-b78185fbf64a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ec97f45-aff7-429a-9ac5-50136300071e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aadbbdd1-0ea4-4ba0-9a7e-d175c4f0a1f7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ed47145-da76-4d7a-aff8-33c9811a5b02</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8f8a1105-787e-4371-8d57-8bb1e80cedd8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AnulacionTotal').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>9fa9fb05-4921-4884-863e-5aed792ea5c3</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AnulacionTotal').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>b1212d34-dbad-4bc0-8dda-4fbf4f320c32</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AnulacionTotal').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>cd598e5d-0a5b-4979-9bcf-3266d174c760</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AnulacionTotal').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>e79e47a6-481c-4472-a8eb-c341faa5b846</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AnulacionTotal').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>53e73059-88bb-491b-8bb8-b78185fbf64a</id>
+      <masked>false</masked>
+      <name>subProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AnulacionTotal').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>2ec97f45-aff7-429a-9ac5-50136300071e</id>
+      <masked>false</masked>
+      <name>vigenciaContrato</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AnulacionTotal').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>aadbbdd1-0ea4-4ba0-9a7e-d175c4f0a1f7</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AnulacionTotal').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>4ed47145-da76-4d7a-aff8-33c9811a5b02</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AnulacionTotal').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>8f8a1105-787e-4371-8d57-8bb1e80cedd8</id>
+      <masked>false</masked>
+      <name>montoEstimadoTransitoAereo</name>
+   </variable>
+</TestCaseEntity>

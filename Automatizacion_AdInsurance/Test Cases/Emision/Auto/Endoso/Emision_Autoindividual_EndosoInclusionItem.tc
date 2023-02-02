@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Autoindividual_EndosoInclusionItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9a617e94-2339-49e7-b3b4-28e96d938827</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>30994844-2eb9-4737-a16f-1323389aabaa</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>6d2cd814-d639-4983-9af7-cf359e6d4066</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>b9b35111-b5d7-408b-a458-3536a17a463f</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>c653a3ca-cd31-48e0-91a0-503a8d53e32d</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>593b7333-ebeb-4934-85c6-0bbe27081d8c</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPoliza').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>a7f6eb39-7c77-46dc-89f7-f2154ec90780</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>2a742b13-e748-49c4-9629-d9252464f516</id>
+      <masked>false</masked>
+      <name>Marca</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>d189fad2-28bc-4cc0-9922-d3e6af278beb</id>
+      <masked>false</masked>
+      <name>Modelo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>2893b27c-b513-455a-83f1-e82731955cf3</id>
+      <masked>false</masked>
+      <name>Anio</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>b1768ad6-a67b-456a-8e30-fd50a94db355</id>
+      <masked>false</masked>
+      <name>SumaAsegurada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>984779fb-ad11-4bbc-abd1-904289a40b31</id>
+      <masked>false</masked>
+      <name>Kilometraje</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>216c2aa9-004c-4005-867d-b5ff6370920d</id>
+      <masked>false</masked>
+      <name>Destino</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>333c17eb-f98b-44a4-9d39-44518aaa00b8</id>
+      <masked>false</masked>
+      <name>Carroceria</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>601485b2-ea7d-4ce6-8b1f-c22e5cc6ddf4</id>
+      <masked>false</masked>
+      <name>Provincia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>bc46c730-8658-4d94-b01a-681d57c2f67b</id>
+      <masked>false</masked>
+      <name>Localidad</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>8f3951d3-3779-4dfe-9f10-e65952d5af1c</id>
+      <masked>false</masked>
+      <name>EsperaLocalidad</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>0073e4da-6d78-4fb8-87f3-50ca826ddc36</id>
+      <masked>false</masked>
+      <name>CodigoPostal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>d4193ff0-1b18-489a-ae31-967adbce95b2</id>
+      <masked>false</masked>
+      <name>Patente</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>bdd0b11e-f7ad-4ba6-a9df-9976aea850b0</id>
+      <masked>false</masked>
+      <name>Motor</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>f9da99ae-92f8-4a6b-9511-e397c10ad27f</id>
+      <masked>false</masked>
+      <name>Chasis</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>f75b2204-ffc1-432a-b26e-fbb339e55915</id>
+      <masked>false</masked>
+      <name>ClausulaAjuste</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>8033dc6d-8869-4a75-9eb6-d81e022730ea</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>0e57b155-7b23-48d6-9b69-d95a4b008fe7</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoInclusionItem').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>4c3643dc-5d76-4b59-b387-0aa2e197ff4b</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPoliza').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>fcce3a12-93a3-44ca-8bb4-7a351eec26c0</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+</TestCaseEntity>

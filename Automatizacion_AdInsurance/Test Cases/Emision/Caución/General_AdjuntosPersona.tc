@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>General_AdjuntosPersona</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efeb09ab-09aa-4660-a093-2b52997c8787</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e58e3d0-6b35-4284-84f3-e63c6b80df83</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>459739cd-f03f-45e1-8f82-88794c68b4a7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9f18abfe-0069-4046-9e03-4d19a371b398</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4513c7b3-5c2d-496a-923b-03c54fca31b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03552f36-aa1c-4fc0-a016-b7c052fff144</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f954b170-beed-4485-b3ac-fc4cd50d0c98</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('General_AdjuntosPersona').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>4e58e3d0-6b35-4284-84f3-e63c6b80df83</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('General_AdjuntosPersona').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>459739cd-f03f-45e1-8f82-88794c68b4a7</id>
+      <masked>false</masked>
+      <name>clave</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('General_AdjuntosPersona').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>9f18abfe-0069-4046-9e03-4d19a371b398</id>
+      <masked>false</masked>
+      <name>numDocFiltro</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('General_AdjuntosPersona').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>4513c7b3-5c2d-496a-923b-03c54fca31b8</id>
+      <masked>false</masked>
+      <name>tipoContenidoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('General_AdjuntosPersona').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>03552f36-aa1c-4fc0-a016-b7c052fff144</id>
+      <masked>false</masked>
+      <name>observaciones</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('General_AdjuntosPersona').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>f954b170-beed-4485-b3ac-fc4cd50d0c98</id>
+      <masked>false</masked>
+      <name>RutaAdjunto</name>
+   </variable>
+</TestCaseEntity>

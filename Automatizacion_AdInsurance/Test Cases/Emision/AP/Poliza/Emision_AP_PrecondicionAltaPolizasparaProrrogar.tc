@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_PrecondicionAltaPolizasparaProrrogar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5317063b-feba-4890-bf74-12720939da39</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>2934f537-0b05-4816-8ec2-8c131253158b</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>1049c33d-4460-4bb4-b87b-2c64c42ec621</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>4c1a230e-45aa-40d4-9844-45e3e2a784d1</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>405ade66-8773-47f5-8771-8ad0852dfe61</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>70b155cb-df60-4264-ba03-d01f75d1a7f1</id>
+      <masked>false</masked>
+      <name>subProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>60361c00-5c9f-478c-a545-9913739b63d3</id>
+      <masked>false</masked>
+      <name>vigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>5e22b123-9900-4f3d-b5fd-4831fc016d88</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>e30fd41f-940a-4acc-9fad-1dd4e175cbd4</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>ec05f103-d681-4463-9320-6d6e7f7e0f00</id>
+      <masked>false</masked>
+      <name>dniAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>f439046f-3dbd-4fe5-b9a4-2be8ce4ffded</id>
+      <masked>false</masked>
+      <name>grupoActividad</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>85ffa8fb-49da-4962-8b00-77657a283513</id>
+      <masked>false</masked>
+      <name>tipoBeneficiario</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>a8fd99c8-ebc9-4d6c-8e60-083b33d7cdbe</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>d948f089-5224-41be-ac17-53654ee09a12</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

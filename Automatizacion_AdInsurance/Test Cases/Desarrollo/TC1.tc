@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c412f316-2c9a-48cf-ab0d-7ea3658d054f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4a2aef7c-d197-4c37-8516-4f082c02660d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd56e6e8-8104-4dfc-a180-be58fbd740d4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8bc1ce1-1c6a-4d42-a67e-d339af97be92</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4c8376c-89ee-4a93-809d-c2086f2f2904</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaEndoso').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>4a2aef7c-d197-4c37-8516-4f082c02660d</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaEndoso').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>fd56e6e8-8104-4dfc-a180-be58fbd740d4</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>e8bc1ce1-1c6a-4d42-a67e-d339af97be92</id>
+      <masked>false</masked>
+      <name>MontoSumaAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>f4c8376c-89ee-4a93-809d-c2086f2f2904</id>
+      <masked>false</masked>
+      <name>TxtValidacion</name>
+   </variable>
+</TestCaseEntity>

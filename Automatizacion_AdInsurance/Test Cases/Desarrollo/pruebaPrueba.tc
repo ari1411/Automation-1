@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pruebaPrueba</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff1525db-c9c9-4579-bbd2-10d1acc9f4c6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ABMProducto_Base').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>fbd8dc4d-24d9-405e-9ea9-a58e65d20eb4</id>
+      <masked>false</masked>
+      <name>subProductoId</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ProsperarPropuesta_Endoso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98e76d1a-931a-486b-b6d6-33c897324368</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8999377f-e65f-4022-829e-303d9197a4d4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e07fa062-48d2-4ba0-bb85-42988c196a2c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e11354c-7578-42b0-b2e3-4f7554170b53</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81e62dce-ae88-4cb6-ac2d-8a04387d7f7c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc2c6a22-060c-48c6-850a-039e12656568</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3e615147-c9fa-4780-8ff9-47f00f97e402</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c3421455-24d9-41b5-9d3e-7af098100023</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac5751ee-6805-40ac-9842-c712077ea019</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>18eca794-7ff6-4fb1-b67a-115ec43951d1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f24e1fc-7063-4acb-b536-29290e411a15</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f89869f6-fd2c-4b46-80c3-0c6789bd8be7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>8999377f-e65f-4022-829e-303d9197a4d4</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>e07fa062-48d2-4ba0-bb85-42988c196a2c</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>9e11354c-7578-42b0-b2e3-4f7554170b53</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPersonaExistente').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>81e62dce-ae88-4cb6-ac2d-8a04387d7f7c</id>
+      <masked>false</masked>
+      <name>nPolizaPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>dc2c6a22-060c-48c6-850a-039e12656568</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>3e615147-c9fa-4780-8ff9-47f00f97e402</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>c3421455-24d9-41b5-9d3e-7af098100023</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>ac5751ee-6805-40ac-9842-c712077ea019</id>
+      <masked>false</masked>
+      <name>formaPagoIdVisa</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>18eca794-7ff6-4fb1-b67a-115ec43951d1</id>
+      <masked>false</masked>
+      <name>formaPagoIdCupon</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>4f24e1fc-7063-4acb-b536-29290e411a15</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_Endoso').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>f89869f6-fd2c-4b46-80c3-0c6789bd8be7</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

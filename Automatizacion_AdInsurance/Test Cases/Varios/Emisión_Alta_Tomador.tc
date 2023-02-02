@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emisión_Alta_Tomador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c9d61057-7ae7-419b-8d8a-b91e4ebb8fff</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Tomador').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>ae9ca4b1-7931-4d66-abfc-5f7c8be9ee9d</id>
+      <masked>false</masked>
+      <name>NroDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Tomador').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>7636e754-eb7a-4b78-bce6-ffc01dff9da6</id>
+      <masked>false</masked>
+      <name>Comision</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Tomador').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>efd7af39-9c35-4968-83ed-9db5d353fa45</id>
+      <masked>false</masked>
+      <name>PrimaMinimaAnual</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Tomador').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>74f374a1-c57a-4ede-ac37-d2454b49e01a</id>
+      <masked>false</masked>
+      <name>PatrimonioNeto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Tomador').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>db5827c6-5a58-4ea8-a751-10abb5db8193</id>
+      <masked>false</masked>
+      <name>ManifestacionBienes</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Tomador').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>f8cca294-6a66-47c0-a1f2-a1169b8aff69</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Tomador').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>85292cb5-77fe-41f3-86c1-30d45f781089</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Tomador').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>cbbde8f9-2964-4906-b9b8-703242cab914</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Tomador').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>d1407145-9f5f-4229-9fcf-5b669c5b0258</id>
+      <masked>false</masked>
+      <name>Apellido</name>
+   </variable>
+</TestCaseEntity>

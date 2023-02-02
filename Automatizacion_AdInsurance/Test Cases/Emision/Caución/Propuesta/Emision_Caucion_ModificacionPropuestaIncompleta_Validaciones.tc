@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>720272d0-5708-4c40-b0a8-7edec0ef2039</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fb298e4-7d0d-4fff-a8cf-fc9f5873a71f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86c41620-301e-4a3b-adf5-88e1a894c3e6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d81bd1de-471b-4ac7-b78f-fb5caee664ed</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bb712ae6-67fe-429d-9a27-8373e2ca604f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>924e90ba-c2e3-4377-8c2c-b65e66dfbc0e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>340483ae-b6e8-4790-867b-5b4f99d53f40</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c556968-5c48-4c1e-bfc7-7e7d7b5497fc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1f4bab0-67a1-400b-a13c-a7e605e47617</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>eefecc84-65c6-4f03-980e-86984ddd8ee1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>4fb298e4-7d0d-4fff-a8cf-fc9f5873a71f</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>86c41620-301e-4a3b-adf5-88e1a894c3e6</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>d81bd1de-471b-4ac7-b78f-fb5caee664ed</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>bb712ae6-67fe-429d-9a27-8373e2ca604f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>924e90ba-c2e3-4377-8c2c-b65e66dfbc0e</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>340483ae-b6e8-4790-867b-5b4f99d53f40</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>0c556968-5c48-4c1e-bfc7-7e7d7b5497fc</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>a1f4bab0-67a1-400b-a13c-a7e605e47617</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuestaIncompleta_Validaciones').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>eefecc84-65c6-4f03-980e-86984ddd8ee1</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+</TestCaseEntity>

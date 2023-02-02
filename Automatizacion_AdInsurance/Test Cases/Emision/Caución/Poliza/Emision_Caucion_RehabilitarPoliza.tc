@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_RehabilitarPoliza</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27ea077d-19c0-43cd-8543-03321930bb6c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RehabilitarPoliza').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>0ced7a5c-717d-4ff7-88cc-407794e10b45</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RehabilitarPoliza').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>828bcc00-36a7-42d9-ad4f-1b116e2272c9</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_EndosoAnulacionTotal').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>1ef4ef52-6ef3-431a-b860-c11a0f89c241</id>
+      <masked>false</masked>
+      <name>numPolizaPrecondicion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RehabilitarPoliza').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>04bee82e-0ba7-4efe-9235-80a8431e0119</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RehabilitarPoliza').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>f1ca335e-1c24-4bc9-97a0-26cd6e3376a0</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RehabilitarPoliza').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>7d1676e0-0e7e-4877-87c4-3bf66f09bb47</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RehabilitarPoliza').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>6bccac76-22aa-43d7-92e9-98b9d68bdf4e</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RehabilitarPoliza').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>8834ecf9-071d-49ae-b84c-8a1909b8fc03</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RehabilitarPoliza').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>b3465761-a943-446d-b37b-6aeed1310f1e</id>
+      <masked>false</masked>
+      <name>estadoResumenDeseado</name>
+   </variable>
+</TestCaseEntity>

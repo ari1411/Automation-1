@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ImpresionProductor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96d845bc-6b2a-4175-b8b9-4731f57723da</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ImpresionProductor').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>53fbb856-e5df-4fd6-9764-c2695314c3b8</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ImpresionProductor').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>9b228538-39e7-446b-8dd0-2f5bd86ba1b5</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPersonaExistente').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>3a51eb02-d50f-4be9-aeda-33e0874dec38</id>
+      <masked>false</masked>
+      <name>numPolizaPrecondicion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ImpresionProductor').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>9843c765-395b-4e35-8cfb-b7097205a845</id>
+      <masked>false</masked>
+      <name>numCAEIndeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ImpresionProductor').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>4dd3905f-e983-41c5-bf75-c30b5554c933</id>
+      <masked>false</masked>
+      <name>destinatarioId</name>
+   </variable>
+</TestCaseEntity>

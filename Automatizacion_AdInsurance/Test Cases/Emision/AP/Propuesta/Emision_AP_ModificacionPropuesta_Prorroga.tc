@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ModificacionPropuesta_Prorroga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f842f55-81c3-4c9c-bba1-b1cd2d00f3a7</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>92d75db6-f035-4718-80fd-8c6695163678</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>3d167647-3e10-4a5c-94ac-ee3e37218d0b</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>4364fd77-49eb-4221-9c05-784cd0b3c0b0</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>cb9c53b7-f8ad-4998-a9ff-396f75d2ce72</id>
+      <masked>false</masked>
+      <name>nuevaURL1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>1a0ebc2b-4197-4c63-8f1d-093c15d0eee8</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>5e104a18-ecbc-40cc-99d5-803f9d7a72aa</id>
+      <masked>false</masked>
+      <name>Clave</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>0bffefde-bec4-46cf-8c00-8fc1fc7f0267</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>f51facd4-c030-44fd-a41c-2963faa2beb6</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>dac20262-4c02-4fc4-a0c4-cc941926d08f</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Prorroga').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>4b930f85-de99-4d4c-bb10-7b3ce910bbbf</id>
+      <masked>false</masked>
+      <name>fechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuestaIncompleta_CompletandoTodosLosDatos').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>db394d79-0f81-46d2-bc7a-fbcadff20f6d</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

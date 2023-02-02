@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ModificacionPropuesta_ConsultaMovimiento</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4add773a-3620-441c-b0bb-c8ca86ebdd60</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_ConsultaMovimiento').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>94986140-33ef-4727-b59f-e8716d5e5e4a</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_ConsultaMovimiento').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>020d6c7f-fa38-4f8b-84cf-4bc416e41cf5</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+</TestCaseEntity>

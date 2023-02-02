@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_RevisionSelladoUSD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51ad61dd-1cbe-4c99-8fa5-4c1a314e6c3a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>7e437d0c-564c-473b-941e-de00134d68bd</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>51274e7f-ff2b-45ec-bcf3-ed917e6efceb</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>1744227f-102b-4ec9-ac01-906b1bca5ea6</id>
+      <masked>false</masked>
+      <name>prodPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>8442ef85-c3ca-4ca3-bbf1-389c9b83efc0</id>
+      <masked>false</masked>
+      <name>producto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>51af41ba-693b-4216-9fd0-58ab8612190d</id>
+      <masked>false</masked>
+      <name>subproducto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>8f90ee87-5326-49e8-9e2d-549b69c18b42</id>
+      <masked>false</masked>
+      <name>moneda</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>7fb1bd5d-7516-4103-831f-beb89c0d814c</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>7bc0d562-dbf3-4f2d-811f-24a942c88bd8</id>
+      <masked>false</masked>
+      <name>Documento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>b3a34cf1-d8b3-43ba-ba6c-54bedef58bcd</id>
+      <masked>false</masked>
+      <name>tipoDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>a19ee23c-144e-438b-88a3-7b141b78a28d</id>
+      <masked>false</masked>
+      <name>dniAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>f06753c1-ad49-4e45-b984-cae811023c97</id>
+      <masked>false</masked>
+      <name>grupoActividad</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>59c93e68-f4e3-49c1-a805-48f3321d2435</id>
+      <masked>false</masked>
+      <name>tipoBeneficiario</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RevisionSelladoUSD').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>e87ef8a2-277e-4438-85a1-14b2fa5cb6a5</id>
+      <masked>false</masked>
+      <name>monedaDeseada</name>
+   </variable>
+</TestCaseEntity>

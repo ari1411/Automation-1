@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ReplicaPropuesta_CambioRamo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7aa6c64f-abb6-4f38-bd62-9e5c9f08d132</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>e5a3997e-1434-4438-993c-e6a6979b92ae</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>17d02550-306c-4b31-a453-b7136ac09778</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>1937732a-f48d-4bdc-95a8-65f04d05216b</id>
+      <masked>false</masked>
+      <name>NuevoRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>2b77adf4-c48c-4e18-9479-c114cf4fc821</id>
+      <masked>false</masked>
+      <name>NuevoSubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>fc91ece1-1b77-4194-ae45-0c7b011909a1</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>50aa8de1-8a5c-49fd-8333-765074b74545</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_FechaNac</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>cb28dc7d-47fa-4870-b1f8-7f01cb519576</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ActAP</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>2211654d-f8d9-4e8a-a688-e68ee488363b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AmbitoCobertura</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>c0d9de9d-dba4-4874-bb70-b3015d72fe4d</id>
+      <masked>false</masked>
+      <name>ProductorPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>41e849ac-0426-4a91-9e6e-a01fcb22ba44</id>
+      <masked>false</masked>
+      <name>VerificarTextoProductor</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>2328405e-e75e-4dd7-83aa-ca16baf58e47</id>
+      <masked>false</masked>
+      <name>ApellidoTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>a610ded4-a3b3-4bf4-aea5-aadfd3c5e364</id>
+      <masked>false</masked>
+      <name>NombreTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>158a5e11-45ce-4943-a654-3009cb71be68</id>
+      <masked>false</masked>
+      <name>TextoBitacora</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>0f1b499f-9ec8-4550-a2af-875d74fa6bc1</id>
+      <masked>false</masked>
+      <name>EstadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>5a5c6e2b-6654-4246-b9af-9d13573d8d68</id>
+      <masked>false</masked>
+      <name>FiltroNombreNumerador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ReplicaPropuesta_CambioRamo').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>ee5a07fa-6b30-42a8-9f0d-bfa3256ebfac</id>
+      <masked>false</masked>
+      <name>FiltroObservacionNumerador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_PropuestaIncompleta_CompletandoDatos').getValue(36, 1)</defaultValue>
+      <description></description>
+      <id>c97e07c9-c42f-490b-997f-d6ccf7cbc128</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e865703-fdb3-4dc1-b163-0ba62a596148</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0bb43c8c-c5c2-4328-b592-48454cf9dbcc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>59e7dbf9-99bb-4aeb-99e1-480bdd939477</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6e74c8d4-ab58-497a-afe3-fc6bf6a2a73f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aa372736-fd4d-43b0-91f0-9b65f17b3ae5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73d15d29-8618-422a-99d8-f38beffceb26</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d32a3b3-d37e-4923-afc2-a199287ef5cc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1026636f-9a10-441d-9b35-1a6fc579f547</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>641acf93-ae52-44c3-a496-0884b0c67d66</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f24c823f-118c-4208-bd3e-d86d0c7f2ce0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c4ea621b-1025-406e-9af2-213a71ae3b1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9dfdec25-2713-4cee-86dd-21a0a36e2bd1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8dea6cee-10c3-47b4-9d9d-adfe9f6c500e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>0bb43c8c-c5c2-4328-b592-48454cf9dbcc</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>59e7dbf9-99bb-4aeb-99e1-480bdd939477</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>6e74c8d4-ab58-497a-afe3-fc6bf6a2a73f</id>
+      <masked>false</masked>
+      <name>numPropuestaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>aa372736-fd4d-43b0-91f0-9b65f17b3ae5</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>73d15d29-8618-422a-99d8-f38beffceb26</id>
+      <masked>false</masked>
+      <name>formaPago</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>0d32a3b3-d37e-4923-afc2-a199287ef5cc</id>
+      <masked>false</masked>
+      <name>numeroTarjeta</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>1026636f-9a10-441d-9b35-1a6fc579f547</id>
+      <masked>false</masked>
+      <name>dniTomadorNuevo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>641acf93-ae52-44c3-a496-0884b0c67d66</id>
+      <masked>false</masked>
+      <name>numEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>f24c823f-118c-4208-bd3e-d86d0c7f2ce0</id>
+      <masked>false</masked>
+      <name>dniAseguradoNuevo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_ModificandoDatos').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>c4ea621b-1025-406e-9af2-213a71ae3b1b</id>
+      <masked>false</masked>
+      <name>consultaMovimientos</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Prosperar_CasaCentral').getValue(44, 1)</defaultValue>
+      <description></description>
+      <id>9dfdec25-2713-4cee-86dd-21a0a36e2bd1</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Prosperar_CasaCentral').getValue(45, 1)</defaultValue>
+      <description></description>
+      <id>8dea6cee-10c3-47b4-9d9d-adfe9f6c500e</id>
+      <masked>false</masked>
+      <name>numPolPrecond</name>
+   </variable>
+</TestCaseEntity>

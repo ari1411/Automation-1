@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ABMProducto_EditableBase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4488349-cdf2-4b5b-a0f2-95c96801bc7c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ABMProducto_EditableBase').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>1ca7f093-5aaf-4f3c-b014-1dfd060e076b</id>
+      <masked>false</masked>
+      <name>ProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ABMProducto_EditableBase').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>7f0a2124-a9fe-4b9d-ab40-45b9e85e0409</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ABMProducto_EditableBase').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>008d6b1a-908a-48eb-a292-074fcbe772a2</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ABMProducto_EditableBase').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>9cfeefaf-cfee-43c2-b3d4-d68409c65e03</id>
+      <masked>false</masked>
+      <name>Click_Editable</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ABMProducto_EditableBase').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>afcb80d8-61e3-4aa0-9711-5f71e5dc3d3f</id>
+      <masked>false</masked>
+      <name>Click_EsBase</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ABMProducto_EditableBase').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>87df0daa-fca6-4519-807b-9c0a00e8299f</id>
+      <masked>false</masked>
+      <name>SumaAsegurada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ABMProducto_EditableBase').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>ce59c365-5c73-4d41-9ec4-cd61d1be96dd</id>
+      <masked>false</masked>
+      <name>VerificarTexto</name>
+   </variable>
+</TestCaseEntity>

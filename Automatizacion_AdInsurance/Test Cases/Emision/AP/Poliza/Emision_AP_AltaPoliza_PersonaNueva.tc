@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_AltaPoliza_PersonaNueva</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>223f30df-866b-4216-ad13-5234488dbc12</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>ab6507c7-8b7a-427b-8151-21fba9c3b6c1</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>168633e4-3140-4c0c-b8ca-9124195f6f7a</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>c2cbc6ea-dafb-4634-89ee-17597f86a425</id>
+      <masked>false</masked>
+      <name>Productor</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>266525f2-1948-4f77-812d-6300c873e2d4</id>
+      <masked>false</masked>
+      <name>ProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>3b38881c-5e81-4a19-bef9-56f2d8cca52e</id>
+      <masked>false</masked>
+      <name>SubProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>0635b483-194a-4479-a5cd-594643f858c8</id>
+      <masked>false</masked>
+      <name>VigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>862019f1-5290-4968-8c7e-916201df6740</id>
+      <masked>false</masked>
+      <name>FormaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>f3527702-cfdf-426a-bcaf-ab94fc29f1e5</id>
+      <masked>false</masked>
+      <name>PlanPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>0c6c7862-8033-4854-978d-ac49fbf5b1d8</id>
+      <masked>false</masked>
+      <name>NumeroDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>29a45bc8-17e4-46fd-907a-4ffb18528074</id>
+      <masked>false</masked>
+      <name>TipoDocumentoAseguradoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>66518a69-88c8-49d0-b348-244e0bfd6cbf</id>
+      <masked>false</masked>
+      <name>NumeroDocumentoAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>eba9131f-39ab-4ba2-8f73-47dcafcc3e30</id>
+      <masked>false</masked>
+      <name>TipoBeneficiarioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>77005f77-ae47-4d67-b7d6-7a543fb7a207</id>
+      <masked>false</masked>
+      <name>GruposActividadDefinidosId</name>
+   </variable>
+</TestCaseEntity>

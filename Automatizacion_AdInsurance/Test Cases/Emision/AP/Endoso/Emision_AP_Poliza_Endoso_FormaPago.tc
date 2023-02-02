@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_Poliza_Endoso_FormaPago</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6fde59b0-54c0-43ab-84a5-24b5caaa37c3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e49262a-1887-4d6c-a1ca-7c96c5683744</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e4a7b9fc-00ce-4531-82c4-e726b3894ab3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cb030599-fca0-4f5e-acad-4481844e4387</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e41cb4dd-436b-4b9e-9a2a-a124bae89bf7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4a9456a-bd02-442c-a3f0-86b87d1ae89c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3dbf3f7e-9bca-42ff-9b23-9c4341b85cbe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3b69a75d-8f23-4609-b0af-349f661bba97</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>9e49262a-1887-4d6c-a1ca-7c96c5683744</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>e4a7b9fc-00ce-4531-82c4-e726b3894ab3</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>cb030599-fca0-4f5e-acad-4481844e4387</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>e41cb4dd-436b-4b9e-9a2a-a124bae89bf7</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f4a9456a-bd02-442c-a3f0-86b87d1ae89c</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>3dbf3f7e-9bca-42ff-9b23-9c4341b85cbe</id>
+      <masked>false</masked>
+      <name>FormaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>3b69a75d-8f23-4609-b0af-349f661bba97</id>
+      <masked>false</masked>
+      <name>NumeroTarjeta</name>
+   </variable>
+</TestCaseEntity>

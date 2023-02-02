@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Hogar_ProsperarPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c5810ca-01e5-4d23-b37b-22371d106800</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>184b9a40-0d4f-458e-9a56-3a6674976d76</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>1959e701-4e4f-4e8e-93ce-aa98a73d3b0c</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(30, 1)</defaultValue>
+      <description></description>
+      <id>88a0cafd-6c38-453a-abab-963a49383b2a</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>33d64588-26e6-4322-86f9-9b11fb91cd3f</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>b0199055-a65a-4e4b-a4c3-d1234e48ea94</id>
+      <masked>false</masked>
+      <name>provinciaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>9c28873d-8e88-47b0-997c-6f2d01999649</id>
+      <masked>false</masked>
+      <name>localidad</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>ce20a4dc-ca61-43f2-a741-0ea46213f6b3</id>
+      <masked>false</masked>
+      <name>codigoPostal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>5d913573-8c97-4310-b16b-3c6d2079c93d</id>
+      <masked>false</masked>
+      <name>calle</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>42a8598f-7acb-48fc-9c41-26d35f81b63a</id>
+      <masked>false</masked>
+      <name>altura</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>f945a753-810e-4118-bc7e-c0ff8ab97d49</id>
+      <masked>false</masked>
+      <name>piso</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>2c42f263-29f5-495e-a399-d316ea9a99eb</id>
+      <masked>false</masked>
+      <name>departamento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>7f55b780-7b4b-4423-b9b7-34500ceac049</id>
+      <masked>false</masked>
+      <name>mtsCuadrados</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>da6c42b6-9f37-4984-b2ac-94de9c6faa19</id>
+      <masked>false</masked>
+      <name>nuevaCifra</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>7397b4ba-b099-473f-9eeb-aa0141e84471</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ProsperarPropuesta').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>17c09466-fa9a-4022-a2c4-864725f08568</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

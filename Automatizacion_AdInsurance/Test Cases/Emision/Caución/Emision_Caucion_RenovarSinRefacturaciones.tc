@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_RenovarSinRefacturaciones</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>144bb37f-0314-4bbe-b971-7dd90a75caae</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_RenovarSinRefacturaciones').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>3dbd6b6c-c63d-4460-beda-126b23cfb0c5</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_RenovarSinRefacturaciones').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>363732de-70c8-45fa-bfd9-ba3b0cc00a4c</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPersonaExistente').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>71fe9cc1-b58e-4fe9-8398-28510ada7c8e</id>
+      <masked>false</masked>
+      <name>CotizacionId</name>
+   </variable>
+</TestCaseEntity>

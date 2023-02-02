@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ModificacionPropuesta_Anulada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef62a4bf-7e31-4fcc-b744-ee1013c7c62d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>4e4303eb-d826-4077-b97d-161d0228e92b</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>018685bc-1e67-4d3e-b114-8de810a801b7</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>26d77163-759f-47b4-b272-0b85ffc584ce</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>86418a79-e930-4d00-b843-f9bac58473d9</id>
+      <masked>false</masked>
+      <name>nuevaURL1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>d1e09538-75fe-4717-a716-7927e66212ac</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>6881d096-e397-4fae-92b2-4d940557d96e</id>
+      <masked>false</masked>
+      <name>Clave</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>14d3ddfa-9931-4872-9b6b-fafdcd979442</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>1cbdfc54-27f3-4ea8-8ec6-6294ed26b1a7</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>81818431-c582-4bf7-8813-53037b02f0e5</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>b246841e-d57e-4d15-874f-e009fbd36796</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>4a94acdb-443d-4bd1-ba3a-b7f033dd3ca2</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Anulada').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>050ec1ef-d811-4d85-a92d-e4fa77680258</id>
+      <masked>false</masked>
+      <name>procesoNegocioDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuestaIncompleta_CompletandoTodosLosDatos').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>a997f811-e7fa-4b2a-9fef-bd255605cfbe</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_ProsperarPropuesta_Prorroga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>318cc091-338f-44a0-aaa5-87bedf7438fd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a841996-9401-4d0b-ac1d-9d38519e44b3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>26b345ec-8f85-41ce-aa0c-859278f03a26</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7697d04e-c7d1-4db7-a21b-8a64645a5a3e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d732c79c-456f-45ff-b2f8-c89f83b4c3e1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6cca3b37-024d-4b67-a0bf-957ebd24a48e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d18e1f2d-7292-49c7-bb95-2401eb37609b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>daef6dc2-3b7e-40ef-b0d2-4e98618230bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>249189d8-861b-4ef4-a351-f0afe4c382ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e13db45-9737-4076-9b0f-8a5eab773f97</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac95ac97-5b68-43b9-921c-2f917e0ca271</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4923777c-ded9-4a92-8165-da362e5ef747</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8cdfc99-3fd0-4b25-8cfc-967ce85fda69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7fcf8d39-23cd-48c6-868a-2fa0cf9ec68c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>7a841996-9401-4d0b-ac1d-9d38519e44b3</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>26b345ec-8f85-41ce-aa0c-859278f03a26</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>7697d04e-c7d1-4db7-a21b-8a64645a5a3e</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>d732c79c-456f-45ff-b2f8-c89f83b4c3e1</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>6cca3b37-024d-4b67-a0bf-957ebd24a48e</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>d18e1f2d-7292-49c7-bb95-2401eb37609b</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>daef6dc2-3b7e-40ef-b0d2-4e98618230bf</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>249189d8-861b-4ef4-a351-f0afe4c382ab</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>0e13db45-9737-4076-9b0f-8a5eab773f97</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>ac95ac97-5b68-43b9-921c-2f917e0ca271</id>
+      <masked>false</masked>
+      <name>estadoMovimiento0</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>4923777c-ded9-4a92-8165-da362e5ef747</id>
+      <masked>false</masked>
+      <name>estadoCotizacion0</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>d8cdfc99-3fd0-4b25-8cfc-967ce85fda69</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Prorroga').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>7fcf8d39-23cd-48c6-868a-2fa0cf9ec68c</id>
+      <masked>false</masked>
+      <name>consultaMovimientos</name>
+   </variable>
+</TestCaseEntity>

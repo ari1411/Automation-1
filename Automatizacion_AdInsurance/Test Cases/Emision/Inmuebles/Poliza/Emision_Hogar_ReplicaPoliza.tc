@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Hogar_ReplicaPoliza</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f753f7a9-ccdb-4c72-8240-589d85425b50</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPoliza').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>0c6eadbc-fa24-41a3-8fc9-2419454bf864</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPoliza').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>9d04ff22-8adc-4a20-860e-0c839f568932</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>fdc8007a-b04e-4ba8-8a41-10b565cb8833</id>
+      <masked>false</masked>
+      <name>numPolizaPrecondicion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>8688b9ea-78d4-4009-8af2-78b4456d3f53</id>
+      <masked>false</masked>
+      <name>numCotizacionPrecondicion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>361dfb12-92e0-4010-9f5d-bab244025db8</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>f3db0900-db0c-4d9e-9208-7518b8d28663</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>9f80995f-4b8b-49a3-bf9f-f4d81d0af4ff</id>
+      <masked>false</masked>
+      <name>dniTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPoliza').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>94540dd3-4d73-4a34-bed4-cfbfbb75a4d8</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPoliza').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>7e64911a-6007-408d-81f7-a23100314df3</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

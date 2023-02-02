@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ModificacionPropuesta_ConsultaPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c42a800e-c840-4279-ba57-fd5e9178b188</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ModificacionPropuesta_ConsultaPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>ad14b877-30a1-43ff-ac26-98a198be5dc0</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ModificacionPropuesta_ConsultaPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f220a62a-c6f7-4e16-9da2-31373e021ad6</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ModificacionPropuesta_ConsultaPropuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>5b32a939-e7e4-4767-b408-d25459803b71</id>
+      <masked>false</masked>
+      <name>TextoPropuestaEmitida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ModificacionPropuesta_ConsultaPropuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>11878a2d-efbc-422e-8090-d43aa68c6f2d</id>
+      <masked>false</masked>
+      <name>TextoPropuestaRechazada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ModificacionPropuesta_ConsultaPropuesta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>80a026cc-6705-48e9-a32d-859fc65a712c</id>
+      <masked>false</masked>
+      <name>TextoPropuestaAnulada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ModificacionPropuesta_ConsultaPropuesta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>fda15cce-9713-4e7f-9e5b-2161abdf10bb</id>
+      <masked>false</masked>
+      <name>ProcesoNegocioPropAnulada</name>
+   </variable>
+</TestCaseEntity>

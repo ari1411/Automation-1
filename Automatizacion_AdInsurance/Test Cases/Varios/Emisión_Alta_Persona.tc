@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emisión_Alta_Persona</name>
+   <tag></tag>
+   <comment>Verifico si se está creando una persona física o jurídica y lo almaceno en la variable EsPersonaFisica</comment>
+   <testCaseGuid>6de891ec-daf8-413b-bf76-668178660fe7</testCaseGuid>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>bfcef2ff-5721-40b7-9e6a-d35e8335cc3f</id>
+      <masked>false</masked>
+      <name>EsPersonaFisica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>322d521a-95b4-4653-8098-2cbd336ebbc0</id>
+      <masked>false</masked>
+      <name>Verif_NumDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>9c8563ad-6803-4b93-ad0e-4cbb5da6427d</id>
+      <masked>false</masked>
+      <name>Nuevo_NumDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>0d621411-f8ba-4b52-bfc9-629f1a9cbca2</id>
+      <masked>false</masked>
+      <name>EmpresaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>e6266ab6-4753-46d1-9c4c-37c1e4b721ea</id>
+      <masked>false</masked>
+      <name>TipoPersonaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>837aa070-86b7-462c-89f2-3fe6fd0b0a65</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>44a0a1fd-0b18-4a3f-86a8-0972a3d29146</id>
+      <masked>false</masked>
+      <name>SexoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>c3541419-b0b9-4dcd-9d18-0d298581efc5</id>
+      <masked>false</masked>
+      <name>Apellido</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>01ca6bf7-3d28-40dd-9c71-b364c28c5e88</id>
+      <masked>false</masked>
+      <name>Nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>b69058ef-3d98-4d39-97ed-e6d6dbb47265</id>
+      <masked>false</masked>
+      <name>NacionalidadId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>f7d2a2ef-a854-48d6-bb05-488cd4ab3813</id>
+      <masked>false</masked>
+      <name>FechaNacimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>7768ce04-7518-4438-84f5-b63ce4a4ab15</id>
+      <masked>false</masked>
+      <name>EstadoCivilId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>eb7a3672-46a6-4eb5-9b76-3e9b899e2c3e</id>
+      <masked>false</masked>
+      <name>CondicionIvaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>54fd25d2-2a71-44cd-b8ed-8ff328c9346d</id>
+      <masked>false</masked>
+      <name>TipoDomicilioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>59c7b53a-a73d-4832-9e92-f79aead8292c</id>
+      <masked>false</masked>
+      <name>PaisDomicilioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>10233d22-a951-4583-bf01-68f0389683c1</id>
+      <masked>false</masked>
+      <name>ProvinciaDomicilioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>b75e64f0-e21f-4546-ade0-8673a753e677</id>
+      <masked>false</masked>
+      <name>LocalidadDomicilio</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>f6a5c3fc-fb61-4533-93d3-7270c1d3aa15</id>
+      <masked>false</masked>
+      <name>Calle</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>20666327-c777-42db-8105-114f69d45acb</id>
+      <masked>false</masked>
+      <name>Altura</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>faa0bfac-ff33-4c88-9b80-e2e0091246f4</id>
+      <masked>false</masked>
+      <name>ProvinciaCondIIBBId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Persona').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>22f32684-3a11-4ea3-90c6-96641b0dd515</id>
+      <masked>false</masked>
+      <name>CondicionIIBBId</name>
+   </variable>
+</TestCaseEntity>

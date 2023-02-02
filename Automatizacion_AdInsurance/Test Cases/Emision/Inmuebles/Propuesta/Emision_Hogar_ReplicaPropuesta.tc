@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Hogar_ReplicaPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c64207a4-7326-4738-9ded-c1e67f6d885a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>3612562b-ff38-462f-80ad-e7444018060f</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>0d425a77-4a4e-4d08-b7f6-70e352ce429a</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPropuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>8279c69f-62e5-4d95-927e-2f49fcc3500d</id>
+      <masked>false</masked>
+      <name>variable_1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPropuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>da4a66f3-066c-4c19-afe6-d14d9aea0346</id>
+      <masked>false</masked>
+      <name>variable_2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPropuesta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>517b5821-6bad-49d8-a71c-5b9828bec630</id>
+      <masked>false</masked>
+      <name>variable_3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_ReplicaPropuesta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>0a48ae38-a9ce-4894-8fc9-6d5b9f55657d</id>
+      <masked>false</masked>
+      <name>variable_4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(30, 1)</defaultValue>
+      <description></description>
+      <id>824c280d-ee0c-444a-acb4-ebfe008096f4</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>5f579e7d-3a7f-4dd8-9348-84d783d52b73</id>
+      <masked>false</masked>
+      <name>dniTomadorOrig</name>
+   </variable>
+</TestCaseEntity>

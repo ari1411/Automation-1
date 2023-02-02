@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AutoFlota_Endoso_ReduccionSumaAsegurada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c251510d-2bb8-4f7f-8294-72fd51a4ae0e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>23f16c27-f789-4c30-9a66-24a01d522b9e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b99a0012-1555-4018-82e2-2bfc3a9e5813</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>626232af-7122-48b2-8bc8-9bedd75a8231</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cf06b36b-da44-4af8-891b-9dd7d0d22013</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6980eb78-5f73-4967-96f7-ff2134f8e40b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d30c2edb-1f13-4ebd-ac4d-a2e3cb931e89</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5a0c7ef5-84d7-47d8-b86c-6e7a8e6937e6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e12d6948-9e71-4d26-bf6c-631696e1dc3c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>910b8514-c00a-4fb4-8f7d-c5d876cd9d00</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>33b67a37-7a2d-43be-8172-c6681c7eed9f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoFlota_Endoso_ReduccionSumaAsegurada').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>23f16c27-f789-4c30-9a66-24a01d522b9e</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoFlota_Endoso_ReduccionSumaAsegurada').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>b99a0012-1555-4018-82e2-2bfc3a9e5813</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoFlota_Endoso_ReduccionSumaAsegurada').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>626232af-7122-48b2-8bc8-9bedd75a8231</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoFlota_Endoso_ReduccionSumaAsegurada').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>cf06b36b-da44-4af8-891b-9dd7d0d22013</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoFlota_Endoso_ReduccionSumaAsegurada').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>6980eb78-5f73-4967-96f7-ff2134f8e40b</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoFlota_Endoso_ReduccionSumaAsegurada').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>d30c2edb-1f13-4ebd-ac4d-a2e3cb931e89</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoFlota_Endoso_ReduccionSumaAsegurada').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>5a0c7ef5-84d7-47d8-b86c-6e7a8e6937e6</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoFlota_Endoso_ReduccionSumaAsegurada').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>e12d6948-9e71-4d26-bf6c-631696e1dc3c</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_AltaPoliza').getValue(61, 1)</defaultValue>
+      <description></description>
+      <id>910b8514-c00a-4fb4-8f7d-c5d876cd9d00</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_AltaPoliza').getValue(62, 1)</defaultValue>
+      <description></description>
+      <id>33b67a37-7a2d-43be-8172-c6681c7eed9f</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+</TestCaseEntity>

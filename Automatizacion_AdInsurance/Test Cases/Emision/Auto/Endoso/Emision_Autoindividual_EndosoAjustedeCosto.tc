@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Autoindividual_EndosoAjustedeCosto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18e7a0cc-e7bc-4380-8dab-c9c7a183f588</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8c4f59a8-e5fc-429f-b5b4-cd5964e41574</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4acf6f2d-8eb7-439e-8459-69c5e64e72c9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2c71ab77-7462-4b55-af49-1373d2c20227</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ea6a717-2e22-4816-9e7e-529cdb1fc07b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81db013e-b029-413a-81bb-8cea1633db38</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bb1bb1bc-494c-483d-b254-6dc10d28c3f2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fe2bd73-e83b-4929-ab3d-a95e7735467d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ea4f0a6-64d1-423c-86f5-588233c26fd7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2eb0582-5c20-4c8b-8a67-39ee01241e93</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35a6ea44-f4dd-464a-81cb-70456bb51c1b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebc69f1e-ef0e-48e3-a7fd-4649e3d54015</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoAjustedeCosto').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>8c4f59a8-e5fc-429f-b5b4-cd5964e41574</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoAjustedeCosto').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>4acf6f2d-8eb7-439e-8459-69c5e64e72c9</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPoliza').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>2c71ab77-7462-4b55-af49-1373d2c20227</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoAjustedeCosto').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>7ea6a717-2e22-4816-9e7e-529cdb1fc07b</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoAjustedeCosto').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>81db013e-b029-413a-81bb-8cea1633db38</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoAjustedeCosto').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>bb1bb1bc-494c-483d-b254-6dc10d28c3f2</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoAjustedeCosto').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>4fe2bd73-e83b-4929-ab3d-a95e7735467d</id>
+      <masked>false</masked>
+      <name>porcentajeDescuento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoAjustedeCosto').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>1ea4f0a6-64d1-423c-86f5-588233c26fd7</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoAjustedeCosto').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>c2eb0582-5c20-4c8b-8a67-39ee01241e93</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPoliza').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>35a6ea44-f4dd-464a-81cb-70456bb51c1b</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoindividual_EndosoAjustedeCosto').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>ebc69f1e-ef0e-48e3-a7fd-4649e3d54015</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+</TestCaseEntity>

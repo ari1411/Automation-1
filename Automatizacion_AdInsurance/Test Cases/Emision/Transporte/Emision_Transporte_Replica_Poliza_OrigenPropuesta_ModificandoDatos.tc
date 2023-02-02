@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa3228ea-2646-406d-b8f3-b0239d39d20f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>5ef0f5e4-859e-45e0-9a76-909c8fc3dd73</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>d30e0987-e36d-40cf-8986-f7e474e08651</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>be0a8acf-acd4-4eb6-8bf8-7538b49a5d95</id>
+      <masked>false</masked>
+      <name>campoNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>15b15077-0e4f-4086-858f-b459ff2e07d8</id>
+      <masked>false</masked>
+      <name>msgeErrorFaltaPropuestas2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>6b2f68d2-857b-4b87-a3fe-0b298f7ac0db</id>
+      <masked>false</masked>
+      <name>prodPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>f3202b40-ee14-4f08-997b-3ad5d7fe3742</id>
+      <masked>false</masked>
+      <name>producto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>077ecad6-4464-4043-a62b-bd01a94caea5</id>
+      <masked>false</masked>
+      <name>subproducto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>223c0a86-30cc-48ac-ba85-c608dd315ab4</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>26c12229-e3aa-4ae5-afc7-ffee33dfaec4</id>
+      <masked>false</masked>
+      <name>docTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>6e44e347-cf0b-4be0-bb11-a52a8dbd81d0</id>
+      <masked>false</masked>
+      <name>montoEstimadoTransitoAereo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>2134d6cc-1c86-48d6-876a-7aad0e4945bb</id>
+      <masked>false</masked>
+      <name>montoEstimadoAereoBasica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>4c18f881-1644-443f-a87d-4cfe28b3138e</id>
+      <masked>false</masked>
+      <name>montoEstimadoTeleportacionCuantica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>63d9a1a4-240b-4be6-838b-6b027e0abcf3</id>
+      <masked>false</masked>
+      <name>porcentajePrimaDeposito</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>55d015a4-4a7a-45c6-b071-fcb7eef97cb9</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Replica_Poliza_OrigenPropuesta_ModificandoDatos').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>bf4793ae-aa91-4ff3-bffa-571f282f81ad</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

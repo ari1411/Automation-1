@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_ProsperarPropuesta_Anulacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>12c0eb3f-f0c2-432f-95bd-c976a91aaba5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>71bbeb6b-5698-4e0f-bce0-79f45c70d025</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2e2a3d59-b4d7-4035-9fc1-e820b6c707ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6281cdbc-ffdc-4162-bcfe-f8dd3a575446</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>334476b3-5af9-4615-bda8-a3d41e0bcd11</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8b1655b-e13c-466a-9eae-f79eee5a1e0c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76d6ab50-6ad0-468f-912b-3b3047047149</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>17cd456d-da8b-4d75-9121-7e60a908bd17</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86c1b1e7-cbcd-4876-94d6-583a05e27f45</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21b27271-7f74-4684-9198-5e8377b961f2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28d656d7-2b6b-4b6c-bd8a-e5db6e2d0a4c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7852a468-34f3-48a3-9bf2-90d300e2f370</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e1d4ce2d-c7f0-47cb-994c-1733e6a604c8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>71bbeb6b-5698-4e0f-bce0-79f45c70d025</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>2e2a3d59-b4d7-4035-9fc1-e820b6c707ab</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>6281cdbc-ffdc-4162-bcfe-f8dd3a575446</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>334476b3-5af9-4615-bda8-a3d41e0bcd11</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>d8b1655b-e13c-466a-9eae-f79eee5a1e0c</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>76d6ab50-6ad0-468f-912b-3b3047047149</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>17cd456d-da8b-4d75-9121-7e60a908bd17</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>86c1b1e7-cbcd-4876-94d6-583a05e27f45</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>21b27271-7f74-4684-9198-5e8377b961f2</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>28d656d7-2b6b-4b6c-bd8a-e5db6e2d0a4c</id>
+      <masked>false</masked>
+      <name>estadoMovimiento0</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>7852a468-34f3-48a3-9bf2-90d300e2f370</id>
+      <masked>false</masked>
+      <name>estadoCotizacion0</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Anulacion').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>e1d4ce2d-c7f0-47cb-994c-1733e6a604c8</id>
+      <masked>false</masked>
+      <name>estadoPolizaDeseado</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83394093-6655-49ca-9270-b50cce4dafb1</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>bf9ada19-e5af-44f5-b8aa-b4e44df08dd7</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>ccf18e01-3a08-4a8a-8365-a4b746dd3ae6</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>d3ce6349-793b-4fbf-ae65-342fb0f6f24a</id>
+      <masked>false</masked>
+      <name>nuevaURL1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>84df67a3-e323-4267-be29-2ae7517c3eea</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>69d33752-f922-4046-9f6e-fe79dce7e832</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>832453be-91a2-4089-93ee-01cdb3fa9183</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>cf2317b8-3366-4aee-98e7-2e23cbc9354b</id>
+      <masked>false</masked>
+      <name>nuevaURL2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>355a3a33-519c-443d-b2a3-e19814393b63</id>
+      <masked>false</masked>
+      <name>numPropuestaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPolizaOrigenPropuesta_SinModificarDatos').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>db268e3e-16b8-4206-8ebe-515aa88b2842</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Prosperar_CasaCentral').getValue(44, 1)</defaultValue>
+      <description></description>
+      <id>5e892e15-a6b7-4c8f-9131-5b1ef878ee72</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

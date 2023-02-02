@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AutoIndividual_AltaPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bdc5265-8949-4b9f-9f01-91d9ea56889e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>31081e15-febe-4978-bfce-a6763001cd52</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>5e3b675c-dfcb-4c01-be13-55eb6de9d60b</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>53908ba6-4477-4d1b-918f-8eedf8e5d6e1</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>dae63dda-ca3d-48e8-9db8-902e3f326a15</id>
+      <masked>false</masked>
+      <name>ProductorPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f27fe4d6-94fb-4fea-9775-797a86d36118</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>86941bb3-2af5-45ab-8714-cbc38926951a</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>69ff4975-a51e-4392-aae6-79a1af7356c4</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NUP</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>639f8be7-e0bd-4cc2-a9de-2674fbfc0079</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>fdca1b84-3e0a-44ae-98ed-2515cc45351e</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>98095db7-13b2-43bf-be7b-7dff9aa20427</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>6fbb12e2-8a4f-4cbc-8476-cc877b2c1dc8</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>9b90ad4c-caf4-4fd9-ac3b-347974a4ba7d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>719111a6-c907-4180-8184-8f3fbd71c084</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>46902bd6-138b-47ca-82f2-6ef34b7124cd</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>b0460516-e7fd-4e46-b0de-99347635f5ea</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>6bf3b1f6-0628-4a31-abec-a76a545dac5d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>d8888e84-9d92-4f7c-bb58-813d5135c85f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>665f7f74-1163-429a-b768-b9d2ac14758a</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>f35b153b-730e-4341-be40-84f45b5da935</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>78b79648-b931-4579-8db9-5807f50ce418</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>79b004de-d5d4-4df6-a7f3-3dc13fbad1e3</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>a7d4b508-6c5f-4e69-b171-babd7cd005d3</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>feb24c96-6993-46e4-9a50-12acbe16937c</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>1e1523c1-f049-43c1-8235-bcc8a867a717</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>e5876f25-d6db-4f7c-ae03-0808810c9c15</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>130c5e12-7fad-4a55-990c-e8d0d012577d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>284c6fd1-bc99-4e90-8451-167e61a25541</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>c2c56608-d81c-42be-9f9f-6f06f417de26</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>69853256-1343-4604-b140-5f3a09014785</id>
+      <masked>false</masked>
+      <name>nCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPropuesta').getValue(30, 1)</defaultValue>
+      <description></description>
+      <id>dcaa85c9-386f-48ac-8127-e21e490c48dd</id>
+      <masked>false</masked>
+      <name>nPropuesta</name>
+   </variable>
+</TestCaseEntity>

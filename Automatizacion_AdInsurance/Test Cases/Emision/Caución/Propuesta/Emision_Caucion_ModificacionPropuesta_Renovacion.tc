@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ModificacionPropuesta_Renovacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e45afbb-6cd2-4bc9-8ad1-75e858b728dc</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Renovacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>9a000846-9922-4086-b9bb-69121a05f015</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Renovacion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>a089534b-d98e-4f69-848e-995e10568a26</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Renovacion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>16662da2-d56e-487c-8b75-c83907aef4b0</id>
+      <masked>false</masked>
+      <name>ProcesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Renovacion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>5aa9c810-fe0d-4ea7-b6e7-768a635f31b3</id>
+      <masked>false</masked>
+      <name>linkConsultaMovimientos</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Renovacion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>216c37c9-cdee-4907-8d86-99776ea6fe84</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Renovacion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>951bf0f7-f9df-4668-b87c-43fe12696486</id>
+      <masked>false</masked>
+      <name>estadoPolizaIndeseado</name>
+   </variable>
+</TestCaseEntity>

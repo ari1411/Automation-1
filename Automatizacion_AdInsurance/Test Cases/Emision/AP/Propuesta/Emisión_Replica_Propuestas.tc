@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emisión_Replica_Propuestas</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f7b6743-7fe0-4514-bce3-99816f9db367</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ed827dda-c70c-42c4-8068-b8b44ab4df39</id>
+      <masked>false</masked>
+      <name>NumeroPropuesta</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>69194a22-10d2-42e0-8951-ae9e4929275c</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>3349802d-3972-45ec-9163-ebbdb35a8925</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>2a8a6420-b1af-4282-88d5-5c2d52e37587</id>
+      <masked>false</masked>
+      <name>NewSubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>abf82490-3628-4f67-8028-51e6340ee1be</id>
+      <masked>false</masked>
+      <name>ProcesoNegocioPolizaNvaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>61177c08-fb2b-4c68-aa57-9808de878595</id>
+      <masked>false</masked>
+      <name>ProcesoNegocioEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>9bb7262d-eed2-4a96-9a32-f68c0d3ad5c7</id>
+      <masked>false</masked>
+      <name>PolizaOrigen</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>58240426-200e-4a3d-a2a4-eea143ae2fdb</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>aa35a825-469b-44dc-8c5a-868a684c0553</id>
+      <masked>false</masked>
+      <name>CUIL_CUIT</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>90d8ba37-bfbe-49b0-85b3-0226284bcdd7</id>
+      <masked>false</masked>
+      <name>TipoPersonaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>635d8010-36da-4c51-8483-a731a70ec181</id>
+      <masked>false</masked>
+      <name>ProductorPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>4fa66b40-adb3-43e5-b3f6-0bb46ac7e642</id>
+      <masked>false</masked>
+      <name>TipoOperacionVerif</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>a31c43ce-9b8e-403a-940a-0306e0ffd3d5</id>
+      <masked>false</masked>
+      <name>AmbitoCoberturaVerif</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Replica_Propuestas').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>a19cbba1-bb26-4693-85ed-4539bb8f22ff</id>
+      <masked>false</masked>
+      <name>PolizaSISE</name>
+   </variable>
+</TestCaseEntity>

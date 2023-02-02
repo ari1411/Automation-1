@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ReplicaPoliza_SinModificarDatos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0305a482-9a49-4d52-9e2f-caa2c92cae28</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPoliza_SinModificarDatos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>5d7e2f46-47b5-40fd-8897-c32b930b951b</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPoliza_SinModificarDatos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>52dd11f0-e444-430b-8695-dd32014ea699</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPoliza_SinModificarDatos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>e532a46b-e5bf-4d8e-9ad9-533d6bb59533</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPoliza_SinModificarDatos').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>925cfb30-4432-4fd9-a6f0-1604c861d48e</id>
+      <masked>false</masked>
+      <name>estadoPolizaIndeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ReplicaPoliza_SinModificarDatos').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>b8c9c384-980e-46f9-a03d-74b04435d77f</id>
+      <masked>false</masked>
+      <name>msgeErrorFaltaPropuestas2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaExistente').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>6c7522f5-7101-41f8-9104-1f3442bee277</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

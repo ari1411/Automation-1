@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_FiltrosAvanzadosPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2064fca-0349-4b27-8443-ddb23d9a30e4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>844cc7fa-0bf9-4339-bf69-6b24fbac80b1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_FiltrosAvanzadosPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>844cc7fa-0bf9-4339-bf69-6b24fbac80b1</id>
+      <masked>false</masked>
+      <name>numDoc</name>
+   </variable>
+</TestCaseEntity>

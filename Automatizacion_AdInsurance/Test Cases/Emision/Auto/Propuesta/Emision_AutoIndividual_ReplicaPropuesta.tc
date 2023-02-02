@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AutoIndividual_ReplicaPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88c5ee20-f301-4c48-bd59-8251917ae077</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>7c73c299-e918-4dd5-b833-0cace975861d</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f02c8456-acbb-46cd-929f-cfcf1ed8f3c9</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPropuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>8f542c47-48aa-4eb3-a48f-8205efb87c06</id>
+      <masked>false</masked>
+      <name>NumeroCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPropuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>bf292f44-4d9b-40c6-b2ec-5608118091b5</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPropuesta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>e1b85609-0886-4906-b3e9-f5a1d22321a7</id>
+      <masked>false</masked>
+      <name>nCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPropuesta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>8f09b997-4c35-4618-bed8-009df18577d0</id>
+      <masked>false</masked>
+      <name>nPropuesta</name>
+   </variable>
+</TestCaseEntity>

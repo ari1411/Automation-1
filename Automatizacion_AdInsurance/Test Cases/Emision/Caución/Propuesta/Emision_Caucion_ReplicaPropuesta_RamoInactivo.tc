@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ReplicaPropuesta_RamoInactivo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3162401-e172-42ce-a94b-1aee8525fb2e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPropuesta_RamoInactivo').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>5f451be9-4cbf-49c5-b979-a6e7f82dd5b2</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPropuesta_RamoInactivo').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>c11f1cd0-a1ab-4608-98e3-3e60a51dbe73</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+</TestCaseEntity>

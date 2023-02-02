@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_ReplicaPoliza_OrigenPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f081209-ab25-4d24-a6f1-f105a258b223</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_OrigenPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>974b9d44-657f-465d-b81d-3c4f64756a7f</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_OrigenPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>611fbfe5-3a64-40ff-838d-94147b64f1e1</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_OrigenPropuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>0969e7d5-2cd4-4b1b-959e-514ec839e078</id>
+      <masked>false</masked>
+      <name>campoNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_OrigenPropuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>ccb1d783-03a3-4b98-a2ac-4c7e8207704a</id>
+      <masked>false</masked>
+      <name>msgeErrorFaltaPropuestas2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_OrigenPropuesta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>0ddaace3-1f23-4fd9-a27a-730db6808f19</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_OrigenPropuesta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>79d3cd45-4c2b-40bb-a0b9-f464ee57633e</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPoliza_OrigenPropuesta').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>f98c7286-b1b8-407f-9284-2873270a3644</id>
+      <masked>false</masked>
+      <name>numPolizaPrevio</name>
+   </variable>
+</TestCaseEntity>

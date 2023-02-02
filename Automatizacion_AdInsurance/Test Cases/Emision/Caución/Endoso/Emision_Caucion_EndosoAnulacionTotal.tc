@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_EndosoAnulacionTotal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98e2bf22-9380-41f8-9c1e-9baff581cd55</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_EndosoAnulacionTotal').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>75130409-e7a7-4a29-a0e6-cdc7cfa55863</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_EndosoAnulacionTotal').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>759bdf52-edcf-4fca-b277-b1762d7f5504</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_EndosoAnulacionTotal').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>1a9c7a83-31e9-47f3-972e-c104b73b252f</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_EndosoAnulacionTotal').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>3cfeff32-6e7e-428a-9899-276bb4152c74</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_EndosoAnulacionTotal').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>16f3c810-4876-4dd3-b177-38263933ee46</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_EndosoAnulacionTotal').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>d7b56ad0-6640-4d75-a006-7b6614831377</id>
+      <masked>false</masked>
+      <name>estadoPolizaIndeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_EndosoAnulacionTotal').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>49d62d14-f881-4c50-9b7e-628d66860582</id>
+      <masked>false</masked>
+      <name>msgeError</name>
+   </variable>
+</TestCaseEntity>

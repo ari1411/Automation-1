@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ariel_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>93dd64af-d9d0-4136-abfa-c3d1e7f91559</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ef57ec0-4a25-43c2-8589-21347550d9b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ef57ec0-4a25-43c2-8589-21347550d9b6</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

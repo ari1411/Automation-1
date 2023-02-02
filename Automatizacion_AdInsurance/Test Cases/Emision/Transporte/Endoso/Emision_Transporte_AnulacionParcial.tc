@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_AnulacionParcial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>074487fd-bb9a-45f3-88d9-1af4d242b739</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be076353-a110-4a69-8237-959f2e53e491</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>454545b5-a385-4b91-b181-e1b901aa1cbc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>85ca515c-9149-4c98-afb4-3b80b2d6213b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a999a54b-0d7e-48db-bf9d-af7b17f6700d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fffd33d9-875e-40e1-b031-77770556c130</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1d6e050-7400-4758-b2d6-9809c8936220</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>37d2470d-72cb-49c2-a97b-b55c600d8bcd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a0cabe9-58e8-499e-8250-7040d95e6a15</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_AnulacionParcial').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>be076353-a110-4a69-8237-959f2e53e491</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_AnulacionParcial').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>454545b5-a385-4b91-b181-e1b901aa1cbc</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_AnulacionParcial').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>85ca515c-9149-4c98-afb4-3b80b2d6213b</id>
+      <masked>false</masked>
+      <name>nPolizaPrecondicion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_AnulacionParcial').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>a999a54b-0d7e-48db-bf9d-af7b17f6700d</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_AnulacionParcial').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>fffd33d9-875e-40e1-b031-77770556c130</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_AnulacionParcial').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>c1d6e050-7400-4758-b2d6-9809c8936220</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_AnulacionParcial').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>37d2470d-72cb-49c2-a97b-b55c600d8bcd</id>
+      <masked>false</masked>
+      <name>TextoTipoEndoso</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Transporte_AnulacionParcial').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>3a0cabe9-58e8-499e-8250-7040d95e6a15</id>
+      <masked>false</masked>
+      <name>TextoEstadoResumen</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_AltaPropuestaAnulacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1abe2d81-129f-4711-a885-ddb62f67a546</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f451be9-4cbf-49c5-b979-a6e7f82dd5b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c11f1cd0-a1ab-4608-98e3-3e60a51dbe73</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8b8e2cc4-dd7e-4dcc-9bcd-7a0d26940bfe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac2b90bb-0a53-40cc-8625-1ad9614b5cd3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ac7f0d1-3da8-4c9c-82a9-80c5300d21e4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>45bcbc8d-d1fb-40b1-9117-c7fc8400126b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5166ef23-2ce4-4f10-b946-6c1556c71ae3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>814cf1ec-2165-46c7-af1c-abfe79c2e4e7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62e3e185-59d6-45db-9188-31f544c634e5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>82641e4e-2b88-4c6e-977a-fbf8bbdb2701</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d3fadce3-e8a6-4ae8-8592-1245a50f7e69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07744950-350e-4948-b3e0-3e214a10d48e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>5f451be9-4cbf-49c5-b979-a6e7f82dd5b2</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>c11f1cd0-a1ab-4608-98e3-3e60a51dbe73</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>8b8e2cc4-dd7e-4dcc-9bcd-7a0d26940bfe</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>ac2b90bb-0a53-40cc-8625-1ad9614b5cd3</id>
+      <masked>false</masked>
+      <name>ProductorPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>5ac7f0d1-3da8-4c9c-82a9-80c5300d21e4</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>45bcbc8d-d1fb-40b1-9117-c7fc8400126b</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>5166ef23-2ce4-4f10-b946-6c1556c71ae3</id>
+      <masked>false</masked>
+      <name>TextoProcesoNegocio</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>814cf1ec-2165-46c7-af1c-abfe79c2e4e7</id>
+      <masked>false</masked>
+      <name>GrupoEndosoIdProsperar</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>62e3e185-59d6-45db-9188-31f544c634e5</id>
+      <masked>false</masked>
+      <name>EndosoIdProsperar</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>82641e4e-2b88-4c6e-977a-fbf8bbdb2701</id>
+      <masked>false</masked>
+      <name>CausaEndosoProsperar</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPropuestaAnulacion').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>d3fadce3-e8a6-4ae8-8592-1245a50f7e69</id>
+      <masked>false</masked>
+      <name>linkConsultaPropuestas</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPersonaExistente').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>07744950-350e-4948-b3e0-3e214a10d48e</id>
+      <masked>false</masked>
+      <name>nPolizaPrecond</name>
+   </variable>
+</TestCaseEntity>

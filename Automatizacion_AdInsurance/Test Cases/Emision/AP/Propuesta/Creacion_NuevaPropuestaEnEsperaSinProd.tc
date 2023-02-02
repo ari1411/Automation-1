@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creacion_NuevaPropuestaEnEsperaSinProd</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dbb64261-fa17-4050-9db9-e19a32da519f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>79748957-dadd-476a-80cc-bf02eedbc77d</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>b108ba6f-0459-422a-8460-7670eb5dda50</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>25399a66-9416-4f9c-874c-7618c14c98a9</id>
+      <masked>false</masked>
+      <name>consultaPropuestas</name>
+   </variable>
+</TestCaseEntity>

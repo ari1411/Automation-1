@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_RenovarSinValidaciones</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6e2f56a5-8dad-4770-abc9-1c6e38d7b5f9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>11e3ed04-cd63-4458-a50e-e0c7ea945dd2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>240bd66f-dea2-410e-a518-a9c0ea986114</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e577b4d2-e3f1-4164-9201-8d62cf47eb42</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>68586a5b-a168-48f4-a1d2-42a2ab080bd5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50f8551a-5d22-4564-9dac-4e0cef3fbabb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d7e4e8d3-8cbd-4604-b777-b4335657df3c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>48724b54-039c-498d-958b-14ab642ccba2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RenovarSinValidaciones').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>11e3ed04-cd63-4458-a50e-e0c7ea945dd2</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RenovarSinValidaciones').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>240bd66f-dea2-410e-a518-a9c0ea986114</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaExistente').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>e577b4d2-e3f1-4164-9201-8d62cf47eb42</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RenovarSinValidaciones').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>68586a5b-a168-48f4-a1d2-42a2ab080bd5</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RenovarSinValidaciones').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>50f8551a-5d22-4564-9dac-4e0cef3fbabb</id>
+      <masked>false</masked>
+      <name>numEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RenovarSinValidaciones').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>d7e4e8d3-8cbd-4604-b777-b4335657df3c</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_RenovarSinValidaciones').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>48724b54-039c-498d-958b-14ab642ccba2</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

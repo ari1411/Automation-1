@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_LogMailRechazo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a2c429d2-a66a-4c86-8a16-150a7f5e73df</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e203e26c-a5c8-4837-8e8c-c13218638bea</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>093f2f97-c664-46af-a17c-9142c13a7b58</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1202a241-8735-4da8-9bd2-468e3ed31229</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>704f9326-6cfa-43df-90f4-cd0d816aed1e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>86784847-52cd-47ca-8c47-7c15ca434726</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a1a5592-52af-45b1-9a79-d4d2fe55c11c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuestaAceptada').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>e203e26c-a5c8-4837-8e8c-c13218638bea</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_LogMailRechazo').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>093f2f97-c664-46af-a17c-9142c13a7b58</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_LogMailRechazo').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>1202a241-8735-4da8-9bd2-468e3ed31229</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_LogMailRechazo').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>704f9326-6cfa-43df-90f4-cd0d816aed1e</id>
+      <masked>false</masked>
+      <name>motivoRechazoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_LogMailRechazo').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>86784847-52cd-47ca-8c47-7c15ca434726</id>
+      <masked>false</masked>
+      <name>mailRechazo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_LogMailRechazo').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>3a1a5592-52af-45b1-9a79-d4d2fe55c11c</id>
+      <masked>false</masked>
+      <name>observacionRechazo</name>
+   </variable>
+</TestCaseEntity>

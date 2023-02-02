@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_Poliza_EndosoCambioTomador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>881eeccf-7114-41ca-848c-e2c635856e4e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_EndosoCambioTomador').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>11df5bcc-3e86-48d6-83eb-79378d7d2748</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_EndosoCambioTomador').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>d559eef5-15f5-4cf1-ace9-d591a782c9f1</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>721cc479-7084-4863-8484-fa74abb19519</id>
+      <masked>false</masked>
+      <name>numPolizaBase</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_EndosoCambioTomador').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>1c311334-4150-4bb4-bde3-680aec0b58fd</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_EndosoCambioTomador').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>2e4d54b7-18d1-4bc9-ac4f-e618f700e6da</id>
+      <masked>false</masked>
+      <name>tipoEndosoId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_EndosoCambioTomador').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>2a3e87d1-89c4-4422-803b-2a8e0b1e3d59</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_EndosoCambioTomador').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>7170873a-c73c-4ce4-8e05-9298773ef112</id>
+      <masked>false</masked>
+      <name>apellidoTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_EndosoCambioTomador').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>ab4f4ddf-2688-497d-852a-237f88f6147d</id>
+      <masked>false</masked>
+      <name>nombreTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_EndosoCambioTomador').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>9e70790b-9332-470d-890f-4bace4d42e8e</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+</TestCaseEntity>

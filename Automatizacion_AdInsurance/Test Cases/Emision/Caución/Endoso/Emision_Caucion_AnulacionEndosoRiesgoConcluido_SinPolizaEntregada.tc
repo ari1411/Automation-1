@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd120091-5890-401a-99df-118443b1e358</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>3ef35411-b5b0-4b2b-882f-728b29d141b4</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>2a1a3b10-5118-4d86-a92a-b1182ddd0427</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_EndosoRiesgoConcluido_SinPolizaEntregada').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>44cad947-d891-4c32-8d9c-7a9b39fd95f2</id>
+      <masked>false</masked>
+      <name>numCotizacionPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>fbd12890-05f7-487f-8f21-3ea6197de57a</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>9d012f29-c9bb-4bc4-b490-2c0c00069ad3</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f4f0db88-9e2b-46ef-aa04-e8141302441c</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>0aba98e4-d3ee-4618-8614-3a3de193ecc5</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>b005a476-a094-4368-81cf-853d24e87e12</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>a4c8213f-24fd-476b-9125-42fd906dde03</id>
+      <masked>false</masked>
+      <name>grupoEndosoId0</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>e2a64dfd-d112-4edf-a348-378dc2982b06</id>
+      <masked>false</masked>
+      <name>tipoEndosoId0</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>c574c184-5f32-4500-ad9b-4cf600586822</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId0</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>40fdc01f-cb85-4d0a-a12b-ab435a098205</id>
+      <masked>false</masked>
+      <name>estadoResumenDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>e1bb364d-01a7-4388-b2e5-34ea0c4ba88b</id>
+      <masked>false</masked>
+      <name>grupoEndosoId1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>45292212-6608-425a-b165-3191e1651a4c</id>
+      <masked>false</masked>
+      <name>tipoEndosoId1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>b329dee4-7c88-4df0-a3a8-f823b0c5f428</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>3f17ec4b-9244-460d-9607-96af7bb95b54</id>
+      <masked>false</masked>
+      <name>formaPagoIdVisa</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>afb5c17d-5b6f-4dd0-9a46-f50ddc67ecc6</id>
+      <masked>false</masked>
+      <name>formaPagoIdCupon</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>c3bf5cb5-3d12-4b5c-881f-fb0d9730218c</id>
+      <masked>false</masked>
+      <name>NumeroTarjeta</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>75f3f104-2f05-4d62-a4fe-a4d23cb486f1</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>36abbd90-f98f-4b96-97a6-8e5caa0c476c</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>3f0ce3f4-708b-4f7b-8e32-6663f17da20b</id>
+      <masked>false</masked>
+      <name>TipoEndosoId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>8fbbbdfb-d439-4e7c-8314-39bb35404892</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>7bce3e24-ff86-47b3-9758-074c8645b31a</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AnulacionEndosoRiesgoConcluido_SinPolizaEntregada').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>3a1020c2-f10c-4580-a707-8a9b3d6e9d80</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado2</name>
+   </variable>
+</TestCaseEntity>

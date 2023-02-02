@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_PropuestaIncompleta_SinDatos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f421a2ec-38c9-4fbf-8eb1-b770e214164c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_PropuestaIncompleta_SinDatos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>02949348-ee30-4edf-bb1b-a241f331085a</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_PropuestaIncompleta_SinDatos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>2ede8dee-2053-480a-80b3-a6226f78a43a</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_PropuestaIncompleta_SinDatos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>78d0541b-f45a-4c4e-8e91-a1bfc1ed77ad</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+</TestCaseEntity>

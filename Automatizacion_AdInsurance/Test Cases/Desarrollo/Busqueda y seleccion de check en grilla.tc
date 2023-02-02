@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Busqueda y seleccion de check en grilla</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a9262b9-9a1c-4cd2-bc05-0760dbc4aa26</testCaseGuid>
+   <variable>
+      <defaultValue>'ACCIDENTES PERSONALES'</defaultValue>
+      <description></description>
+      <id>43da27cf-981b-4a84-89f6-3583fce7eab9</id>
+      <masked>false</masked>
+      <name>Ramo1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Accidentes personales'</defaultValue>
+      <description></description>
+      <id>95b8c367-353d-4abc-89ce-a165e272a977</id>
+      <masked>false</masked>
+      <name>SubRamo1</name>
+   </variable>
+   <variable>
+      <defaultValue>'CAUCION'</defaultValue>
+      <description></description>
+      <id>83dc89c8-663e-4c96-8996-555fb0452137</id>
+      <masked>false</masked>
+      <name>Ramo2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Caución'</defaultValue>
+      <description></description>
+      <id>430edba6-1aa9-41e7-89d9-495377dce4ca</id>
+      <masked>false</masked>
+      <name>SubRamo2</name>
+   </variable>
+</TestCaseEntity>

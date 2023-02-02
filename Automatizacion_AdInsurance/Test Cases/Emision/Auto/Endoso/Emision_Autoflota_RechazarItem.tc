@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Autoflota_RechazarItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4fb208f-8d38-4204-8b26-4bbf9be3d9b2</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>2fb990be-0600-4df1-bc40-f74922a15538</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>788571b8-1465-4298-ba73-8c78e81a7026</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>5af5d221-d773-4e57-8715-24362fc8805f</id>
+      <masked>false</masked>
+      <name>nPolizaAlta</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>c0007706-2bc5-443d-b8ee-8b439f3f5ee8</id>
+      <masked>false</masked>
+      <name>NumeroEndoso</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>90d9554a-6bb0-460f-99b9-aab7b160ff81</id>
+      <masked>false</masked>
+      <name>EstadoPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>a3ee8336-8e89-46ba-b2ba-d7cafc21e23d</id>
+      <masked>false</masked>
+      <name>GrupoEndoso</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>ee730633-b0e7-4f00-a789-27f112bf783b</id>
+      <masked>false</masked>
+      <name>Endoso</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>27973409-271a-4d69-84c1-0649118e8864</id>
+      <masked>false</masked>
+      <name>Causa</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>b149a5f9-feb9-4f4e-beee-65e9f4df23e7</id>
+      <masked>false</masked>
+      <name>nFilaAutoExcluir</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_RechazarItem').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>7e52de53-704b-4490-a24e-b441916819a1</id>
+      <masked>false</masked>
+      <name>TextoTipoEndoso</name>
+   </variable>
+</TestCaseEntity>

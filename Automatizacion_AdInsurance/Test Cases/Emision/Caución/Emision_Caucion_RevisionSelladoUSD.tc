@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_RevisionSelladoUSD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20926c8d-b980-4737-91ba-493936e0468c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>c9729de8-3be4-44c9-b880-94e49654fe1c</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>60287fa1-8a7b-414c-97b2-e30fcbd45411</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>414c7f81-802b-4585-b303-50421f447592</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>3f5831d0-15bc-4001-b7bc-44618a460828</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>cc804447-0dde-43b4-b6a8-33325ed8bca5</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>7d715aa5-4a8d-4168-85ac-a765da6aeeb8</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>b443871d-69c7-4214-bea0-755d82bf353b</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>11409bf8-0cac-4de1-9964-a42e36e6a44f</id>
+      <masked>false</masked>
+      <name>vigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>7eb7700a-7fe7-4391-8b6a-7879f0edcdf1</id>
+      <masked>false</masked>
+      <name>formaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>fce3b0f8-8e25-4763-8042-58620a381868</id>
+      <masked>false</masked>
+      <name>moneda</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>158a3853-6b21-41c6-96e0-bc5e4307f4f6</id>
+      <masked>false</masked>
+      <name>sumaAsegurada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>771c8e38-bce8-47d2-bc21-41e1aaf58391</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_RevisionSelladoUSD').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>fb6e73ce-5110-4e9f-b8c9-74e533b73063</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

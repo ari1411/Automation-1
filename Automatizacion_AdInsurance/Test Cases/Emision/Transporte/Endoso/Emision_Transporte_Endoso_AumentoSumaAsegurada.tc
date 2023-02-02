@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_Endoso_AumentoSumaAsegurada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2320424-1fae-44e9-a230-b720fea2ece8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9ca79e3-0aba-447c-a46b-cf1c3c2e9997</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ac32e285-8dea-4130-b4f9-27ffa0e339ba</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2f7493a-ce5f-46aa-916b-5abe1fe7dfd7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b164858d-3d01-45b1-8a51-06ca86cecd9b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>151bf482-1d03-4047-a5d6-52b485875a1d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd40d734-1f06-44e2-b1b4-27f09fc9a99a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>50cc1ba9-ec2f-4463-a5f0-e8478112dde4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e576b718-30aa-4501-9d0f-899fabe181b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b268106-d36c-4b90-9f64-5acc2d5764bc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoSumaAsegurada').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>e9ca79e3-0aba-447c-a46b-cf1c3c2e9997</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoSumaAsegurada').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>ac32e285-8dea-4130-b4f9-27ffa0e339ba</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoSumaAsegurada').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>e2f7493a-ce5f-46aa-916b-5abe1fe7dfd7</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoSumaAsegurada').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>b164858d-3d01-45b1-8a51-06ca86cecd9b</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoSumaAsegurada').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>151bf482-1d03-4047-a5d6-52b485875a1d</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoSumaAsegurada').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>fd40d734-1f06-44e2-b1b4-27f09fc9a99a</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoSumaAsegurada').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>50cc1ba9-ec2f-4463-a5f0-e8478112dde4</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>e576b718-30aa-4501-9d0f-899fabe181b9</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoSumaAsegurada').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>6b268106-d36c-4b90-9f64-5acc2d5764bc</id>
+      <masked>false</masked>
+      <name>montoEstimado</name>
+   </variable>
+</TestCaseEntity>

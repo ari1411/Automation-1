@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_FiltrosBasicosPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b95513ee-a48f-47d8-9dd8-630be4ed8d58</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ddc5f4f5-b81e-4292-9f23-5508999773bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9b56f24-4cc4-4381-9412-3b55daab7f6c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a3fae06-778c-4620-9075-b47e9555a903</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_FiltrosBasicosPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>ddc5f4f5-b81e-4292-9f23-5508999773bf</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_FiltrosBasicosPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>e9b56f24-4cc4-4381-9412-3b55daab7f6c</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuestaAceptada').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>6a3fae06-778c-4620-9075-b47e9555a903</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

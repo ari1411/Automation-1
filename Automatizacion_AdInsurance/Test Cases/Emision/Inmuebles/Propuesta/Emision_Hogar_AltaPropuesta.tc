@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Hogar_AltaPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c424c85-e022-4e16-948c-0401038c39d2</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>88197329-604b-4804-9fd3-58d9f99b8bf9</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>bee4582a-ce12-4c65-97b4-676e330e34de</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>5ae1148e-8c8a-41ab-b707-ac51404aa293</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>7d2344bd-db78-4fd5-90cc-8c2fc4645de1</id>
+      <masked>false</masked>
+      <name>ProductorPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>adba7215-ca7a-4a02-b86f-56cd81f7abeb</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>90e8670e-ffcf-4833-9da8-b80a82dc1fdd</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>5dad79fe-d423-432c-ad68-58d60779b5de</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>066c6eb3-8b73-431a-a2a0-02e8d6154fc8</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>7dc30c7e-77a9-4a94-98e7-4bb43d6d2337</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>f19095e8-adc1-4ea1-ae3f-0c45e4836b5b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>53313a0d-b9a6-44a6-a69a-dca8f20e0829</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>223ab20d-fdb1-4980-94c6-13335a16148a</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>ec5617b0-071f-4a78-82c3-2011df251f31</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>b693a5a1-e3ce-4609-84a7-ebd54edf0c54</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>15a55480-5f58-48ec-8c27-990e2a235f21</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>f994929d-ebb4-491b-bdba-db58159f60f9</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>4d6ed42c-1cee-4a45-9d35-f5168b0f23fe</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>fd0020a7-f740-4f6f-aaf7-618064a61efd</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_EqTec</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>47221033-a6ad-479c-b4bc-8e6f98013398</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>b424a2a2-9721-4a49-ae9b-954e66a4633d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>36aed8f6-adb0-4f94-a63f-6224904019e9</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>6b924350-ad57-4352-a0fa-276614c449fa</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>4137291c-b9a4-4620-b773-c240a46c61b3</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>be3bfeeb-fee3-4a53-b5bd-a9e99fca2645</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>876b0125-a5c7-4514-989e-e8f9d1c26155</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>cdaa15cd-6e86-4565-a093-54027c142577</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>a3322b77-c955-4f82-ae1e-7490a4a932d0</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>95177681-ff47-4aa4-892b-82df3f7152fd</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPropuesta').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>e3d31d82-3c73-4aba-a16a-d8790b895659</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+</TestCaseEntity>

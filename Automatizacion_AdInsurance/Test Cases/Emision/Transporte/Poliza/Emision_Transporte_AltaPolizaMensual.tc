@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_AltaPolizaMensual</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edc6c591-fbfa-40f9-8909-d03719da1cb6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3ff87b14-c17b-48c5-8809-8bb6becad729</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0ee487f-c63a-4f0b-a628-f710f38596df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ba9db16-b1e4-41cc-9239-5abbd92812a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>928c778f-a962-4dad-930e-429195667503</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8918dda3-a00a-4fe8-9e26-d3f74ec2e131</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8393e2d4-aa55-40d3-8962-a313db4c05d2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51ef0aa3-1566-412e-bbe1-839d213afe54</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>39983a98-7e9b-45d5-b1a5-5538444569af</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>046a3951-7331-4004-a107-4884167c9ba1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>3ff87b14-c17b-48c5-8809-8bb6becad729</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f0ee487f-c63a-4f0b-a628-f710f38596df</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>5ba9db16-b1e4-41cc-9239-5abbd92812a2</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>928c778f-a962-4dad-930e-429195667503</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>8918dda3-a00a-4fe8-9e26-d3f74ec2e131</id>
+      <masked>false</masked>
+      <name>subProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>8393e2d4-aa55-40d3-8962-a313db4c05d2</id>
+      <masked>false</masked>
+      <name>vigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>51ef0aa3-1566-412e-bbe1-839d213afe54</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>39983a98-7e9b-45d5-b1a5-5538444569af</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPolizaMensual').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>046a3951-7331-4004-a107-4884167c9ba1</id>
+      <masked>false</masked>
+      <name>montoEstimadoTransitoAereo</name>
+   </variable>
+</TestCaseEntity>

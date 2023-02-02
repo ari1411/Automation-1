@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_Endoso_AjusteDeCosto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d5d76ef-ff63-498d-a62d-be152f66e693</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>454f1c35-d86b-45b9-be3a-3e09ad91d8bf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aea48cc7-31c4-4bf4-a712-d67e17de4f2c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7677d430-8143-4105-87cc-392ad435da38</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03b9b326-a90d-4769-a1f7-cc4c3b379001</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4bbdbe01-8155-44f1-9818-f4a8dd3ad13e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>955faec8-31f6-4711-818f-d6b9498f5b0b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>295a6d78-e877-4a7a-bf61-11296d67c917</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>249dba05-14f6-4b41-b8bc-efbaa769b193</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>021451c7-816e-4086-bb14-066b5b2eea5f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AjusteDeCosto').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>454f1c35-d86b-45b9-be3a-3e09ad91d8bf</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AjusteDeCosto').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>aea48cc7-31c4-4bf4-a712-d67e17de4f2c</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>7677d430-8143-4105-87cc-392ad435da38</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AjusteDeCosto').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>03b9b326-a90d-4769-a1f7-cc4c3b379001</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AjusteDeCosto').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>4bbdbe01-8155-44f1-9818-f4a8dd3ad13e</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AjusteDeCosto').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>955faec8-31f6-4711-818f-d6b9498f5b0b</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AjusteDeCosto').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>295a6d78-e877-4a7a-bf61-11296d67c917</id>
+      <masked>false</masked>
+      <name>PorcentajeDescuento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AjusteDeCosto').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>249dba05-14f6-4b41-b8bc-efbaa769b193</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AjusteDeCosto').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>021451c7-816e-4086-bb14-066b5b2eea5f</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

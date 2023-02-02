@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ModificacionPropuesta_Anulacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7b77e92-e6b0-4171-8d51-6f547c591865</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Anulacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>1452aede-6ce9-4b0a-b6a3-b412898e89ff</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Anulacion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>b78be5b0-b080-44bb-a0a6-ea3ff6d5144d</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Anulacion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>8cc651d2-7955-45c0-bfc2-580f48435d82</id>
+      <masked>false</masked>
+      <name>ProcesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Anulacion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>0c3099b9-7c75-402b-b81a-a359f8a3ec74</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Anulacion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>46b14ffc-6d1f-4db9-bc7b-6f49e97a25df</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ModificacionPropuesta_Anulacion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>4097bdc9-34c8-4c29-bf36-a5ab2a5eea1c</id>
+      <masked>false</masked>
+      <name>TextoProcesoNegocio</name>
+   </variable>
+</TestCaseEntity>

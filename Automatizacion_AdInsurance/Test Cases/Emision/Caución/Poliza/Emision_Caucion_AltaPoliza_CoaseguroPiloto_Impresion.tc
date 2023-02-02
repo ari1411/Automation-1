@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1654bdeb-0018-433a-8fb0-fce15bfeaec5</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>39730209-31e9-4f13-b113-7f8d377780c1</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f20ef779-93af-4ed1-996c-afc150f5c911</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>5f991ce8-885e-4760-aee6-5fa57b5ab77e</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>a1234c6a-de57-490b-84e4-910c4f5e5418</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>e3ccb933-4dee-4c3a-832a-5cdeeb4ac815</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>2d7f6e0a-623f-4e06-aaec-6d5d696611dc</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>405f0ef5-6878-4a9a-948d-7196020cf946</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>7a3e8d70-e934-4b69-abab-60e5b5c27e01</id>
+      <masked>false</masked>
+      <name>vigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>c4760db3-1546-471b-b638-0e4d31529255</id>
+      <masked>false</masked>
+      <name>formaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>cfff7848-d5d4-4d98-9940-603e014d9374</id>
+      <masked>false</masked>
+      <name>TipoContratoCoaseguroId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>5b97e002-b167-4865-bade-e88d3df6091e</id>
+      <masked>false</masked>
+      <name>CompaniaId1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>02e2cc5d-e472-47c2-863f-d619f54d7e3a</id>
+      <masked>false</masked>
+      <name>BrokerId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>3a0069a4-72f6-44d9-806a-a603b46d6be4</id>
+      <masked>false</masked>
+      <name>PorcentajeCedido1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>f0633364-7bee-4bfd-a566-e048c5b26c97</id>
+      <masked>false</masked>
+      <name>CompaniaId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>c7d3fc6c-1b71-4657-9623-81d25c84889d</id>
+      <masked>false</masked>
+      <name>PorcentajeCedido2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPoliza_CoaseguroPiloto_Impresion').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>27b60de0-720d-42c9-9426-6e087371acd3</id>
+      <masked>false</masked>
+      <name>MontoSumaAseg</name>
+   </variable>
+</TestCaseEntity>

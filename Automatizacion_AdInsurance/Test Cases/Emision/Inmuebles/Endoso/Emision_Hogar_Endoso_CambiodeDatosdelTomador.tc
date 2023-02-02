@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Hogar_Endoso_CambiodeDatosdelTomador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d391c788-cf72-4c40-ba6c-cc3113758d3f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aee8b72e-e7af-4e58-96ff-330e5bb591a0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2bee8205-4318-4e20-9787-8e2af15ef49d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a359b664-a287-48d7-a45b-c23d9587f37a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a9a3fb71-26e4-4c24-8277-dd3bfea36231</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a194ba2-0c2d-4d3a-b38c-0321dc4cddbe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90394bfc-312f-4bd6-8e24-77e629efb1c8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5d818bc-59df-4feb-890e-ba2e0b89018d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>733c726c-842a-4a85-9784-aa63a5009ece</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3c55b080-9d4c-45ef-91b5-fbd1baedb231</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>60bb3e3e-a49a-4182-9617-99df87149d5d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a30b641f-c430-4b0b-b20a-d44ae7f62a15</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_CambiodeDatosdelTomador').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>aee8b72e-e7af-4e58-96ff-330e5bb591a0</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_CambiodeDatosdelTomador').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>2bee8205-4318-4e20-9787-8e2af15ef49d</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>a359b664-a287-48d7-a45b-c23d9587f37a</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_CambiodeDatosdelTomador').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>a9a3fb71-26e4-4c24-8277-dd3bfea36231</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_CambiodeDatosdelTomador').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>7a194ba2-0c2d-4d3a-b38c-0321dc4cddbe</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_CambiodeDatosdelTomador').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>90394bfc-312f-4bd6-8e24-77e629efb1c8</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_CambiodeDatosdelTomador').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>b5d818bc-59df-4feb-890e-ba2e0b89018d</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_CambiodeDatosdelTomador').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>733c726c-842a-4a85-9784-aa63a5009ece</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_CambiodeDatosdelTomador').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>3c55b080-9d4c-45ef-91b5-fbd1baedb231</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>60bb3e3e-a49a-4182-9617-99df87149d5d</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_CambiodeDatosdelTomador').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>a30b641f-c430-4b0b-b20a-d44ae7f62a15</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+</TestCaseEntity>

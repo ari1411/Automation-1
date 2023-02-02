@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_Poliza_AnulacionTotal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>411f2891-1aa3-4d07-b7a7-84f998c91f1d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_AnulacionTotal').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>a5ba92f2-89c3-43a2-9364-bab2362b00d6</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_AnulacionTotal').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>0320598f-24ad-4e3b-846b-20c24f78e7f4</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_AnulacionTotal').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>bd2a190d-15f7-457d-8bb4-a10d1fd1ed52</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_AnulacionTotal').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>39eecc2b-fa92-4a44-8737-5d80fb9385b5</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_AnulacionTotal').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>fd7d93eb-c963-4b3e-8a54-5cea8607087c</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_AnulacionTotal').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>3a881cd9-69b0-4a68-bccd-5a6adc7296e5</id>
+      <masked>false</masked>
+      <name>TextoTipoEndoso</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_AnulacionTotal').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>8ec3464f-0f16-4808-86df-2769fd11ddf2</id>
+      <masked>false</masked>
+      <name>TextoEstadoResumen</name>
+   </variable>
+</TestCaseEntity>

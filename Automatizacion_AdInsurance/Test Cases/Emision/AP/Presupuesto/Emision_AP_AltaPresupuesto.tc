@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_AltaPresupuesto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3950645-e293-4b4d-ba86-b33b8c3b85e0</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>f3b5d143-ccde-42d0-b092-a725bc5da80b</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>4238e764-7f23-418a-ad95-19976e36ffcb</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>e62c20a7-a505-4ec8-afb7-9ef15e4efbe2</id>
+      <masked>false</masked>
+      <name>Productor</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>8134bd66-4c74-4af2-94a3-e3132c0ad762</id>
+      <masked>false</masked>
+      <name>ProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>b5cee4ab-703a-4366-b67b-7d74e6cb4f0b</id>
+      <masked>false</masked>
+      <name>SubProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>a46dcebb-ec8f-47d6-be7d-5bcaec65447d</id>
+      <masked>false</masked>
+      <name>VigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>d1698dd8-39ec-4030-a985-d02dc9993ffc</id>
+      <masked>false</masked>
+      <name>FormaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>0167b122-a15d-4119-9366-541365dc1ef7</id>
+      <masked>false</masked>
+      <name>PlanPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>3e3547fc-4bb9-4ff6-bd1e-a278432b8174</id>
+      <masked>false</masked>
+      <name>NumeroDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>55c32c60-2870-4e5d-a348-977c2b6db363</id>
+      <masked>false</masked>
+      <name>TipoDocumentoAseguradoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>0474f584-99da-47bd-af06-030d3631aa62</id>
+      <masked>false</masked>
+      <name>NumeroDocumentoAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>42e57bfe-18eb-4f33-8632-1ace90ac1a16</id>
+      <masked>false</masked>
+      <name>TipoBeneficiarioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPresupuesto').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>82ea349a-7853-46a6-aef3-7b2b32f527e0</id>
+      <masked>false</masked>
+      <name>GruposActividadDefinidosId</name>
+   </variable>
+</TestCaseEntity>

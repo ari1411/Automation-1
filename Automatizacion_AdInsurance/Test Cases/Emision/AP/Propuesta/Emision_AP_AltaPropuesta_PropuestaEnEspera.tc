@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_AltaPropuesta_PropuestaEnEspera</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38084b84-57c0-43a4-978a-24fed3f7e824</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>bef916c9-b0d0-4acf-a4c8-b5bf0d518e8f</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>d354b4ae-7e0b-45b2-ac11-f6a364230d00</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>23e560ab-3d2d-4d76-95cb-511a33750d68</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>ad7eaa97-4644-4f5d-9a03-7d07af7e72d1</id>
+      <masked>false</masked>
+      <name>ProductorPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>10b127a3-5b5a-4d0b-8b49-a93610eabb7c</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>ea0d662b-5ced-4777-9bae-12284d4c2727</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>f3c08672-3fe4-415c-ae4b-bb5378f9dc5b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>2777210c-612a-4dbd-8184-0981477b21e2</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>25428d5c-2a57-4261-b831-256ad6e774a9</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>6ac1c42a-510f-43eb-ae44-42330ad06174</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>ddedb4c6-00d9-41ce-bd78-eb03f3dbce58</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>57f142d3-6e16-4cc4-b197-c0c4b1e97746</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_FechaNac</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>842cc816-d795-4c72-af5e-fe0b89c773b6</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>544f0f39-b05d-47c4-bb7d-50e1c3675749</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>03bf2d9a-67f5-4e82-a7aa-a16e80426b23</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ActAP</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>18436034-3cf0-40be-bd06-7e9347984750</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AmbitoCobertura</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>12aef1e8-066a-41f5-aadd-1713aadf74d8</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>64089f02-c2ce-4aef-b2f8-23663d8bf1b4</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>2423ae81-c10b-4e39-b939-ca3593bbcd45</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>092518ca-11d2-46c2-a00f-77f8b37d878b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>97697ee4-1d91-4797-8dc8-aa0bbeed1c22</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>be87ba04-9018-428a-9087-80492f5abeee</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>c1c037ad-bf84-414e-8336-e360a760d95a</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>8022f283-95d3-48d3-a0ae-cd61be6b7d2c</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>1d89491a-f3d8-40b0-bf5f-9c2104037a5c</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>63408282-4c6a-49cf-a2d4-13ec39a83909</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>0bcf2e13-fcb3-4fcb-a388-486907259e1a</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>c61da17d-17c3-436a-91e2-37a12f9eac5d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>755df3e8-f241-46af-82ea-68bb926b02a9</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(30, 1)</defaultValue>
+      <description></description>
+      <id>c0b0f0b0-20fd-4f43-a7d1-191ab4210454</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>30f7b311-9c58-4e9c-8ec0-a44c34a1ebaf</id>
+      <masked>false</masked>
+      <name>MotivoEsperaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuesta_PropuestaEnEspera').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>ac8a7549-bf4c-4ee2-9cb4-500f4fdc564d</id>
+      <masked>false</masked>
+      <name>EstadoMovimiento</name>
+   </variable>
+</TestCaseEntity>

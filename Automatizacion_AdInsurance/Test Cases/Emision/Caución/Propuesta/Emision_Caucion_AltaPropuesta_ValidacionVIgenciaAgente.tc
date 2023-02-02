@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_AltaPropuesta_ValidacionVigenciaAgente</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6789c959-9afc-4b6a-a314-4cc69dac3068</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>c7b2881e-572b-4578-8233-85811604c201</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>174418d0-9896-4047-8b54-d861e366b329</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>946a6faf-96e1-400e-8df1-5c4383f005f6</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>c3a3d460-a5b3-46ea-af36-1ac729e05053</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>571fda59-6cdb-472e-8c41-d222a0297b09</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>50867224-9457-4a8d-bad2-03f3efc0b297</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>b4821d7b-63ed-46ca-a9ca-516dc4b57687</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>17f29505-d9b5-4d1c-95cb-e5654e8539ae</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>9aaf8d40-a094-4a81-adcf-5eb2132b849d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>bd403b72-115e-4b96-8e0d-c1e4881ad383</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>4f7bdedc-8b46-4897-8b36-73a4bfc30ed0</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>69aeb415-75e3-4009-8f71-0bece40a64b9</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>28161bb5-4672-4793-9503-e85aecc969f1</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>04c6e215-b3af-4539-8f6b-99e31212d4c4</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>304d3aff-39f5-4cf2-baf1-e6ed51a8ffbd</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>901ee09e-99af-4808-8af2-826beaab255f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>1b76dd2f-ce10-478f-a2bf-4db978fa79cb</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_EqTec</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>44013d72-8ad3-4982-9d46-62c3406f5d31</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>3d559a56-6f86-4931-b79f-7237995da2ae</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>b549e2dd-ef29-4035-aa4e-cd6d1bfc80d1</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>39808bcf-8a1b-49e8-99f8-40983ee5502b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>81916684-548b-4a39-8b22-7fc9fbb66703</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>fe30973e-357e-4f0b-a811-3a063650af1b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>241c9317-3683-426a-bcfd-deae5a7cafae</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>a160214f-c4f5-453f-ab7e-ff3802ce49c6</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>9c1f260f-d3f6-4935-8f50-4d67c1dde4b3</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>fd6dfa04-18e8-4834-aaac-673768d8ae82</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_ValidacionVIgenciaAgente').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>25d6e836-4691-4b55-b555-2c29db3aff02</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+</TestCaseEntity>

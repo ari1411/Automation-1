@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_AltaPropuestaProrroga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5fc97ee-b57a-4838-a460-004b72d0ea55</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>adb88b4b-6073-4bc4-80c7-c1248cfbb7f5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f7272b8-a250-4320-8841-f0e392d64e69</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4030063e-1e01-421a-b084-b09d5eba15f6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a46e54c6-6261-4609-8227-1862451038dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4990b3c1-6c9b-477f-8eb2-173fb4ccbcba</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>78162534-2125-40bd-9196-3668e0a07850</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a725308b-62da-4173-ba17-8175745ee1b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>41c99a16-5a7d-4364-9607-d4f7837095d2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>91c8ce3f-4896-4ee9-bfde-aa225744cf14</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ada804e4-0320-42a4-8eb7-29adf63e7de6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ba0a343-84c8-4a27-8635-e25249aaa48c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>adb88b4b-6073-4bc4-80c7-c1248cfbb7f5</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>6f7272b8-a250-4320-8841-f0e392d64e69</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>4030063e-1e01-421a-b084-b09d5eba15f6</id>
+      <masked>false</masked>
+      <name>ProcesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>a46e54c6-6261-4609-8227-1862451038dd</id>
+      <masked>false</masked>
+      <name>linkConsultaMovimientos</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>4990b3c1-6c9b-477f-8eb2-173fb4ccbcba</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>78162534-2125-40bd-9196-3668e0a07850</id>
+      <masked>false</masked>
+      <name>estadoPolizaIndeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>a725308b-62da-4173-ba17-8175745ee1b8</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>41c99a16-5a7d-4364-9607-d4f7837095d2</id>
+      <masked>false</masked>
+      <name>tipoEndosoId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>91c8ce3f-4896-4ee9-bfde-aa225744cf14</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuestaProrroga').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>ada804e4-0320-42a4-8eb7-29adf63e7de6</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPersonaExistente').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>4ba0a343-84c8-4a27-8635-e25249aaa48c</id>
+      <masked>false</masked>
+      <name>nPolizaPrecond</name>
+   </variable>
+</TestCaseEntity>

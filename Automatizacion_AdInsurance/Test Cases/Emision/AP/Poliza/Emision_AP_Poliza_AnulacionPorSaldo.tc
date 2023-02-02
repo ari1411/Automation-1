@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_Poliza_AnulacionPorSaldo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13629325-2cda-47de-99a1-c28b447dc65b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionPorSaldo').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>29ce729c-7ee8-475b-b64e-c5c87072201e</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionPorSaldo').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>7e3ea7ad-7501-473b-9239-4c83f1a92942</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionPorSaldo').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>7dc0ba06-d487-41b5-ab60-2ea8c4844fed</id>
+      <masked>false</masked>
+      <name>numEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionPorSaldo').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>931f53e6-246c-41ca-902c-fa5383bfb9a7</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionPorSaldo').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>7b76dcc3-d1ab-4f22-b2f3-c3449b3e6203</id>
+      <masked>false</masked>
+      <name>tipoEndosoId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionPorSaldo').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>c552bf00-2442-4741-91ed-190d865d3e47</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionPorSaldo').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>ba8fe1d3-d7db-4430-a529-d3c1743fee51</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionPorSaldo').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>fc0dadf2-74cd-4c29-bb2d-bbbe800cbddc</id>
+      <masked>false</masked>
+      <name>estadoResumenIndeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionPorSaldo').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>cae81d43-8095-432d-8e2a-6e68533a2740</id>
+      <masked>false</masked>
+      <name>msgeError</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaExistente').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>5e59b75b-abfa-4e1a-9a46-73c68cc03243</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

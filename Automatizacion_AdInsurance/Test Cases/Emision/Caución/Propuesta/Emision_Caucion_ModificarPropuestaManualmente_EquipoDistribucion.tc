@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cbc93496-c373-4b0b-9ff1-51eda116d883</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>591e852e-1d13-48bb-896d-249c14d2e974</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>afafba6e-bf51-4828-ab66-0a9de77a66b8</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>6f73d245-62d9-4fbe-a56c-c449d20ca06a</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>4e5bfa9a-b923-4471-9b20-957da05009d3</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>4e3a3ede-1be1-401a-8a24-0581895cf279</id>
+      <masked>false</masked>
+      <name>sucursal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>431e93cd-06eb-495e-924d-4800dff48806</id>
+      <masked>false</masked>
+      <name>centroAtencion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>917361d7-15e6-4d50-92e7-4da7004af785</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>e380a2e9-4deb-4385-bfb5-11e37001d216</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>23248f72-27d6-4175-9e43-8238349e0c86</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>b873fa53-d6b6-44e2-9c88-ba244900df20</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>6fd5865f-0b53-4dfb-a0c1-f9ca47552f21</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>23b28083-abe7-4909-8ad3-28ff9bbab123</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>76a1239c-c39a-464c-95de-d35c0e6a08bc</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>d8b1abc2-3ab1-47b9-b919-1994e45c3b74</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>c89a98f5-32c8-47ef-8010-94a3dfc68bea</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>3ad17a5a-99d0-4501-a1cb-d535625866f1</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>3fb96748-70ac-404c-b946-44e1b5503b33</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>e0a4ced5-42cb-4dca-a487-bc50cb0947ca</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>09fb6836-b5a7-4ec5-a619-65af36166624</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>db0ce12c-749d-442d-8740-b469d0e9e910</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_EqTec</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>86221eff-318b-4382-943c-48f827053099</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>1bfb2722-d67b-4b97-b5e7-0e42a1bc845c</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>2a7d91df-58d1-407b-a798-576fd330fa5f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>4a42ec46-fd8f-483d-a48a-39d22fa272f7</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>ed8cffc0-2a9c-4298-b791-48a01bc04e56</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>9412d95b-da37-4afd-b439-8da460a1fd92</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>e64e9499-fa50-43dd-9bd3-9668a5fcaad0</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>b4b737e4-aaa6-4fa7-95d2-b638f306d5e4</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>3a01fee8-4617-44e6-92b9-5e9977ce4e1e</id>
+      <masked>false</masked>
+      <name>equipoDistribucionId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(30, 1)</defaultValue>
+      <description></description>
+      <id>974da8e6-1ed4-4cbe-bad3-48870ab43478</id>
+      <masked>false</masked>
+      <name>usuarioDistribucionId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>314f4ab1-6282-48b4-bbaa-1db952496044</id>
+      <masked>false</masked>
+      <name>equipoDistribucion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(33, 1)</defaultValue>
+      <description></description>
+      <id>c6e91a93-6aa4-48c5-950e-5db75ea479d5</id>
+      <masked>false</masked>
+      <name>equipoDistrib</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(34, 1)</defaultValue>
+      <description></description>
+      <id>3a8cd0c6-9f20-4dca-a21f-947dcf6b3c8b</id>
+      <masked>false</masked>
+      <name>variable_25</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(35, 1)</defaultValue>
+      <description></description>
+      <id>184292d6-6682-4da8-8525-a6ef6dfdcc79</id>
+      <masked>false</masked>
+      <name>variable_26</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(36, 1)</defaultValue>
+      <description></description>
+      <id>1f77c0b5-4f38-4fb3-98fd-3a370d136273</id>
+      <masked>false</masked>
+      <name>variable_27</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(37, 1)</defaultValue>
+      <description></description>
+      <id>3a687a7f-47cc-4006-8b53-3d2cfc701526</id>
+      <masked>false</masked>
+      <name>variable_28</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificarPropuestaManualmente_EquipoDistribucion').getValue(38, 1)</defaultValue>
+      <description></description>
+      <id>084f5372-8750-4c99-aeea-db57c1408421</id>
+      <masked>false</masked>
+      <name>variable_29</name>
+   </variable>
+</TestCaseEntity>

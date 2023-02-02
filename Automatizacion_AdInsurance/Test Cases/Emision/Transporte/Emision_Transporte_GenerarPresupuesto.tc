@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_GenerarPresupuesto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60238921-00c2-4e7d-8720-087c1bcc784f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>9ed6d065-37f9-4fa5-adfa-8131fb6d3de4</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>ca6ae6bb-6e70-4d7d-bfdb-14684e178bf1</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>ccd6a06e-9aae-4e61-a080-735835178c03</id>
+      <masked>false</masked>
+      <name>prodPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>617aa996-7543-486a-9e70-766a7b8e9a6f</id>
+      <masked>false</masked>
+      <name>producto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>5152ceb6-bfa9-4db0-b019-53c9bbad1a81</id>
+      <masked>false</masked>
+      <name>subproducto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>94e88ef0-d8a8-409a-82d4-ec80ce202706</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>2491877a-515b-4cb1-a6b5-fb28e0a66e30</id>
+      <masked>false</masked>
+      <name>docTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>5544b848-9caf-4f11-a12f-ef1f4ffc1561</id>
+      <masked>false</masked>
+      <name>montoEstimadoTransitoAereo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>79c1472c-0f2f-4465-972d-72822dfafc8e</id>
+      <masked>false</masked>
+      <name>montoEstimadoAereoBasica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>9c38a25e-a1be-4afc-b681-9f5d5d79de4d</id>
+      <masked>false</masked>
+      <name>montoEstimadoTeleportacionCuantica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>2fa6c276-7712-4fcb-8fe7-348e9cff62cb</id>
+      <masked>false</masked>
+      <name>porcentajePrimaDeposito</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>a72af965-f20e-40e5-a46f-3f0bc8c8ea1e</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_GenerarPresupuesto').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>8e5b53db-9ba8-476d-9838-f93a33e51721</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

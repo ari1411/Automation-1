@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Autoflota_EndosoExclusionItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f30a58b9-093e-49ee-a74e-a127801da2d3</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoflota_EndosoExclusionItem').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>5ccc49d1-7c1b-4059-af78-4d1ac671e7df</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoflota_EndosoExclusionItem').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>95bdeef5-dbf7-4a04-90a6-e98923ba3212</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoflota_EndosoExclusionItem').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>bc4a8d14-e1d5-4c3e-af1c-03c25033534b</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoflota_EndosoExclusionItem').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>4ced1001-1422-4571-88c1-e393a7ca0b22</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoflota_EndosoExclusionItem').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>8c34468e-e056-4d6e-b716-bccb86195824</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoflota_EndosoExclusionItem').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>54f47332-fc03-4a9c-a4f8-05c9c792b505</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoflota_EndosoExclusionItem').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>5113216d-66e4-43a2-a22d-ae66fea9d7ec</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Autoflota_EndosoExclusionItem').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>d8575fd3-cfb3-451c-9873-71f488b442ff</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_AltaPoliza').getValue(61, 1)</defaultValue>
+      <description></description>
+      <id>943307da-cebd-43c3-adaa-59308fc22e03</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Autoflota_AltaPoliza').getValue(62, 1)</defaultValue>
+      <description></description>
+      <id>622fe1ef-de23-440c-8b20-9bb93d129cee</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+</TestCaseEntity>

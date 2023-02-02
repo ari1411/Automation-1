@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ValidacionRefacturacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5388dd50-5cee-4b96-b526-bd417a557cdf</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>68bfddd3-08b0-4b1d-9531-d5ec7fb9dc81</id>
+      <masked>false</masked>
+      <name>vigenciaContrato</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>7182e510-8f84-4a1b-8b88-c937955e4389</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>24bb44a5-2d27-4d56-a382-9588aa34aba2</id>
+      <masked>false</masked>
+      <name>tipoEndosoId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>8eacd7f4-2ed8-486e-a5ef-24d7dbe0c92d</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>d4db1e4d-469b-42bc-8bab-4c2079b21fa9</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>62e28053-d130-4ff2-9a9e-1876a48ab175</id>
+      <masked>false</masked>
+      <name>estadoPolizaIndeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>2a1de7a5-5575-40b1-a0fd-7613cc4b12eb</id>
+      <masked>false</masked>
+      <name>msgeErrorFaltaPropuestas2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>e4847ebe-376c-46a8-8a0d-fd8debdc92b8</id>
+      <masked>false</masked>
+      <name>msgeMaxProrroga</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>22b51090-7866-4d78-b607-ed26a429fc07</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_ValidacionRefacturacion').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>6a9ff0bd-8932-4f33-ae31-fe8e0962a312</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+</TestCaseEntity>

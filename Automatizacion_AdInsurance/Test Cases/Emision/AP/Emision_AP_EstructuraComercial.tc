@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_EstructuraComercial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a81d9b95-ead0-4e57-9ba5-ebd25295a59f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6a819f1f-3c33-468a-b346-e36fda370321</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1985e3e4-2923-4b39-b939-3f00ad38636e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_EstructuraComercial').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>6a819f1f-3c33-468a-b346-e36fda370321</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_EstructuraComercial').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>1985e3e4-2923-4b39-b939-3f00ad38636e</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+</TestCaseEntity>

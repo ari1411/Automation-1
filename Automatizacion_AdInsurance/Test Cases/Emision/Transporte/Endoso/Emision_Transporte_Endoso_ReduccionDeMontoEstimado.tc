@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_Endoso_ReduccionDeMontoEstimado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d74f7fe7-cdde-4d34-b6f6-6455630a3d3f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4167c09f-6f89-4f8b-9d12-6f23b5cacb6a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9cac855b-1d11-4008-8ebd-5e24bd158e61</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53ac16eb-6ca4-4945-8adf-ce046702ee6d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>abc14938-c51b-4ee2-9bcc-a8bc114bcb13</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8192addd-2bf4-445e-b076-3470c4ee8853</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b27bd3a1-b6ba-46df-a066-1ffe81ef28d5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b5c70e33-760c-4476-8b99-d2c8349d06f1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>007b9b90-3a0f-46e3-8aef-9e7559167408</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>4167c09f-6f89-4f8b-9d12-6f23b5cacb6a</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ReduccionDeMontoEstimado').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>9cac855b-1d11-4008-8ebd-5e24bd158e61</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ReduccionDeMontoEstimado').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>53ac16eb-6ca4-4945-8adf-ce046702ee6d</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ReduccionDeMontoEstimado').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>abc14938-c51b-4ee2-9bcc-a8bc114bcb13</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ReduccionDeMontoEstimado').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>8192addd-2bf4-445e-b076-3470c4ee8853</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ReduccionDeMontoEstimado').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>b27bd3a1-b6ba-46df-a066-1ffe81ef28d5</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ReduccionDeMontoEstimado').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>b5c70e33-760c-4476-8b99-d2c8349d06f1</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_ReduccionDeMontoEstimado').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>007b9b90-3a0f-46e3-8aef-9e7559167408</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

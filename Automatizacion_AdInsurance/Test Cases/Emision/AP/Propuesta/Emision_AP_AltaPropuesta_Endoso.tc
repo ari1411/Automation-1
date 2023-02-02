@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_AltaPropuesta_Endoso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>495fec8e-556c-414f-8870-e4e904bb0c0f</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>1496f9bb-8805-4a2c-8ef4-48d31a260184</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>0b00898d-ea46-4491-b475-144e5a37a148</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>d19dae79-8d36-44b0-9125-8a7ce33a3d55</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>ca83fa38-dccf-4823-b5c1-d9e11c30239e</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>204314a2-bbfa-4e6d-b2bf-35a93c9afe16</id>
+      <masked>false</masked>
+      <name>nuevaURL1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>bd6c12f5-bd89-4ad7-a465-cf071ff80cff</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>189f0fdb-3971-420b-9f2d-a725ecf4f83d</id>
+      <masked>false</masked>
+      <name>Clave</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>e7cd36a1-ed5d-4d38-ab45-7f84c4357d24</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>6b9285fc-40ff-44de-8561-96832970449a</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>056d2dda-cff0-447c-ab8a-5ec3838cfe71</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>a7004750-9952-4b63-999e-95abf86668b5</id>
+      <masked>false</masked>
+      <name>formaPagoIdCupon</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>4619bc4f-64ca-4598-b7f0-581fe017d10d</id>
+      <masked>false</masked>
+      <name>estadoPolizaIndeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>7ecc40c2-05f3-4570-afab-7b14c0e3cf88</id>
+      <masked>false</masked>
+      <name>msgeErrorFaltaPropuestas1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>d948d1e4-c6f6-48cc-99ac-69619ca6e0de</id>
+      <masked>false</masked>
+      <name>msgeErrorFaltaPropuestas2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta_Endoso').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>d95b3599-e0b5-445b-a8f7-e5c67b3ecfa3</id>
+      <masked>false</masked>
+      <name>formaPagoIdVisa</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>79610111-8c4f-44fa-9412-231a9019f090</id>
+      <masked>false</masked>
+      <name>MetPagoActual</name>
+   </variable>
+   <variable>
+      <defaultValue>'6'</defaultValue>
+      <description></description>
+      <id>aee2e12e-5b39-4bf8-9f30-dbaabd724ea3</id>
+      <masked>false</masked>
+      <name>TipoDocumentoTomadorId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuestaIncompleta_CompletandoTodosLosDatos').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>1368579d-c682-47f1-a237-c1afb708b049</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

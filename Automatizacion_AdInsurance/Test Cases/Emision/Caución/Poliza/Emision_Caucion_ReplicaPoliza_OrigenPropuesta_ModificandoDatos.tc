@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>600561e3-3c85-4d83-940b-8b98541f835c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c95a6e3b-20fc-4ce0-9dcd-1de07610b853</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>250eabb2-8044-4635-883b-757a61cb539a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cf798cdb-7f60-437d-bd75-c17832d53b10</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4aef9075-7bec-4db2-b047-bade420bf5c3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0f29849-dc50-47c0-be9a-e11e7451ea11</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e31e34fd-4ac2-47ac-8322-6e6aa2140a00</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28cde561-4754-4343-bbda-159e4d3bc471</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4d1299b-707c-4ee7-897d-b725eafd592a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7cd9fd6b-36db-4370-bb92-0778cf79c489</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>c95a6e3b-20fc-4ce0-9dcd-1de07610b853</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>250eabb2-8044-4635-883b-757a61cb539a</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>cf798cdb-7f60-437d-bd75-c17832d53b10</id>
+      <masked>false</masked>
+      <name>numPropuestaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>4aef9075-7bec-4db2-b047-bade420bf5c3</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f0f29849-dc50-47c0-be9a-e11e7451ea11</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>e31e34fd-4ac2-47ac-8322-6e6aa2140a00</id>
+      <masked>false</masked>
+      <name>sumaAsegurada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>28cde561-4754-4343-bbda-159e4d3bc471</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>f4d1299b-707c-4ee7-897d-b725eafd592a</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza_OrigenPropuesta_ModificandoDatos').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>7cd9fd6b-36db-4370-bb92-0778cf79c489</id>
+      <masked>false</masked>
+      <name>numPolizaPrecondicion</name>
+   </variable>
+</TestCaseEntity>

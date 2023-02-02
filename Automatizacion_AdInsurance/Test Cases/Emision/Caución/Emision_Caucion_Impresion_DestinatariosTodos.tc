@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_Impresion_DestinatariosTodos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a83591c6-a338-4cf2-979d-fa92e9c2e541</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_Impresion_DestinatariosTodos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>2f1b3522-a480-427b-895f-46abda30234c</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_Impresion_DestinatariosTodos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>fdd3a0d1-7f47-4818-9fd5-5be81c796dc2</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPersonaExistente').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>3c52662b-5854-4a49-b949-3f975b946ffc</id>
+      <masked>false</masked>
+      <name>numCotizacionPrecondicion</name>
+   </variable>
+</TestCaseEntity>

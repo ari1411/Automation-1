@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_Endoso_ActualizacionDeNomina</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3e161fa-e590-4472-8e61-89809075cfe9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>57e0e133-1221-405c-a6ad-41057d486717</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>6ec79dbf-3919-42fb-af10-2ef1a6fe567a</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>ef871a4b-c75b-462f-b32c-49e5f158ff6b</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>1bcf4e7e-d74e-4000-8c1c-15162493e35a</id>
+      <masked>false</masked>
+      <name>tipoEndosoId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f8aeb208-9789-4c9b-93c8-98b83f544686</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>15132fc8-d457-4db0-9c89-b49ff81fca80</id>
+      <masked>false</masked>
+      <name>tipoDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>2df91f45-d802-470b-b0a9-44effcb66549</id>
+      <masked>false</masked>
+      <name>dniAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>ede6adc6-5b37-46d3-b3e1-bb5ec84557ce</id>
+      <masked>false</masked>
+      <name>grupoActividad</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>eb72f207-348d-4976-bd1a-a9e76a711613</id>
+      <masked>false</masked>
+      <name>tipoBeneficiario</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Endoso_ActualizacionDeNomina').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>d24a43b6-f75a-4e14-9c2a-aa93a27ca11d</id>
+      <masked>false</masked>
+      <name>numEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaExistente').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>fe8d8ef4-71bd-4d78-a77f-259033cc171b</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

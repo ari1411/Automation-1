@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ProcesosAutomaticos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea8fbaee-9468-4cd6-bf5b-efd9197bf223</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c8826c44-9252-4fd4-aabc-2250d78a1908</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2843327-48c4-4778-9dcd-36de4bedaf11</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>51bbbe71-c84e-4f4c-ab68-2b61e4a4c954</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9302d63a-9db6-45dc-bf74-1b237b5afae6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc4398a3-3330-45c4-9dc6-1bf2a8505180</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96b9f51a-574a-4286-8ab2-72f26d5d30b3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d665d4ea-a9bf-44b6-a9ae-0c4fe6e95f49</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4abdd1c6-4815-4169-9811-9e7a6a51947a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>694d88fa-0771-4eb7-8d1c-e044b9668218</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>80f9b7db-c825-48a6-8dbf-f9b69472a502</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f8d3b07-81bd-48d7-a8a1-21b3b8c23b6e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2a8551a-93fe-4498-bbbb-21240a26dcda</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProcesosAutomaticos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>c8826c44-9252-4fd4-aabc-2250d78a1908</id>
+      <masked>false</masked>
+      <name>usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProcesosAutomaticos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f2843327-48c4-4778-9dcd-36de4bedaf11</id>
+      <masked>false</masked>
+      <name>clave</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProcesosAutomaticos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>51bbbe71-c84e-4f4c-ab68-2b61e4a4c954</id>
+      <masked>false</masked>
+      <name>filtroActivoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>9302d63a-9db6-45dc-bf74-1b237b5afae6</id>
+      <masked>false</masked>
+      <name>fechaFinVigenciaOrigen</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProcesosAutomaticos').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>fc4398a3-3330-45c4-9dc6-1bf2a8505180</id>
+      <masked>false</masked>
+      <name>msgeFinProcesos1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProcesosAutomaticos').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>96b9f51a-574a-4286-8ab2-72f26d5d30b3</id>
+      <masked>false</masked>
+      <name>msgeFinProcesos2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>d665d4ea-a9bf-44b6-a9ae-0c4fe6e95f49</id>
+      <masked>false</masked>
+      <name>consultaMovimientos</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProcesosAutomaticos').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>4abdd1c6-4815-4169-9811-9e7a6a51947a</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProcesosAutomaticos').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>694d88fa-0771-4eb7-8d1c-e044b9668218</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>80f9b7db-c825-48a6-8dbf-f9b69472a502</id>
+      <masked>false</masked>
+      <name>numPoliza1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_PrecondicionAltaPolizasparaProrrogar').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>2f8d3b07-81bd-48d7-a8a1-21b3b8c23b6e</id>
+      <masked>false</masked>
+      <name>numPoliza2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProcesosAutomaticos').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>e2a8551a-93fe-4498-bbbb-21240a26dcda</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_Endoso_AumentoDeMontoEstimado</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>df0e9f23-4fce-420f-8225-112463b3531a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>59fb55b9-665c-4bf3-a5a0-54a2621970b7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>94d4b7c3-e84c-4ae2-9481-58e61299f7e8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8253f07-abf7-407d-85f1-90dca0173516</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3263202a-a907-4839-ad91-15ffa26df040</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7cd21f78-2a86-4bb1-9701-09e7ced407cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7ee26cd3-63ee-432a-993a-5593dccfb1eb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4045d040-0407-430f-bc1a-b734eac51e9b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aae41354-746e-4e08-97d6-82c973aaf44e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>59fb55b9-665c-4bf3-a5a0-54a2621970b7</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoDeMontoEstimado').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>94d4b7c3-e84c-4ae2-9481-58e61299f7e8</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoDeMontoEstimado').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>e8253f07-abf7-407d-85f1-90dca0173516</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoDeMontoEstimado').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>3263202a-a907-4839-ad91-15ffa26df040</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoDeMontoEstimado').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>7cd21f78-2a86-4bb1-9701-09e7ced407cb</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoDeMontoEstimado').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>7ee26cd3-63ee-432a-993a-5593dccfb1eb</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoDeMontoEstimado').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>4045d040-0407-430f-bc1a-b734eac51e9b</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_AumentoDeMontoEstimado').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>aae41354-746e-4e08-97d6-82c973aaf44e</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

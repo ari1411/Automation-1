@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_GuardarPresupuesto</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18403c72-15ba-469b-b25c-de66a51dc544</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_GuardarPresupuesto').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>cb4767c3-bffe-4432-8657-66b2d6157520</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_GuardarPresupuesto').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>a93f4870-b27b-4ce3-8bf2-7fc37d3b5ed6</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_GuardarPresupuesto').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>92236af4-a8bb-4381-a7d0-699e9294bbc7</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_GuardarPresupuesto').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>544c56bd-aff8-41dd-950a-087c28097d89</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_GuardarPresupuesto').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>2779be0b-e680-4b54-9fba-b69182216136</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_GuardarPresupuesto').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>d5a86473-a03c-45ef-b846-e13e5005910f</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_GuardarPresupuesto').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>9920c1e7-de7a-47ee-b90f-d9e501c60562</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_GuardarPresupuesto').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>74a0bb53-e5a7-4091-bbaa-27909579457e</id>
+      <masked>false</masked>
+      <name>vigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_GuardarPresupuesto').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>6a0f6faf-054f-46d4-a309-cb96c85b2fdd</id>
+      <masked>false</masked>
+      <name>formaPagoId</name>
+   </variable>
+</TestCaseEntity>

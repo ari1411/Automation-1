@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ProsperarPropuesta_TierradelFuego</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d83301f9-546e-4e69-a539-70930e484c9b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>7457abb4-2b9d-49e4-a4cd-b1e683e7d3cd</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>6386683c-93f3-4309-bbd2-427ed5119193</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>6a76d9f5-6766-4532-be42-5893e6a3b5c2</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>2ca3a9fb-f641-49fa-9979-838c1af2b0c5</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f798791d-0421-4b61-9ec6-bfffc3a3e030</id>
+      <masked>false</masked>
+      <name>sucursal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>039a9b25-c1bd-460d-9464-c0c033807618</id>
+      <masked>false</masked>
+      <name>centroAtencion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>66a8d9fe-7915-43a4-a9ed-58a1c38079bb</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>83baa792-8372-40a9-94e2-ed1f47f8a3ce</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>03fb59b1-5efe-4ace-9584-a89508eabeea</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>525f2921-81ef-46ab-ab09-45719bd7a784</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>721a8057-5be8-4134-b723-f6651ea3b823</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>c724407c-e211-4207-b16a-3e9aff112e3b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>7a9584e2-98d7-484c-a84a-46e2940c20de</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>ef217a1a-d130-4c53-bf42-72da456b79cd</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>10d0c783-e2ef-4864-a25b-9d9447dba764</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>5139edba-6189-47ad-b8ab-21bba5bb8bef</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>448d282a-9854-4b0c-802a-2b013146e672</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>80a02c02-86c0-42c5-ba0f-992b5f99984f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>18d26e36-9645-43c1-af6e-84188516c105</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>68918e65-934d-4c55-90ff-c4e5db3113c4</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>643a34de-6960-4e4e-a7f1-dd3a4f0c7158</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>20e573ac-7143-42f2-8ceb-991dc669e16b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>ec211cc4-d42b-46bb-9876-874f46597d60</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>501473a2-ac3a-4463-aa47-22ad81bdcd6d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>8248b796-06e7-4d16-8716-7cd80e7e6434</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>915288e4-6e3a-4a01-b413-c78de62eed4e</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>94c44803-ff64-402e-9c33-c219b7113ac3</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>f7eb72d5-8944-4d65-94e5-4eb32be42039</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_FechaNac</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>6884c02a-bda1-4fff-8f9c-64cee0999909</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ActAP</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(30, 1)</defaultValue>
+      <description></description>
+      <id>cf660fdc-fa1f-4dcb-a5d8-3c2fb26bd523</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AmbitoCobertura</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>f8c8cf4c-9ad0-4b23-b795-8a85766b57cd</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>6afd6d9f-c166-4104-8010-155968adb2df</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(33, 1)</defaultValue>
+      <description></description>
+      <id>f672fada-3604-4b4e-a279-77e13013c4f8</id>
+      <masked>false</masked>
+      <name>producto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(34, 1)</defaultValue>
+      <description></description>
+      <id>4e2ffa68-dadb-49cc-bdd2-0cf812d3814c</id>
+      <masked>false</masked>
+      <name>subproducto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(35, 1)</defaultValue>
+      <description></description>
+      <id>b0059738-c0e9-47c7-a394-3e584ea6c06e</id>
+      <masked>false</masked>
+      <name>vigenciaContrato</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(36, 1)</defaultValue>
+      <description></description>
+      <id>be917f69-fc40-4ddc-a771-e0766c8c9e52</id>
+      <masked>false</masked>
+      <name>tipoDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(37, 1)</defaultValue>
+      <description></description>
+      <id>82453bf4-bfa6-4bd6-8622-2675cc229986</id>
+      <masked>false</masked>
+      <name>dniAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(38, 1)</defaultValue>
+      <description></description>
+      <id>3e2c4cf5-9cf3-44e9-bd99-275e1db0009f</id>
+      <masked>false</masked>
+      <name>grupoActividad</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ProsperarPropuesta_TierradelFuego').getValue(39, 1)</defaultValue>
+      <description></description>
+      <id>2c628c2d-ee2a-4daa-90e0-213eb28fa2d3</id>
+      <masked>false</masked>
+      <name>tipoBeneficiario</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ModificacionPropuestaIncompleta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>77a5a2b9-049f-4de9-846c-3ba0ac73bda8</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>e9f7e8ed-fea5-4e80-9dcc-88edd00fd60e</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>9548be2f-0387-4705-b612-8218f695c8bf</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>3dc795c3-3117-421a-89ea-abc1f9ce57dd</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>35eb2127-8172-41c7-8ab8-cdf72fa666bc</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>5468affc-743f-45e0-b367-547669166dbe</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>ae3a8015-f8d7-48c4-ac96-72759d5838ad</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>8a8bfafe-124b-4c91-a6db-864ca577244a</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>cfde13ea-1b52-4a3c-a8ed-d2020c7408b5</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>f0268e6a-895a-4ac5-bf59-ebaf920b6ad8</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>ba9051c1-041d-45c6-81d3-a73768069f2b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>80b8299f-9c03-4cab-854f-2088d405909d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>5fbe1169-2cc3-4a8b-aabd-fa8e310a3d88</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>3757d5c5-aa32-4045-8f51-712dd9d1ac00</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_FechaNac</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>d0656d21-a45a-4331-92ae-ca67eb0a52f9</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>89a9bb26-bc72-4cce-a76e-a5b155b212d6</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>5ee8ed4a-eb9c-46b0-abae-fa0965727067</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>bb505a93-500f-445e-94fc-1361c5912ac2</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>4ec6ece4-4862-4621-a878-fb224210df54</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>7cd15860-3754-4b3d-87dd-9844d9131977</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>7eb6e318-d8ee-45ce-a760-64aed7d02365</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>886223e0-bbc0-4640-aef9-70ce4f4a0fa1</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>a959f2c9-90fe-4eeb-a0df-332a054b1728</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>10729c75-ae98-47d5-accf-2c302e2d4db0</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>2e3a7e8c-5fd1-48bb-a928-706723124de0</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>57b60631-33a7-441e-9d9f-5e5aa2f1d1ce</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>8b82e05d-f1f9-46c8-b150-293c4fbfc8ae</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>62e113c9-c908-4458-9e6a-a9b27cfb5e70</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>bd0fecc5-946e-4a00-b66d-b32ea1348180</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(30, 1)</defaultValue>
+      <description></description>
+      <id>15c24203-a243-4832-96ea-4ab9de68a696</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>48c8b06c-60bc-443d-8c7a-b4f721c7500c</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuestaIncompleta').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>e5b7850f-db13-4537-b0e2-fcf78bf2fce7</id>
+      <masked>false</masked>
+      <name>estadoMovimiento2</name>
+   </variable>
+</TestCaseEntity>

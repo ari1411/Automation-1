@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_ProsperarPropuesta_Endoso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44d316c9-0ba5-4438-a85c-20b95c372847</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>22fa222c-7f55-4660-b6c2-a891941ba380</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46a72479-f1a6-426c-a842-86f2e233b309</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>564f1439-183b-4052-9459-7c2793e3540a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4ab38a7-e76a-4cc5-a037-22a351a9c13c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ea96f063-3dd6-4f06-b8ad-af2e3df34ce7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98302499-a6f2-4a91-9e13-f42fd762babe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>257a69b2-4417-4227-8866-7ca4f521a081</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>253a710e-b90e-46b8-8d74-ab1c4a1c4d32</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e36d5c91-828e-4499-98c3-a951dfc79442</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>09a7a474-703b-4290-9d70-c19d0cd4f713</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5c1ff7d5-17cf-478c-82e9-856371296fa1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f03ee238-a45a-43da-afcb-42e901aa8db4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>22fa222c-7f55-4660-b6c2-a891941ba380</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>46a72479-f1a6-426c-a842-86f2e233b309</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>564f1439-183b-4052-9459-7c2793e3540a</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>f4ab38a7-e76a-4cc5-a037-22a351a9c13c</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>ea96f063-3dd6-4f06-b8ad-af2e3df34ce7</id>
+      <masked>false</masked>
+      <name>estadoMovimiento1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>98302499-a6f2-4a91-9e13-f42fd762babe</id>
+      <masked>false</masked>
+      <name>estadoCotizacion1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>257a69b2-4417-4227-8866-7ca4f521a081</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>253a710e-b90e-46b8-8d74-ab1c4a1c4d32</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>e36d5c91-828e-4499-98c3-a951dfc79442</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>09a7a474-703b-4290-9d70-c19d0cd4f713</id>
+      <masked>false</masked>
+      <name>montoEstimadoTransitoAereo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>5c1ff7d5-17cf-478c-82e9-856371296fa1</id>
+      <masked>false</masked>
+      <name>estadoMovimiento2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ProsperarPropuesta_Endoso').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>f03ee238-a45a-43da-afcb-42e901aa8db4</id>
+      <masked>false</masked>
+      <name>estadoCotizacion2</name>
+   </variable>
+</TestCaseEntity>

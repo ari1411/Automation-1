@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_AgregarObservaciónBitacora</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1048c1db-43ad-481c-8411-e7db17919c77</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b1a4cce-375d-4ca8-80f7-fa8bfe190c5e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e39e9be2-8fa6-467c-86c9-3e2838484cfe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4ed94c3d-c20e-4e4c-95bd-e84a7bc71d90</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf7979ed-8bc5-4127-b1f7-afbc9ab09a4e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f0f1db31-48d6-4dbf-94bd-ab03a5edd0fd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AgregarObservaciónBitacora').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>9b1a4cce-375d-4ca8-80f7-fa8bfe190c5e</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AgregarObservaciónBitacora').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>e39e9be2-8fa6-467c-86c9-3e2838484cfe</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AgregarObservaciónBitacora').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>4ed94c3d-c20e-4e4c-95bd-e84a7bc71d90</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AgregarObservaciónBitacora').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>bf7979ed-8bc5-4127-b1f7-afbc9ab09a4e</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AgregarObservaciónBitacora').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f0f1db31-48d6-4dbf-94bd-ab03a5edd0fd</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+</TestCaseEntity>

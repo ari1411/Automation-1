@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_MonitorDistribucion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cae1d2d-809c-4e8c-b10f-cee59eb12bab</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Edicion_AP_MonitorDistribucion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>7fbb2cfe-6086-4e7f-bb46-13328f1210f6</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Edicion_AP_MonitorDistribucion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>65202108-98c2-4527-bf04-edc337445f2c</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Edicion_AP_MonitorDistribucion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>65ac2f5c-3232-4591-b37c-7eba76ba28b1</id>
+      <masked>false</masked>
+      <name>procesoNegocioDescripcion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Edicion_AP_MonitorDistribucion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>d0c3679b-ee02-411d-8320-9d697d45e591</id>
+      <masked>false</masked>
+      <name>equipoDistribucion1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Edicion_AP_MonitorDistribucion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f73bea43-081b-430c-84b3-2caf6c6473c8</id>
+      <masked>false</masked>
+      <name>equipoDistribucion2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Edicion_AP_MonitorDistribucion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>6036776a-22cb-4df4-830b-4a69e8f1b382</id>
+      <masked>false</masked>
+      <name>equipoDistribucion3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Edicion_AP_MonitorDistribucion').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>e37b9b1b-e6c8-4ebc-909a-db2508366aa1</id>
+      <masked>false</masked>
+      <name>equipoDistribucion4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Edicion_AP_MonitorDistribucion').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>79b6b4db-c3da-45f0-80fb-d381f9e0506f</id>
+      <masked>false</masked>
+      <name>msgeErrorCorrespondenciaEquipoDistribucion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Edicion_AP_MonitorDistribucion').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>6ac73980-3c5c-4d3c-b39f-d37aeb80b791</id>
+      <masked>false</masked>
+      <name>idOpcionEquipoDistrib</name>
+   </variable>
+</TestCaseEntity>

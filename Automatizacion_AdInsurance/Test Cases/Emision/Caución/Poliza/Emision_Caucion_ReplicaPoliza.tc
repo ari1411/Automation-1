@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ReplicaPoliza</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc54df86-94df-4501-8a13-5ce3746a3363</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>d46753b9-5394-4ef4-8b4c-4328b16a93e7</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>88cbe7b6-7cdc-494e-99dd-4a16d6a8333e</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPersonaExistente').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>1ac9252d-3116-468b-82b8-0b30ea4cd72f</id>
+      <masked>false</masked>
+      <name>numCotizacionPrecondicion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>e8528876-cb52-442b-a16c-e43020f72212</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>e3c30407-3d70-49b2-96c3-29cd969558db</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>5b96b3b1-1549-4492-ba51-cec168781782</id>
+      <masked>false</masked>
+      <name>prodPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>a470aa83-6251-45e2-8451-81151ff57d0a</id>
+      <masked>false</masked>
+      <name>vigenciaContrato</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>cd4dd5f8-66dc-42ba-8860-7426cc354515</id>
+      <masked>false</masked>
+      <name>tomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ReplicaPoliza').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>a18240fe-7648-4413-8440-0556fb6100fd</id>
+      <masked>false</masked>
+      <name>moneda</name>
+   </variable>
+</TestCaseEntity>

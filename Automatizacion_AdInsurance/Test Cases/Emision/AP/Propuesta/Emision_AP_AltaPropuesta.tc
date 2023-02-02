@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_AltaPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36cecbc3-85f8-41e6-9586-71808b6feeef</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9159f985-8f8c-470e-a273-19860a041fb1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f83daff0-1c04-46d1-a2e0-5838f203977b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d69b7d6e-41c4-4819-9a3b-f31b777f003f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a335c84-c12f-4c88-ba9a-002894409aab</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>9159f985-8f8c-470e-a273-19860a041fb1</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f83daff0-1c04-46d1-a2e0-5838f203977b</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>d69b7d6e-41c4-4819-9a3b-f31b777f003f</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_AltaPropuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>2a335c84-c12f-4c88-ba9a-002894409aab</id>
+      <masked>false</masked>
+      <name>fechaInicioVigencia</name>
+   </variable>
+</TestCaseEntity>

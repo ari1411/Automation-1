@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>false</initValue>
+      <name>UsingExcel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>instance of HSSFWorkbook</description>
+      <initValue>null</initValue>
+      <name>WORKBOOK</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CURRENT_TESTCASE_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>CURRENT_TESTSUITE_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>REPORT_FOLDER_NAME</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('_Global').getValue(1, 1)</initValue>
+      <name>CapturasPantalla_Ubicacion</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('_Global').getValue(2, 1)</initValue>
+      <name>CapturasPantalla_Carpeta</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('_Global').getValue(3, 1)</initValue>
+      <name>WaitForLoadString</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>0</initValue>
+      <name>WaitForLoad</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

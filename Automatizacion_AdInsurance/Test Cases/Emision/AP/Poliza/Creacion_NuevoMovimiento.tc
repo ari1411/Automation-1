@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Creacion_NuevoMovimiento</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6b34ca24-2800-4d8c-a6d6-0d772b2b1f44</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>e754733e-7bd6-4f20-ad75-14f4a8e5964f</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>aae07a15-f757-4b92-b59f-a1200b08ad9e</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>f7ad200f-954a-4b74-8815-fc004980fb40</id>
+      <masked>false</masked>
+      <name>consultaMovimientos</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>6cb41cf9-ab08-4b1f-b2dd-9726212f12f2</id>
+      <masked>false</masked>
+      <name>numEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>9411db13-1ab5-455f-893c-d0cce83cec85</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>08040f65-1075-4bc5-8cb1-cc92f97e9bd5</id>
+      <masked>false</masked>
+      <name>estadoPolizaIndeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>fd664ea1-6d98-48ea-8d40-5fac340ad212</id>
+      <masked>false</masked>
+      <name>msgeErrorFaltaPropuestas2</name>
+   </variable>
+</TestCaseEntity>

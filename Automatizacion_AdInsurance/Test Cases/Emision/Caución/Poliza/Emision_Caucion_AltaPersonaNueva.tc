@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_AltaPersonaNueva</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e2d534b3-c146-4eed-917e-c0112c1e8e6b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>be8556b8-5684-414a-94d9-dac21dedaaf8</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>ed5e3201-8b0a-4eb3-9f2c-7309bfe0ae3a</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>b7ebb841-43d3-46ff-943e-259656f00603</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>2205d971-4648-400d-9e0b-5fdedb0aeb83</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f6c639c0-b68a-4943-b2f4-657f894bfc12</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>b6462a3d-8ab0-4a24-97ed-cbc25d12a036</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>aa2d54e5-d8b4-49e0-8e40-701cf74d9a5c</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>e3a948ce-fd2e-438b-a34a-f75d12558201</id>
+      <masked>false</masked>
+      <name>vigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>d325a460-9e28-4c91-866e-e2ccd968ea01</id>
+      <masked>false</masked>
+      <name>formaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>b8825614-9a04-44d1-945a-6834d9ecb96e</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>189edad9-6b84-4fcb-b7ce-a8a038e7e775</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>0e9ef304-3879-4690-bee2-7a5e3ab074e1</id>
+      <masked>false</masked>
+      <name>producto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>86f8f1a6-5206-48d2-ac8d-d830a028a738</id>
+      <masked>false</masked>
+      <name>vigenciaContrato</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPersonaNueva').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>ff19698d-a4a8-4f1c-9cf4-f3d71a994dc4</id>
+      <masked>false</masked>
+      <name>sucursalValid</name>
+   </variable>
+</TestCaseEntity>

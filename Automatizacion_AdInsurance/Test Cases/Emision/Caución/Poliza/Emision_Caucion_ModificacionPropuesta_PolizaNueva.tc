@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ModificacionPropuesta_PolizaNueva</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a12ccb74-c741-4992-a926-4f5d92ef7164</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>d3273259-01fd-4919-be65-37a9e1e7c94c</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>786ad3b4-24c3-435c-a05e-56b053adf872</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>9b4ce485-399b-42e8-bb68-4f2cd379070d</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>a89a5168-97ce-4df2-9978-40f9c556cfb4</id>
+      <masked>false</masked>
+      <name>ProductorPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>01f03210-fb1c-40c9-8ed3-40bef0b89981</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>b70895e1-d1f8-42c8-b0f4-d489765adf6c</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>12c04e66-0376-447e-bbfa-8b7bb39505e5</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>efe04691-e252-4fa5-92a4-78251a096ce6</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>fdf8dfc1-6f69-4f5f-9bfc-e80f28189774</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>02869872-ecac-4c9a-a687-7a20c48e2c4f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>05c039f9-35fe-40a2-afd5-c35b88c296d9</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>c5e40836-2015-4f3a-b0e7-5e24008c7c6f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>85cccab4-81e4-4a34-9533-ce54815626db</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>68106a14-fd70-473a-b3c6-1e00bab2cd10</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>da31315e-1c54-4446-8964-ec95671ce4e2</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>504f397d-ca9d-4d3c-bf80-3dbfda248286</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>f1e5c87a-d540-44ec-a278-25e519245bd2</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>425d9ab5-c860-4fdc-b8e7-f92d65bc5bd5</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_EqTec</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>4f835f60-4fa6-49ce-94ae-93e3c6fa908f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>edac4c37-bb17-4383-82a1-fb0fde49e553</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>b73e19dc-2f5b-4c85-8f7d-a3c94812eb34</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>7c18decb-0374-44f8-87db-ee08c28f3f63</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>2b8ecce9-c382-4e78-be1e-41264cd20949</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>7becef8e-9d74-4009-9136-de9e06051279</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>a4efcc45-0bc2-486e-b2e6-7a14b7077eca</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>8a77c5bf-4d06-4822-97ee-bc75312aa9b3</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>209840f9-376c-4fbe-9c42-65ad4976c92e</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>a4c64b39-4ca7-4fc9-a562-c2d1d88f5f0f</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>4f3f56e5-b680-4def-b1b3-1f5ab8f96058</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_PolizaNueva').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>1e43ce9b-3a78-4f56-91a3-27337be32661</id>
+      <masked>false</masked>
+      <name>consultaPropuestas</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_PropuestaIncompleta_CompletandoDatos').getValue(36, 1)</defaultValue>
+      <description></description>
+      <id>ff22b7cd-19c4-4351-a05a-6b08a7298fd0</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

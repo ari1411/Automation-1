@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_AltaPropuesta_EnEspera</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6935ef59-b7b7-40a9-b961-0b4168755d0d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>7a2db215-2000-4fe5-9f0a-6f47c9a5c7c9</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>c9d0ce2f-63d0-4edc-880a-0363fed260b5</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>b762dcbd-c0eb-49b4-86df-bd13fe1e81ad</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>bfaaaa64-12a2-40ed-9796-7f7f3e7a2a3d</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>99d9d0c8-26ac-40b6-9c66-715f0b50ac8a</id>
+      <masked>false</masked>
+      <name>sucursal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>dde8c458-75a2-4743-9595-0e4f1ac755b6</id>
+      <masked>false</masked>
+      <name>centroAtencion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>5601cebf-e7c0-4f71-a40e-aa40fd403020</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>510019a9-1e3f-4caf-a9e9-3d3155f77758</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>0dc48453-3852-4384-9f37-5025f34f5307</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>09cc0ec2-1189-432e-9401-20672e16fe49</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>b7e0072b-381f-4365-878c-f041b89c47b9</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>d69b98a5-608c-427e-ad39-5f149547b614</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>43515d06-2da0-4451-bc9d-08f21a3d9d43</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>746c5fdb-6ceb-46cf-a5b9-0fc7ac442fc9</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>8d39ad60-bcc6-4594-aa7f-625f1acdfde4</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>57785c0a-7d97-4e73-baf2-6810779bb570</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>53b1f4f8-c37e-4e66-b0ba-65117eb61d5d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>cb23adfa-8747-4e61-85ed-8ac98b2a302e</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>bf6f2615-2d03-472e-afaf-56fcd04e7602</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>eff4363d-2071-4809-ad78-e4bcb48a6e7f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>6d80787c-a78c-4f6a-af34-f2100a79f873</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>81473005-84aa-4554-8af7-696c5dea59e3</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>f4455cf4-bda2-4de6-bda4-e49d1cadb5c1</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>5a4fdd1b-4f3e-4fff-92bf-f3767f54cb72</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>2f944c22-9a84-4fb8-9374-d8cc8cc753a4</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>350a93f3-d36d-47f2-9b1b-22e9911d23fb</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>4c8e815b-4ac2-4efd-882f-da29b6a496d5</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>cedf47ee-cb44-44df-b128-c3c72da35003</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>299b3e6d-f32f-4b50-8d5d-5c1feddff7b4</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(30, 1)</defaultValue>
+      <description></description>
+      <id>d2038631-9421-4396-8e68-fbb1d07e04b2</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>3dab6784-8114-467e-b2e7-6d6f1f4a9cd4</id>
+      <masked>false</masked>
+      <name>motivoGuardar</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>05f6d139-dbe8-432c-8928-beedcbb2b77a</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_AltaPropuesta_EnEspera').getValue(33, 1)</defaultValue>
+      <description></description>
+      <id>1695c520-e1c5-4fad-a35d-4a58630b5841</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

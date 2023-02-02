@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Hogar_AltaPoliza</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b4b505a7-6640-4e85-ac95-5c66992c7175</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>16092351-1577-448b-b5c4-ffbdd7404963</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>7a7ce017-ee55-4155-b6d9-224c8ba69073</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>a25594bc-963d-4cc4-ae12-4815f775d563</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>87736f09-c031-47af-99b0-db345f71593b</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>0417fa15-b952-4362-8a41-cd7621072457</id>
+      <masked>false</masked>
+      <name>subProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>03f32635-5230-4f61-8e81-7d67d681d619</id>
+      <masked>false</masked>
+      <name>vigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>3c95913c-84f5-4e4e-9cc7-b31cc573c915</id>
+      <masked>false</masked>
+      <name>formaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>3f9bea5f-0f22-49f2-bbe1-84c9bd9fc934</id>
+      <masked>false</masked>
+      <name>planCuotasId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>930e7d74-b76c-4a94-9439-508f7249375a</id>
+      <masked>false</masked>
+      <name>planComercialId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>0255f8de-1bdc-41e8-9d62-883a889b2320</id>
+      <masked>false</masked>
+      <name>monedaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>83ed6ed3-9348-4bbb-ae94-3b93c70dd439</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>5b8a848b-9dc3-45aa-b9a7-730d53b63d8c</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>38370d10-2c65-4fc3-9190-e78d1ae37761</id>
+      <masked>false</masked>
+      <name>provinciaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>276e090b-bbde-4622-86c5-1a5b877bfdcc</id>
+      <masked>false</masked>
+      <name>localidad</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>b9972e17-2bcb-45b0-a9b1-7db2946abe69</id>
+      <masked>false</masked>
+      <name>codigoPostal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>09f4ef08-e190-4ae0-b376-071dba32ebd7</id>
+      <masked>false</masked>
+      <name>calle</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>fef9abaa-557f-41d2-b34f-00e131754191</id>
+      <masked>false</masked>
+      <name>altura</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>d2b8a3ac-9b00-45f8-a5b5-4baf41e1f449</id>
+      <masked>false</masked>
+      <name>piso</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>9275b60a-29c4-4fe4-a90e-bfda5f8beed1</id>
+      <masked>false</masked>
+      <name>departamento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>13d74a6a-769a-4dee-9c08-5cc9a948d6c2</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>737e01bc-a1b4-40f8-a8d9-05fdb80bf8ad</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

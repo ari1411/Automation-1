@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AutoIndividual_EndosoCambioDatosTomador</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e141ecb8-8a71-4e2d-b5bd-08dd9b90ca13</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_EndosoCambioDatosTomador').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>d980434e-e962-4121-aa26-4f01b503f83c</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_EndosoCambioDatosTomador').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>d111fa59-10a5-4bf2-9ca3-2cc24ab3d1db</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_EndosoCambioDatosTomador').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>020585a7-0d8d-4727-8ab9-2a8b401c5738</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_EndosoCambioDatosTomador').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>54ec0a85-e551-406e-bfea-536f293cd766</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_EndosoCambioDatosTomador').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>9e030553-9026-46bf-910e-dfde700a5a17</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_EndosoCambioDatosTomador').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>b8391593-f81a-499c-a2c1-0c17eb5c3d45</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_EndosoCambioDatosTomador').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>edfe2abe-c923-47c1-afc6-7ddc78be8bd1</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_EndosoCambioDatosTomador').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>b5197916-cf4d-4883-9ff7-b0791078c8af</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_EndosoCambioDatosTomador').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>f99ad92f-fa3e-4c56-978f-70b188895c21</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPoliza').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>8aabd72e-ad2d-47f8-aefd-494d9ad9754d</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPoliza').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>01ee6cc0-05a6-43b7-82a3-e4257ce46211</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+</TestCaseEntity>

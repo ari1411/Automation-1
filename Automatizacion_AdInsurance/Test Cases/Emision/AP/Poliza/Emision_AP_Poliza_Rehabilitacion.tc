@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_Poliza_Rehabilitacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0151fe0-93e1-4b35-a27c-24ea78f7549e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>ebcf9ec1-4b94-4029-8ec0-4e1ae972093f</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>7e738576-a4b8-4580-a858-008a290b204d</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>139b7188-22e5-4256-a9bf-b8bb196e7e6a</id>
+      <masked>false</masked>
+      <name>estadoPolizaDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>280dc75f-104b-420d-814b-b8af0f634537</id>
+      <masked>false</masked>
+      <name>numEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>7afd9a7b-eece-4011-926f-15eb4311fdc8</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>56552ea6-3387-4244-9b96-c82eacdf611e</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>ac95b6c5-d8c9-4332-b94d-cab566b2e6ee</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>0dbd8bb5-6e7f-4376-b001-69dcae5f1b05</id>
+      <masked>false</masked>
+      <name>consultaMovimientos</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>415883d2-2a28-4914-8532-4c1c7db68625</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>bf32a667-f134-4335-8207-3587bcc5939b</id>
+      <masked>false</masked>
+      <name>msgeOK</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_Rehabilitacion').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>369e5732-1bbe-4cc3-82d2-5762bce419c1</id>
+      <masked>false</masked>
+      <name>msgeERROR</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ModificacionPropuesta_Endoso</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40855168-db53-4b74-8d85-6d5a03926eb2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b9f4cde0-2e16-4b7c-8fbe-f116513531cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3edf565-24d9-47f0-8b57-a4e4674e317a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>00030ad9-b911-44db-8a67-e3e3ab1fea35</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>abe883d8-a01f-4126-9835-53be06399be3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9e525d3f-1d79-4bfa-b35b-0b41b8211adf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>590affc4-2fd8-4104-b3f8-65e9cf4dbc62</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1cb4a1a4-9efc-45bc-931f-8371655d3f7d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8005a42-0cd5-48ea-821f-a55d4dbd1245</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>530eb405-187d-4d4a-acb8-c0c89db7c1f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_Endoso').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>b9f4cde0-2e16-4b7c-8fbe-f116513531cb</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_Endoso').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>a3edf565-24d9-47f0-8b57-a4e4674e317a</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_Endoso').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>00030ad9-b911-44db-8a67-e3e3ab1fea35</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_Endoso').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>abe883d8-a01f-4126-9835-53be06399be3</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_Endoso').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>9e525d3f-1d79-4bfa-b35b-0b41b8211adf</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_Endoso').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>590affc4-2fd8-4104-b3f8-65e9cf4dbc62</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_Endoso').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>1cb4a1a4-9efc-45bc-931f-8371655d3f7d</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_Endoso').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>d8005a42-0cd5-48ea-821f-a55d4dbd1245</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ModificacionPropuesta_Endoso').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>530eb405-187d-4d4a-acb8-c0c89db7c1f3</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+</TestCaseEntity>

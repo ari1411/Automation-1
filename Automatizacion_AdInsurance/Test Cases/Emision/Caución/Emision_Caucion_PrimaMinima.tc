@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_PrimaMinima</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82541537-ef01-4ab2-b9b6-24e9ae0df4d6</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aaec1a31-6202-43c4-8ec2-bd4e4bd68867</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>27e54cae-ecd5-4dbf-a0f4-a810744c4066</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07e44b91-6e54-4b80-9f0f-ca2c821f625e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>12010acb-2550-42f9-ab5d-90145b0a8952</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2f445f3-26a0-4737-b4d6-c0862987862b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98e8123b-021b-4797-821d-d3987027cc64</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>492c8196-6185-4a58-83d5-e9e0d3f9469c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a31a0b3b-e46c-49e0-b938-3cc3f789b16b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87613032-9dc6-4417-8c7b-f4b986b57d80</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e8bc1ce1-1c6a-4d42-a67e-d339af97be92</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f4c8376c-89ee-4a93-809d-c2086f2f2904</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa7f85cf-30fc-4862-8555-ed2aa3c7a185</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>aaec1a31-6202-43c4-8ec2-bd4e4bd68867</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>27e54cae-ecd5-4dbf-a0f4-a810744c4066</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>07e44b91-6e54-4b80-9f0f-ca2c821f625e</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>12010acb-2550-42f9-ab5d-90145b0a8952</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>f2f445f3-26a0-4737-b4d6-c0862987862b</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>98e8123b-021b-4797-821d-d3987027cc64</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>492c8196-6185-4a58-83d5-e9e0d3f9469c</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>a31a0b3b-e46c-49e0-b938-3cc3f789b16b</id>
+      <masked>false</masked>
+      <name>vigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>87613032-9dc6-4417-8c7b-f4b986b57d80</id>
+      <masked>false</masked>
+      <name>formaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>e8bc1ce1-1c6a-4d42-a67e-d339af97be92</id>
+      <masked>false</masked>
+      <name>MontoSumaAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>f4c8376c-89ee-4a93-809d-c2086f2f2904</id>
+      <masked>false</masked>
+      <name>TxtValidacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_PrimaMinima').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>fa7f85cf-30fc-4862-8555-ed2aa3c7a185</id>
+      <masked>false</masked>
+      <name>MontoPrimaMinima</name>
+   </variable>
+</TestCaseEntity>

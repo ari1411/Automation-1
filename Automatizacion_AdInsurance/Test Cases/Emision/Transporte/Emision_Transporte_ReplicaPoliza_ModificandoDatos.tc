@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_ReplicaPoliza_ModificandoDatos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>90b33558-d21d-4617-8591-97f73bc9fad8</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>f6cfeb49-1c13-49f1-ba3f-055610acc12d</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>1e8b5c01-0a10-4d8c-8d96-5054498fd3ff</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>6d1116e7-2077-4822-bdcf-6a2ae932d7c9</id>
+      <masked>false</masked>
+      <name>prodPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>c97c5681-a5b8-4eb7-8c73-04d65fa7528f</id>
+      <masked>false</masked>
+      <name>producto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>6ed863eb-33b4-4d5e-8ff1-9713bdcbd5cd</id>
+      <masked>false</masked>
+      <name>subproducto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>249fe886-1483-4e42-a9e1-dd8eba6a3ada</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>45743b92-f56f-4544-8630-3fe0eb2f8566</id>
+      <masked>false</masked>
+      <name>docTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>c577c000-7c73-4ff7-8823-9553126d4b0c</id>
+      <masked>false</masked>
+      <name>montoEstimadoTransitoAereo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>c028a200-9235-47f3-9353-0ee11311b95a</id>
+      <masked>false</masked>
+      <name>montoEstimadoAereoBasica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>312b1d12-516b-4fb9-aeed-3e7d978cbdd4</id>
+      <masked>false</masked>
+      <name>montoEstimadoTeleportacionCuantica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>d6efe84c-2b68-48e1-a16c-fc8027bf272f</id>
+      <masked>false</masked>
+      <name>porcentajePrimaDeposito</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>8b2e5ac4-81d7-4ce9-b79c-6cead887aa6b</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>c2407861-4451-4523-a35c-bf64bc5343e6</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaConPersonaNueva').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>2ea72256-60a3-46e7-8443-b4358698868e</id>
+      <masked>false</masked>
+      <name>numPolizaPrevio</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>7f0d6ef0-fd41-42d7-9c60-018385e64c41</id>
+      <masked>false</masked>
+      <name>mensajeError1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPoliza_ModificandoDatos').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>833a25c8-0c46-40af-8e44-524a7db501f1</id>
+      <masked>false</masked>
+      <name>mensajeError2</name>
+   </variable>
+</TestCaseEntity>

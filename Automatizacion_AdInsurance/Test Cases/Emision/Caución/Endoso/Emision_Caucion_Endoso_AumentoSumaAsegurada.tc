@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_Endoso_AumentoSumaAsegurada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>611ba9fd-f178-4e3a-b695-e0f677576fa4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9a7b9dc5-6ded-4736-bcc9-ba8b4e1524c1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f356ac8e-646d-4cfd-be4a-c41a6cbab9bb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1321bea-ebd8-44e5-8eb9-a981c645ca48</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de4b66c0-6051-4b0f-bb50-4ccf498160a7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>782148e5-718f-4bcf-b5e8-17794cb6dbb6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dff05b11-a81c-4f35-85d6-ce2b6738bd9c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dde5c3f0-335a-44ab-ad92-f753d566ffd9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d68ad9cd-3757-42da-8ad0-0e6883094386</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_Endoso_AumentoSumaAsegurada').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>9a7b9dc5-6ded-4736-bcc9-ba8b4e1524c1</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_Endoso_AumentoSumaAsegurada').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>f356ac8e-646d-4cfd-be4a-c41a6cbab9bb</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_Endoso_AumentoSumaAsegurada').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>f1321bea-ebd8-44e5-8eb9-a981c645ca48</id>
+      <masked>false</masked>
+      <name>Poliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_Endoso_AumentoSumaAsegurada').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>de4b66c0-6051-4b0f-bb50-4ccf498160a7</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_Endoso_AumentoSumaAsegurada').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>782148e5-718f-4bcf-b5e8-17794cb6dbb6</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_Endoso_AumentoSumaAsegurada').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>dff05b11-a81c-4f35-85d6-ce2b6738bd9c</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_Endoso_AumentoSumaAsegurada').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>dde5c3f0-335a-44ab-ad92-f753d566ffd9</id>
+      <masked>false</masked>
+      <name>SumaAseguradaPublica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Caucion_AltaPersonaExistente').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>d68ad9cd-3757-42da-8ad0-0e6883094386</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

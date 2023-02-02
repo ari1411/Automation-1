@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ProsperarPropuesta_CasaCentral</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10b12d1c-fb0e-40de-91e9-fa74bc3cb2be</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>bcd70029-ab71-4599-aba5-d160ba78bb44</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>65fb9389-fc37-4d79-bc76-5cb7c7de715a</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>b3d51daf-e89f-48cd-932f-c4f5a4e77270</id>
+      <masked>false</masked>
+      <name>DiasFechaFinVigencia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>4463ea76-519c-4b12-b55b-fdffcd986a04</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>fea51e77-5392-4533-82c5-8c9ea76fcd4d</id>
+      <masked>false</masked>
+      <name>sucursal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>59ee09b6-370c-42b1-b1b3-e5f1cf8f869f</id>
+      <masked>false</masked>
+      <name>centroAtencion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>dbe89048-11da-4e8f-a169-cab5a6f5391f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_eqTecnico</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>adb63639-c475-4508-9a2d-483dc42e073b</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaRenovadaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>cbb55670-3986-4975-ae09-c5dafa248e55</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CodAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>20b62590-8db7-4f46-94af-cffd1d0911af</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_NombreAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>85259f0f-7bb8-4286-9457-ab404e2dc9a3</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ApellidoAseg</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>dfc79d10-c0cc-49ad-bc3b-d7540d8d89c3</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TipoDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>55855019-fdb3-4f98-b3c8-f47efeae0125</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nDoc</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>fbaa582c-2ff8-4040-98c5-65c26f46d355</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Direccion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>f4c42508-0374-497b-88e2-6ff041c62a7d</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Sexo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>7ab5ebba-fa53-4809-b12b-89ee64c30abd</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Tel</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>8086ed99-eadd-4f6d-9718-9eeeffd79aea</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Mail</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>f6ca8bc6-9df8-4bca-96f1-f22560c6d45e</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_PrimaInformada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>612a1955-28a6-42c4-b503-4804cf3463e5</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_nPolizaSISE</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(20, 1)</defaultValue>
+      <description></description>
+      <id>d7748ee5-12d5-498d-9c24-0f081e5b96dc</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_Obs</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(21, 1)</defaultValue>
+      <description></description>
+      <id>22141b69-6369-4ca9-a1c3-60f9f97f65b5</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RiType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(22, 1)</defaultValue>
+      <description></description>
+      <id>755a8102-116d-4667-a781-211d808f14ab</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MML</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(23, 1)</defaultValue>
+      <description></description>
+      <id>f6f2d219-4708-460e-9a4a-f7335c750a01</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_CiaReferida</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>387457f0-be99-457d-a798-20f764d58182</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MARS</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>c7c88669-37eb-4e37-b006-d82b035577c9</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_MetodPayment</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(26, 1)</defaultValue>
+      <description></description>
+      <id>d6bf9608-dbac-4f15-9bb7-94a01bce0735</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_RIType</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(27, 1)</defaultValue>
+      <description></description>
+      <id>4823d7e1-af03-447f-9caf-41790d37a45a</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_TreatyCode</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(28, 1)</defaultValue>
+      <description></description>
+      <id>20eaa82f-fc81-4f2a-9ac0-69369bce8503</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AgencyComRate</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(29, 1)</defaultValue>
+      <description></description>
+      <id>edf9c361-9e19-457b-b289-7905936d287e</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_FechaNac</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(30, 1)</defaultValue>
+      <description></description>
+      <id>6b3e2a85-7655-4a68-8bd9-81c4f6ecbb1f</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_ActAP</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>fb298e46-5138-4a95-a384-ec0d3e9268e1</id>
+      <masked>false</masked>
+      <name>ValorPropuesta_AmbitoCobertura</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>063d5e50-bf21-4eae-9788-e02e29cf2440</id>
+      <masked>false</masked>
+      <name>TipoDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(33, 1)</defaultValue>
+      <description></description>
+      <id>1a025d6d-7eba-402b-90d1-b66acf846e03</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(34, 1)</defaultValue>
+      <description></description>
+      <id>6730ddd2-f3bf-4ba6-a361-49d5695df155</id>
+      <masked>false</masked>
+      <name>nDocAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(35, 1)</defaultValue>
+      <description></description>
+      <id>bb2b6087-3a0d-471b-bbd0-c68b0a010cae</id>
+      <masked>false</masked>
+      <name>estadoCotizacionGrilla</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(36, 1)</defaultValue>
+      <description></description>
+      <id>ca014775-7f2d-4b44-9299-ffd1032a6db5</id>
+      <masked>false</masked>
+      <name>productoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(37, 1)</defaultValue>
+      <description></description>
+      <id>4e29d5fa-4508-4459-8a52-7d2e8425d69b</id>
+      <masked>false</masked>
+      <name>vigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(38, 1)</defaultValue>
+      <description></description>
+      <id>68af0a69-59ce-41b8-a399-c58f439b3600</id>
+      <masked>false</masked>
+      <name>formaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(39, 1)</defaultValue>
+      <description></description>
+      <id>165766b2-2354-45b0-bbc0-262f7922f27f</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(40, 1)</defaultValue>
+      <description></description>
+      <id>fcd8d6ae-2ea3-4c2d-af9c-208aee7bcc7d</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(42, 1)</defaultValue>
+      <description></description>
+      <id>1af10f95-5800-4bce-a3b2-abd26fc94f23</id>
+      <masked>false</masked>
+      <name>producto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(43, 1)</defaultValue>
+      <description></description>
+      <id>84e8cee8-0825-4f42-944a-31dfd0c0e9d0</id>
+      <masked>false</masked>
+      <name>vigenciaContrato</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ProsperarPropuesta_CasaCentral').getValue(44, 1)</defaultValue>
+      <description></description>
+      <id>5b577049-a822-4c6a-8b83-0e8ce50a2421</id>
+      <masked>false</masked>
+      <name>sucursalValid</name>
+   </variable>
+</TestCaseEntity>

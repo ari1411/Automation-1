@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emisión_Alta_Propuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1e87ebb-6908-46db-af62-ed18736714c1</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>228454a2-bed5-4628-8c5a-37b78e1c53e9</id>
+      <masked>false</masked>
+      <name>PolizaNvaDescripcionFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>5e559084-a3dc-4cbd-a2d6-10dafca527bb</id>
+      <masked>false</masked>
+      <name>PolizaNvaValorFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(2, 2)</defaultValue>
+      <description></description>
+      <id>9075fda0-44cd-4785-ac88-1bfbaba370c6</id>
+      <masked>false</masked>
+      <name>PolizaNvaDescripcionFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(3, 2)</defaultValue>
+      <description></description>
+      <id>fea9ff37-32c3-4451-b288-dabbebcb525e</id>
+      <masked>false</masked>
+      <name>PolizaNvaValorFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(2, 3)</defaultValue>
+      <description></description>
+      <id>ad340bab-a51a-48f4-ac79-ee5e354c1fb8</id>
+      <masked>false</masked>
+      <name>PolizaNvaDescripcionFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(3, 3)</defaultValue>
+      <description></description>
+      <id>5b27fd79-604d-4dbf-9015-4040a868d2ee</id>
+      <masked>false</masked>
+      <name>PolizaNvaValorFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(2, 4)</defaultValue>
+      <description></description>
+      <id>f699998c-d650-4b68-9b55-3da51c9f2a5a</id>
+      <masked>false</masked>
+      <name>PolizaNvaDescripcionFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(3, 4)</defaultValue>
+      <description></description>
+      <id>74027092-a52a-44a8-bbef-71662c78db79</id>
+      <masked>false</masked>
+      <name>PolizaNvaValorFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(2, 5)</defaultValue>
+      <description></description>
+      <id>77860b80-30ea-4dfe-900a-481d71782b4e</id>
+      <masked>false</masked>
+      <name>PolizaNvaDescripcionFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(3, 5)</defaultValue>
+      <description></description>
+      <id>7473e637-1428-49e9-b141-bace334bd997</id>
+      <masked>false</masked>
+      <name>PolizaNvaValorFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(2, 6)</defaultValue>
+      <description></description>
+      <id>e68df391-6a3d-4961-b28f-eda1dc95d9a4</id>
+      <masked>false</masked>
+      <name>PolizaNvaDescripcionFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(3, 6)</defaultValue>
+      <description></description>
+      <id>6eba14a9-035e-47fe-8954-b94e3eb638e2</id>
+      <masked>false</masked>
+      <name>PolizaNvaValorFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(2, 7)</defaultValue>
+      <description></description>
+      <id>af3df905-9344-41d5-88f9-492e4f47ed9e</id>
+      <masked>false</masked>
+      <name>PolizaNvaDescripcionFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(3, 7)</defaultValue>
+      <description></description>
+      <id>d0d9b8eb-bc08-4a29-b95f-859633b2251c</id>
+      <masked>false</masked>
+      <name>PolizaNvaValorFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>1673e001-eec6-405a-bbc5-d701a7e84e72</id>
+      <masked>false</masked>
+      <name>AnulacionDescripcionFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>2ff93ba0-9bd7-47df-85c5-20e68bd5a067</id>
+      <masked>false</masked>
+      <name>AnulacionValorFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(6, 2)</defaultValue>
+      <description></description>
+      <id>26bd2217-382a-4af0-b285-33e943ecfd23</id>
+      <masked>false</masked>
+      <name>AnulacionDescripcionFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(7, 2)</defaultValue>
+      <description></description>
+      <id>b6637df2-1281-4ed6-9462-f7373fd95068</id>
+      <masked>false</masked>
+      <name>AnulacionValorFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(6, 3)</defaultValue>
+      <description></description>
+      <id>4774ddc3-6010-4914-a63c-afb00a8fdfbe</id>
+      <masked>false</masked>
+      <name>AnulacionDescripcionFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(7, 3)</defaultValue>
+      <description></description>
+      <id>a23fe018-ce04-4fde-bdae-e01b342af7c3</id>
+      <masked>false</masked>
+      <name>AnulacionValorFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(6, 4)</defaultValue>
+      <description></description>
+      <id>305dba6c-bd13-42b9-9430-b6c2a888d58d</id>
+      <masked>false</masked>
+      <name>AnulacionDescripcionFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(7, 4)</defaultValue>
+      <description></description>
+      <id>f59632b2-0302-4760-b9da-66670ba40007</id>
+      <masked>false</masked>
+      <name>AnulacionValorFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(6, 5)</defaultValue>
+      <description></description>
+      <id>e497f628-307a-4bf7-939d-75d6857b7938</id>
+      <masked>false</masked>
+      <name>AnulacionDescripcionFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(7, 5)</defaultValue>
+      <description></description>
+      <id>4b2317c5-f256-4cae-88cb-39555a3f93cb</id>
+      <masked>false</masked>
+      <name>AnulacionValorFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(6, 6)</defaultValue>
+      <description></description>
+      <id>1e4094a1-298a-4dd4-9814-b39dae08e95c</id>
+      <masked>false</masked>
+      <name>AnulacionDescripcionFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(7, 6)</defaultValue>
+      <description></description>
+      <id>5ec3de61-ea2a-4a66-8fea-7f485ee9ccf2</id>
+      <masked>false</masked>
+      <name>AnulacionValorFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(6, 7)</defaultValue>
+      <description></description>
+      <id>36b3936b-794d-49bf-bf32-ef9b163783b8</id>
+      <masked>false</masked>
+      <name>AnulacionDescripcionFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(7, 7)</defaultValue>
+      <description></description>
+      <id>f5f1575f-d10e-4c07-ae8d-0bc1ede4fe7e</id>
+      <masked>false</masked>
+      <name>AnulacionValorFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>af19d359-558a-4b2d-b3b1-0b5b1556babe</id>
+      <masked>false</masked>
+      <name>EndosoDescripcionFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>671c89ba-34fa-4525-8e39-cf496ca6e1aa</id>
+      <masked>false</masked>
+      <name>EndosoValorFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(10, 2)</defaultValue>
+      <description></description>
+      <id>27f078ae-7022-4768-a8a6-9c7f247532ae</id>
+      <masked>false</masked>
+      <name>EndosoDescripcionFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(11, 2)</defaultValue>
+      <description></description>
+      <id>d97ca3ea-97a1-49e9-9c77-731653160300</id>
+      <masked>false</masked>
+      <name>EndosoValorFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(10, 3)</defaultValue>
+      <description></description>
+      <id>4de43a12-430b-4a48-ab86-ae7f4ebb73a0</id>
+      <masked>false</masked>
+      <name>EndosoDescripcionFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(11, 3)</defaultValue>
+      <description></description>
+      <id>4b3a55f5-6246-4211-850f-a4c7f9cce0d7</id>
+      <masked>false</masked>
+      <name>EndosoValorFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(10, 4)</defaultValue>
+      <description></description>
+      <id>e966a07d-bd03-4a75-bdb2-840379cb3493</id>
+      <masked>false</masked>
+      <name>EndosoDescripcionFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(11, 4)</defaultValue>
+      <description></description>
+      <id>b763652a-0b35-49ab-bc4b-89cd35d19e19</id>
+      <masked>false</masked>
+      <name>EndosoValorFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(10, 5)</defaultValue>
+      <description></description>
+      <id>b1820214-6bb5-4ca6-9745-04d87c82d571</id>
+      <masked>false</masked>
+      <name>EndosoDescripcionFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(11, 5)</defaultValue>
+      <description></description>
+      <id>c962d666-148a-4ed6-b433-6dbe47fef348</id>
+      <masked>false</masked>
+      <name>EndosoValorFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(10, 6)</defaultValue>
+      <description></description>
+      <id>e38d26f4-09fb-4bf6-b812-422310522eb3</id>
+      <masked>false</masked>
+      <name>EndosoDescripcionFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(11, 6)</defaultValue>
+      <description></description>
+      <id>f3dbc234-76f0-42ca-a65b-a73346b06bcd</id>
+      <masked>false</masked>
+      <name>EndosoValorFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(10, 7)</defaultValue>
+      <description></description>
+      <id>85c127bd-a848-4ef7-9a92-569357ada9a7</id>
+      <masked>false</masked>
+      <name>EndosoDescripcionFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(11, 7)</defaultValue>
+      <description></description>
+      <id>61a4c9f5-50e4-4a65-9e24-f341c8de2924</id>
+      <masked>false</masked>
+      <name>EndosoValorFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>c2aff4a2-c6e3-4e37-abd0-169f9c6cf074</id>
+      <masked>false</masked>
+      <name>ProrrogaDescripcionFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>e368c8b2-037d-48f7-ad33-a087de00ea9d</id>
+      <masked>false</masked>
+      <name>ProrrogaValorFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(14, 2)</defaultValue>
+      <description></description>
+      <id>90f93130-562d-41b8-9732-ea135fb3c1b7</id>
+      <masked>false</masked>
+      <name>ProrrogaDescripcionFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(15, 2)</defaultValue>
+      <description></description>
+      <id>53b063ac-42fd-49ff-bbfa-f97402a5806b</id>
+      <masked>false</masked>
+      <name>ProrrogaValorFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(14, 3)</defaultValue>
+      <description></description>
+      <id>745a8e86-fcd3-43b1-b31c-dc540235455d</id>
+      <masked>false</masked>
+      <name>ProrrogaDescripcionFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(15, 3)</defaultValue>
+      <description></description>
+      <id>7a2dc90b-6dae-4115-b4be-ce19910e9036</id>
+      <masked>false</masked>
+      <name>ProrrogaValorFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(14, 4)</defaultValue>
+      <description></description>
+      <id>d5dce42a-54c4-423b-81c6-3739521cb925</id>
+      <masked>false</masked>
+      <name>ProrrogaDescripcionFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(15, 4)</defaultValue>
+      <description></description>
+      <id>452aa675-069a-4b76-a684-ebd94a5095ab</id>
+      <masked>false</masked>
+      <name>ProrrogaValorFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(14, 5)</defaultValue>
+      <description></description>
+      <id>c93c5a62-1f4b-4894-a72b-594ddedb083f</id>
+      <masked>false</masked>
+      <name>ProrrogaDescripcionFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(15, 5)</defaultValue>
+      <description></description>
+      <id>703e3d9e-6dce-4ea9-bdef-63f9579aa36f</id>
+      <masked>false</masked>
+      <name>ProrrogaValorFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(14, 6)</defaultValue>
+      <description></description>
+      <id>08b89709-a0cf-45d7-aeb6-fc5c40c27113</id>
+      <masked>false</masked>
+      <name>ProrrogaDescripcionFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(15, 6)</defaultValue>
+      <description></description>
+      <id>4d5038cd-7019-4692-99b3-6d4c2798be59</id>
+      <masked>false</masked>
+      <name>ProrrogaValorFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(14, 7)</defaultValue>
+      <description></description>
+      <id>55bc9e65-52b7-46ef-b9f7-28cf2f70d103</id>
+      <masked>false</masked>
+      <name>ProrrogaDescripcionFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(15, 7)</defaultValue>
+      <description></description>
+      <id>77c57f02-faaf-479d-baf2-a0e5e6cb5a8a</id>
+      <masked>false</masked>
+      <name>ProrrogaValorFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>63ae85ed-0caf-4c1d-8cc2-c692a0ebd564</id>
+      <masked>false</masked>
+      <name>RenovacionDescripcionFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>c12c302b-7d28-422a-a8ba-48bf6900a143</id>
+      <masked>false</masked>
+      <name>RenovacionValorFila1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(18, 2)</defaultValue>
+      <description></description>
+      <id>fbb3b720-95f1-4399-8bb8-66d12c4e849c</id>
+      <masked>false</masked>
+      <name>RenovacionDescripcionFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(19, 2)</defaultValue>
+      <description></description>
+      <id>190a5ce0-8ec0-48bb-962b-4477da0baae5</id>
+      <masked>false</masked>
+      <name>RenovacionValorFila2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(18, 3)</defaultValue>
+      <description></description>
+      <id>616dc387-0199-4c38-a731-90619108f170</id>
+      <masked>false</masked>
+      <name>RenovacionDescripcionFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(19, 3)</defaultValue>
+      <description></description>
+      <id>ee934049-50cd-4926-985e-0f61016316b9</id>
+      <masked>false</masked>
+      <name>RenovacionValorFila3</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(18, 4)</defaultValue>
+      <description></description>
+      <id>4532a3eb-8bab-4758-9fe6-d2bb6307a454</id>
+      <masked>false</masked>
+      <name>RenovacionDescripcionFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(19, 4)</defaultValue>
+      <description></description>
+      <id>019c26c7-2dfd-496c-83bf-ac4740eb5813</id>
+      <masked>false</masked>
+      <name>RenovacionValorFila4</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(18, 5)</defaultValue>
+      <description></description>
+      <id>4c02889e-1748-4d87-86d1-90aa28e4cc26</id>
+      <masked>false</masked>
+      <name>RenovacionDescripcionFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(19, 5)</defaultValue>
+      <description></description>
+      <id>c0824a3e-3ab3-4a5e-8a8d-7c379ca1b301</id>
+      <masked>false</masked>
+      <name>RenovacionValorFila5</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(18, 6)</defaultValue>
+      <description></description>
+      <id>3b90f7d4-f26c-4920-980f-00e205f524b0</id>
+      <masked>false</masked>
+      <name>RenovacionDescripcionFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(19, 6)</defaultValue>
+      <description></description>
+      <id>b4e8fbeb-5406-4bbf-a72e-bad95ebad6df</id>
+      <masked>false</masked>
+      <name>RenovacionValorFila6</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(18, 7)</defaultValue>
+      <description></description>
+      <id>e22eb1fd-b81a-421e-a876-861ad6489118</id>
+      <masked>false</masked>
+      <name>RenovacionDescripcionFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta_ValDatos').getValue(19, 7)</defaultValue>
+      <description></description>
+      <id>825a0393-7218-4ba9-9e66-0339b2f49271</id>
+      <masked>false</masked>
+      <name>RenovacionValorFila7</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6ada6034-4f7f-4bb6-93d0-e6c8f8d20278</id>
+      <masked>false</masked>
+      <name>NumeroPropuestaCreada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>901bd231-4929-4e4e-88c2-fbc1a7019c54</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>bc278c15-649f-4bb9-b37c-e4a1a0422dfb</id>
+      <masked>false</masked>
+      <name>ProcesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>f35d752e-89b2-4843-b418-15986f3ffa10</id>
+      <masked>false</masked>
+      <name>NumeroPolizaOrigen</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>8b57279f-66a0-47ae-a27d-f479f7e4ede7</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>f45c6e15-cb4c-43ab-8edb-47ab9f6e3598</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>5432cdb6-52bb-43d5-8838-fb2feffdb581</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>7244a792-7852-4da2-8f5d-d388ca38cf9f</id>
+      <masked>false</masked>
+      <name>ProductorPrincipal</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Alta_Propuesta').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>1c9b1117-eb36-47d2-bb0b-ac6ef86cc96b</id>
+      <masked>false</masked>
+      <name>FiltroObservacionNumerador</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_Poliza_Endoso_FormaPago_Auxiliar</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>513ae717-6667-41eb-909d-a0fdce0ee164</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>6cf7d0ba-1b8b-42fa-a731-d65bcd46b903</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>35914275-c156-4460-97e5-19d692bc1fde</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>432fcef1-2d7e-4826-8caf-ae8396653422</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>55fbda3a-86cc-4ed1-ad2f-dc55d309571f</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>7b53f9c3-3bba-4d5f-af2e-d332162ea2a3</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>e0cc748f-431a-40ea-b7d4-4e3df48df2aa</id>
+      <masked>false</masked>
+      <name>FormaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>f66d9ee0-b38b-42ee-857b-eb1d8cbd1feb</id>
+      <masked>false</masked>
+      <name>NumeroTarjeta</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Nuevas Operaciones').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>df47175e-4002-47d9-8974-99b5db6ca45c</id>
+      <masked>false</masked>
+      <name>consultaMovimientos</name>
+   </variable>
+</TestCaseEntity>

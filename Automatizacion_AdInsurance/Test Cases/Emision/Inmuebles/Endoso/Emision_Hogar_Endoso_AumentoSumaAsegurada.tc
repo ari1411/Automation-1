@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Hogar_Endoso_AumentoSumaAsegurada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d61162b-6341-49d3-9ada-fe1ad1d2438b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1abcec74-4d6e-4632-87a1-d979994fa2ec</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0fbde26f-5678-4518-8222-00a986e03924</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7cd646da-343d-4dfd-b77a-ce261564d4cf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e8b94ce-d8eb-4ad5-8dbf-8618a6a52999</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f24689a-8cfe-48b9-b6ac-e3626705a7e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81c590e5-a661-4c0e-bf2c-bad4be712d37</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1180ffb0-285b-4875-ac2f-158d8d780ef8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9724891b-df62-4e13-955a-2956430c0254</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03fc5030-bf5e-4419-b251-25dc872bc895</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87c24ded-712d-45f3-9d54-4db87ff3c1be</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3634d040-5858-4a24-80e4-12dcb6e5eaf3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_AumentoSumaAsegurada').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>1abcec74-4d6e-4632-87a1-d979994fa2ec</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_AumentoSumaAsegurada').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>0fbde26f-5678-4518-8222-00a986e03924</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(24, 1)</defaultValue>
+      <description></description>
+      <id>7cd646da-343d-4dfd-b77a-ce261564d4cf</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_AumentoSumaAsegurada').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>0e8b94ce-d8eb-4ad5-8dbf-8618a6a52999</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_AumentoSumaAsegurada').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>3f24689a-8cfe-48b9-b6ac-e3626705a7e2</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_AumentoSumaAsegurada').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>81c590e5-a661-4c0e-bf2c-bad4be712d37</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_AumentoSumaAsegurada').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>1180ffb0-285b-4875-ac2f-158d8d780ef8</id>
+      <masked>false</masked>
+      <name>nuevaCifraFuente</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_AumentoSumaAsegurada').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>9724891b-df62-4e13-955a-2956430c0254</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_AumentoSumaAsegurada').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>03fc5030-bf5e-4419-b251-25dc872bc895</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_AltaPoliza').getValue(25, 1)</defaultValue>
+      <description></description>
+      <id>87c24ded-712d-45f3-9d54-4db87ff3c1be</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Hogar_Endoso_AumentoSumaAsegurada').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>3634d040-5858-4a24-80e4-12dcb6e5eaf3</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+</TestCaseEntity>

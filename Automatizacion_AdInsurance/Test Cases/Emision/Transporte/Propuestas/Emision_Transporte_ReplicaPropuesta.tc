@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_ReplicaPropuesta</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>47670208-3a72-4d43-913d-46993db74f24</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1c148227-93e0-44b8-bff8-8a88d18d0c7e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cc72c911-a2ad-44a4-a0a4-af2df7a358ef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29d4b079-25bf-4760-8013-bdeccb3c355a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>247b476f-b036-4857-adb9-1a9e0507f5dd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ccb44014-a007-4a6f-8c1c-6d66e60e45a2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3d083f29-8039-43c3-b33e-11f322f7e737</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>add6d47b-dc4b-4d0c-8803-1c492bd61b4f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>301b3ed6-7402-42c1-86ac-21d402ef250e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_AltaPropuesta').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>1c148227-93e0-44b8-bff8-8a88d18d0c7e</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPropuesta').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>cc72c911-a2ad-44a4-a0a4-af2df7a358ef</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPropuesta').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>29d4b079-25bf-4760-8013-bdeccb3c355a</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPropuesta').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>247b476f-b036-4857-adb9-1a9e0507f5dd</id>
+      <masked>false</masked>
+      <name>nDocTomadorPrevio</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPropuesta').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>ccb44014-a007-4a6f-8c1c-6d66e60e45a2</id>
+      <masked>false</masked>
+      <name>nDocTomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPropuesta').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>3d083f29-8039-43c3-b33e-11f322f7e737</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPropuesta').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>add6d47b-dc4b-4d0c-8803-1c492bd61b4f</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_ReplicaPropuesta').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>301b3ed6-7402-42c1-86ac-21d402ef250e</id>
+      <masked>false</masked>
+      <name>prodPrinc</name>
+   </variable>
+</TestCaseEntity>

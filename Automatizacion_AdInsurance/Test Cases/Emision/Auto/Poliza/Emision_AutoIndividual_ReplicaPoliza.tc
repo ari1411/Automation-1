@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AutoIndividual_ReplicaPoliza</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba4b8bf6-601a-4682-ae4e-3d8aa3c911b6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPoliza').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>13e42878-f914-423c-b5e2-b8c0f0c1feb8</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPoliza').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>ca122076-3fc3-4add-9097-41d80ee8251b</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPoliza').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>9f293e33-865a-47a8-95f3-56b216c31452</id>
+      <masked>false</masked>
+      <name>nPolizaAlta</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPoliza').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>0b9c3bf0-5974-419c-a782-724a9dabef80</id>
+      <masked>false</masked>
+      <name>Documento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPoliza').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>3cf09834-f5d4-467b-b58a-718a1f13451c</id>
+      <masked>false</masked>
+      <name>SumaAsegurada</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_ReplicaPoliza').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>269d5462-d4c3-42e0-b9a9-e8fb03dc2ba3</id>
+      <masked>false</masked>
+      <name>Patente</name>
+   </variable>
+</TestCaseEntity>

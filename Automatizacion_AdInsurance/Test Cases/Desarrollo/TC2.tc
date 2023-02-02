@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb059c34-39c1-4ff3-a294-3d9709fc49b0</testCaseGuid>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>71a3c2e1-4bf1-4bf5-b6cc-36fc5b598726</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>7e05b173-1d42-4aec-bb32-a6e77acbae83</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+</TestCaseEntity>

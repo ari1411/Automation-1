@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ModificacionPropuesta_Renovacion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>18604e29-bee9-472f-821b-a7897510fba6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Renovacion').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>69666d1f-2821-47e8-a9ed-51d45e8eeed0</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Renovacion').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>bb7e8f46-2dcf-41ac-968a-a65275b13f41</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Renovacion').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>ae96f8e2-5995-44cf-a4fc-099a8d932d60</id>
+      <masked>false</masked>
+      <name>procesoNegocioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Renovacion').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>156d2c36-9e6a-4564-9e65-0e09200cc4c8</id>
+      <masked>false</masked>
+      <name>nuevaURL1</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Renovacion').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>770ad0f4-07cd-471c-9ca0-d82cecc49d80</id>
+      <masked>false</masked>
+      <name>Usuario</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Renovacion').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>ce4bbc42-0810-4455-8ddc-9631ca979210</id>
+      <masked>false</masked>
+      <name>Clave</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_ModificacionPropuesta_Renovacion').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>9871cd3c-a8a6-4217-8585-a1750e382cd4</id>
+      <masked>false</masked>
+      <name>numPolizaNulo</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuestaIncompleta_CompletandoTodosLosDatos').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>4ef61087-2132-4f83-a662-e02c622cd0c1</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

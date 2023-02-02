@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AutoIndividual_Endoso_AumentoSumaAsegurada</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3066cd19-fea1-4213-9d6b-3cb06af9e034</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ab629634-7722-43f8-b328-b9c83a7a316b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c97b64d-4e60-45eb-b390-1759daa12659</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3f02119a-c2ee-4d7b-b350-4d67a577aa15</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1088e4a9-4765-45d0-8e79-4857f69972c4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d34ef447-7507-4261-b07e-9a1e33fcade3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84b33f98-beb1-468a-b9ff-8f42254102cb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb5f1350-ade2-4ee2-b521-e4f6602678f3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>74ac26cf-ead5-4584-a8d7-b3066e9646ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c69414b9-8496-4dcd-9297-197c684e991c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8bedeed7-db54-4828-a813-4af53a828b68</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_Endoso_AumentoSumaAsegurada').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>ab629634-7722-43f8-b328-b9c83a7a316b</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_Endoso_AumentoSumaAsegurada').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>0c97b64d-4e60-45eb-b390-1759daa12659</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_Endoso_AumentoSumaAsegurada').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>3f02119a-c2ee-4d7b-b350-4d67a577aa15</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_Endoso_AumentoSumaAsegurada').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>1088e4a9-4765-45d0-8e79-4857f69972c4</id>
+      <masked>false</masked>
+      <name>tipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_Endoso_AumentoSumaAsegurada').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>d34ef447-7507-4261-b07e-9a1e33fcade3</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_Endoso_AumentoSumaAsegurada').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>84b33f98-beb1-468a-b9ff-8f42254102cb</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_Endoso_AumentoSumaAsegurada').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>fb5f1350-ade2-4ee2-b521-e4f6602678f3</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AutoIndividual_Endoso_AumentoSumaAsegurada').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>74ac26cf-ead5-4584-a8d7-b3066e9646ab</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPoliza').getValue(31, 1)</defaultValue>
+      <description></description>
+      <id>c69414b9-8496-4dcd-9297-197c684e991c</id>
+      <masked>false</masked>
+      <name>numCotPrecond</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AutoIndividual_AltaPoliza').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>8bedeed7-db54-4828-a813-4af53a828b68</id>
+      <masked>false</masked>
+      <name>numPoliza</name>
+   </variable>
+</TestCaseEntity>

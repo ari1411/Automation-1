@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Transporte_Endoso_CambioFormaPago</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca62b3b1-a2e5-4511-aca9-300ae7027d5a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a428b2e4-c000-4a39-b940-70bc38431f6e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>21fb0299-2f90-46c6-9373-c2cd8c2db6ee</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0b7b226f-5f95-4063-8726-b610d509cfd4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4a08d08-7784-4478-ad54-d620cd4499c5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d76d2780-98cb-4cbc-9f00-d17a5f51702c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8a641915-8824-448b-aac3-e459372620dc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8a4653ac-64e3-4f7e-84d6-1179405519db</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>de94ca1c-09e4-445d-9697-87419fd70b22</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b73c858-bf20-444e-9dfa-c09ff1fc9ee2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2f69e0fb-5225-4378-bf41-41e2f525f303</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>733339cd-0b7d-40e1-a1d3-50894b1ba9b9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6ea68690-712f-4ba1-99d6-56d58c031ed5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>a428b2e4-c000-4a39-b940-70bc38431f6e</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>21fb0299-2f90-46c6-9373-c2cd8c2db6ee</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_EmitirPolizaPersonaExistente').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>0b7b226f-5f95-4063-8726-b610d509cfd4</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>b4a08d08-7784-4478-ad54-d620cd4499c5</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>d76d2780-98cb-4cbc-9f00-d17a5f51702c</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>8a641915-8824-448b-aac3-e459372620dc</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>8a4653ac-64e3-4f7e-84d6-1179405519db</id>
+      <masked>false</masked>
+      <name>formaPagoIdVisa</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>de94ca1c-09e4-445d-9697-87419fd70b22</id>
+      <masked>false</masked>
+      <name>formaPagoIdCupon</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>2b73c858-bf20-444e-9dfa-c09ff1fc9ee2</id>
+      <masked>false</masked>
+      <name>estadoMovimiento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>2f69e0fb-5225-4378-bf41-41e2f525f303</id>
+      <masked>false</masked>
+      <name>estadoCotizacion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>733339cd-0b7d-40e1-a1d3-50894b1ba9b9</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Transporte_Endoso_CambioFormaPago').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>6ea68690-712f-4ba1-99d6-56d58c031ed5</id>
+      <masked>false</masked>
+      <name>formaPagoIdNormal</name>
+   </variable>
+</TestCaseEntity>

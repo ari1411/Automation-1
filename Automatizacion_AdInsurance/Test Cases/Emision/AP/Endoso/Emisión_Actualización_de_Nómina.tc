@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emisión_Actualización_de_Nómina</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c940e04-30af-49e5-833a-4a6d63aff0e4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>44efbf0e-1c0e-4d23-8355-90784b5c31b3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2603da73-39c0-4d6c-815b-9835448af26f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20d6c57c-aa3e-48e6-b95a-390c77a9f254</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ac4547e-a090-4039-ac9e-aa6a3e9c9265</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fb2b5fca-582f-460b-9172-c1404eb0e687</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e8daecf-9f55-421b-b552-72e0dd610f46</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35d5173b-f5a3-4175-9c9d-63f5dd26c304</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>95a02c85-24e5-4f54-9b70-da948dc561ab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1e0b68fc-6049-4ed1-893b-43910423a0a6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cfe6e0f9-2622-490f-8544-a8182097cecf</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a6c5c083-eb96-48b4-aff8-d74e8a9cb4ae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>552e3f72-865d-4826-baab-13efce9b4768</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88eac138-71df-4b75-8225-a61978f4b13b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f673fde-be30-4773-9685-b93d7fdb281d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>44efbf0e-1c0e-4d23-8355-90784b5c31b3</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>2603da73-39c0-4d6c-815b-9835448af26f</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>20d6c57c-aa3e-48e6-b95a-390c77a9f254</id>
+      <masked>false</masked>
+      <name>VigenciaDesde</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>9ac4547e-a090-4039-ac9e-aa6a3e9c9265</id>
+      <masked>false</masked>
+      <name>VigenciaHasta</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(5, 1)</defaultValue>
+      <description>000010100183 en LM</description>
+      <id>fb2b5fca-582f-460b-9172-c1404eb0e687</id>
+      <masked>false</masked>
+      <name>nPoliza</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>1e8daecf-9f55-421b-b552-72e0dd610f46</id>
+      <masked>false</masked>
+      <name>GrupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>35d5173b-f5a3-4175-9c9d-63f5dd26c304</id>
+      <masked>false</masked>
+      <name>TipoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>95a02c85-24e5-4f54-9b70-da948dc561ab</id>
+      <masked>false</masked>
+      <name>TipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>1e0b68fc-6049-4ed1-893b-43910423a0a6</id>
+      <masked>false</masked>
+      <name>TipoDocumentoAseguradoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>cfe6e0f9-2622-490f-8544-a8182097cecf</id>
+      <masked>false</masked>
+      <name>DNI</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>a6c5c083-eb96-48b4-aff8-d74e8a9cb4ae</id>
+      <masked>false</masked>
+      <name>IngresoCantDiasAntes</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>552e3f72-865d-4826-baab-13efce9b4768</id>
+      <masked>false</masked>
+      <name>TipoBeneficiarioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>88eac138-71df-4b75-8225-a61978f4b13b</id>
+      <masked>false</masked>
+      <name>MovimientoActividadId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Actualización_de_Nómina').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>0f673fde-be30-4773-9685-b93d7fdb281d</id>
+      <masked>false</masked>
+      <name>EgresoCantDiasDespues</name>
+   </variable>
+</TestCaseEntity>

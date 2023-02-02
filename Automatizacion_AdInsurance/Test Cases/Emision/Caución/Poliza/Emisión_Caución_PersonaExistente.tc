@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emisión_Caución_PersonaExistente</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4e27a3ff-12ce-47ec-ac52-1b9776b3d8c9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>f8cca294-6a66-47c0-a1f2-a1169b8aff69</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>85292cb5-77fe-41f3-86c1-30d45f781089</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>cbbde8f9-2964-4906-b9b8-703242cab914</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>6f87be4a-b6c2-461e-ae2c-86eceffa699e</id>
+      <masked>false</masked>
+      <name>CUIL_CUIT</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>901e20f9-bf08-46a7-9422-8602b353537e</id>
+      <masked>false</masked>
+      <name>TipoPersonaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>f3f45d86-54f0-4d91-b007-588bc57ba17f</id>
+      <masked>false</masked>
+      <name>TipoDocumentoIdAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>2aaced26-cce8-44a1-b3ff-5f8c055f2541</id>
+      <masked>false</masked>
+      <name>CUIL_CUIT_Asegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>010fb23d-4646-4959-af2e-bf3939da540b</id>
+      <masked>false</masked>
+      <name>TipoPersonaIdAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>b7a9a5eb-6daf-4e6b-8c2d-31e74b0bb3e4</id>
+      <masked>false</masked>
+      <name>Productor</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>f58247e6-4ecc-474f-bef4-1765ab670d55</id>
+      <masked>false</masked>
+      <name>ProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>ba952a3b-bef7-4146-85de-c41496ab4590</id>
+      <masked>false</masked>
+      <name>VigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>6d6265b3-eeac-4b31-aa76-f62ba30f868a</id>
+      <masked>false</masked>
+      <name>FormaPagoIdCUPON</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>6ba3778e-c3ee-4c8f-ac8e-9a8c41f8fbab</id>
+      <masked>false</masked>
+      <name>SumaAseguradaPublica</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_Caución_PersonaExiste').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>6f21ab16-e0f8-4e63-af51-a7a55f6be2d0</id>
+      <masked>false</masked>
+      <name>TasaFinalObraPublica</name>
+   </variable>
+</TestCaseEntity>

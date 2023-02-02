@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_EquipoDistribución_ModificarManualmente</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b49990de-734c-4816-8b33-5096df3a2f85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b77596e-b8ef-4e45-8206-3279bedaa084</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>918269f8-b80a-4602-9c7e-f2739f854044</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ed696518-f80a-4b5f-b145-80a1d8bcd049</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f74b3462-d9a1-42e0-a403-a42be92ffae1</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1d839dd2-a084-49a3-8ec2-f2c24c824059</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>590be9cc-05b2-4ccc-8afa-db3fff049873</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c9f94dfa-ff0f-494d-8b96-5503bd9b9925</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3e21655-c0f6-4c3b-87f9-ed1a8b928477</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_EquipoDistribución_ModificarManualmente').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>6b77596e-b8ef-4e45-8206-3279bedaa084</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_EquipoDistribución_ModificarManualmente').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>918269f8-b80a-4602-9c7e-f2739f854044</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_EquipoDistribución_ModificarManualmente').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>ed696518-f80a-4b5f-b145-80a1d8bcd049</id>
+      <masked>false</masked>
+      <name>eqDistribId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_EquipoDistribución_ModificarManualmente').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>f74b3462-d9a1-42e0-a403-a42be92ffae1</id>
+      <masked>false</masked>
+      <name>usDistribId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_EquipoDistribución_ModificarManualmente').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>1d839dd2-a084-49a3-8ec2-f2c24c824059</id>
+      <masked>false</masked>
+      <name>eqDistribEsperado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_EquipoDistribución_ModificarManualmente').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>590be9cc-05b2-4ccc-8afa-db3fff049873</id>
+      <masked>false</masked>
+      <name>usDistribEsperado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_EquipoDistribución_ModificarManualmente').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>c9f94dfa-ff0f-494d-8b96-5503bd9b9925</id>
+      <masked>false</masked>
+      <name>nuevaURL</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPropuestaIncompleta_CompletandoTodosLosDatos').getValue(32, 1)</defaultValue>
+      <description></description>
+      <id>b3e21655-c0f6-4c3b-87f9-ed1a8b928477</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emisión_Alta_Agente</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6136e854-4570-495d-ab86-da408512c7d4</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>93fa44fe-9f29-4be5-9ede-4cfef5f00348</id>
+      <masked>false</masked>
+      <name>Persona_NvoAgente</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>61bf436e-d4f2-4504-929d-1420a1dacf63</id>
+      <masked>false</masked>
+      <name>Matricula</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>2133dd4f-a44a-49c4-b095-3e5831e29377</id>
+      <masked>false</masked>
+      <name>CategoriaSSNId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>76dfccad-e847-4ace-923b-795d55740d39</id>
+      <masked>false</masked>
+      <name>CodigoExterno</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>4422bc25-ad90-4395-b785-1c841830197b</id>
+      <masked>false</masked>
+      <name>CantDiasAntesVigenciaDesdeAP</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>535e5baa-7594-460f-9bf0-ba687b7c05e7</id>
+      <masked>false</masked>
+      <name>CantDiasAntesVigDesdeCaucion</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>055ed264-cf76-4bd6-9dd8-583fb85867bd</id>
+      <masked>false</masked>
+      <name>CantDiasDespuesVigDesdeDistrib</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>4e4112d5-9939-45ca-b6db-d9281fb2fb5b</id>
+      <masked>false</masked>
+      <name>PorcentajeComision</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>ffbeb3d5-27fd-4e41-81da-79ab5a92c5ff</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>8963f44c-555d-41dd-bbb3-cf937157d827</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>9bb926a6-fabd-422f-8712-cb7736abd73f</id>
+      <masked>false</masked>
+      <name>TipoDocumentoId_tomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>41bc612a-bde4-4db7-9181-0d27c114cc1f</id>
+      <masked>false</masked>
+      <name>CUIL_CUIT_tomador</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>d318fd9e-0643-48a7-b76e-9ec0c35b4487</id>
+      <masked>false</masked>
+      <name>TipoPersonaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>8bbda615-2448-4d93-b461-48a6fe7cbcd5</id>
+      <masked>false</masked>
+      <name>ProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>aa9166d2-e9bf-47e5-808a-76d03db96fee</id>
+      <masked>false</masked>
+      <name>VigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_Alta_Agente').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>60868499-5237-42cc-8363-de023204c552</id>
+      <masked>false</masked>
+      <name>FormaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>'ACCIDENTES PERSONALES'</defaultValue>
+      <description></description>
+      <id>08aa06f0-476b-4a51-9dfa-f74948cdd782</id>
+      <masked>false</masked>
+      <name>Ramo1</name>
+   </variable>
+   <variable>
+      <defaultValue>'Accidentes personales'</defaultValue>
+      <description></description>
+      <id>112cda9a-e217-4d97-92b9-26f84839c164</id>
+      <masked>false</masked>
+      <name>SubRamo1</name>
+   </variable>
+   <variable>
+      <defaultValue>'CAUCION'</defaultValue>
+      <description></description>
+      <id>bdfb7869-91f5-46d8-879b-52fce6e4e55d</id>
+      <masked>false</masked>
+      <name>Ramo2</name>
+   </variable>
+   <variable>
+      <defaultValue>'Caución'</defaultValue>
+      <description></description>
+      <id>14b8f081-ad32-47bc-9163-54250ff22584</id>
+      <masked>false</masked>
+      <name>SubRamo2</name>
+   </variable>
+</TestCaseEntity>

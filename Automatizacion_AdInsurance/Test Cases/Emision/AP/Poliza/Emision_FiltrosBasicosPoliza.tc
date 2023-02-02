@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_FiltrosBasicosPoliza</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d429506c-32a0-4e69-9455-a1c4214c5013</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2a11f92-a33a-41b9-a869-8ca9b1124b74</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b59f66b9-2166-4ea4-9e36-d835bc626df5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8543587e-705b-475b-a5d9-45da73ed8f8a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bf34cbe3-9b3f-4248-9a37-4aeb40dac860</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c2098cf3-f35f-4d42-b963-7b0e8ebaac73</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5f9bb87c-9571-413b-acfb-e8d5a0f667d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5449a713-394b-4b7e-9831-72bc0350d04d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_AltaPoliza_PersonaNueva').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>c2a11f92-a33a-41b9-a869-8ca9b1124b74</id>
+      <masked>false</masked>
+      <name>nCotizacionPre</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_FiltrosBasicosPoliza').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>b59f66b9-2166-4ea4-9e36-d835bc626df5</id>
+      <masked>false</masked>
+      <name>GrupoRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_FiltrosBasicosPoliza').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>8543587e-705b-475b-a5d9-45da73ed8f8a</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_FiltrosBasicosPoliza').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>bf34cbe3-9b3f-4248-9a37-4aeb40dac860</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_FiltrosBasicosPoliza').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>c2098cf3-f35f-4d42-b963-7b0e8ebaac73</id>
+      <masked>false</masked>
+      <name>estadoPolizaDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_FiltrosBasicosPoliza').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>5f9bb87c-9571-413b-acfb-e8d5a0f667d3</id>
+      <masked>false</masked>
+      <name>numDocTom</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5449a713-394b-4b7e-9831-72bc0350d04d</id>
+      <masked>false</masked>
+      <name>variable_0</name>
+   </variable>
+</TestCaseEntity>

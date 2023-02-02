@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_Caucion_ABMProductos_SinIndicarBaseEditable</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb860473-885d-4fb6-a23a-96d57fa35740</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ABMProductos_SinIndicarBaseEditable').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>9c986f3d-f439-4a4d-b98e-eaabf19bd40e</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ABMProductos_SinIndicarBaseEditable').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>c7599ee0-6d2c-4b2a-8556-8c72a348728c</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ABMProductos_SinIndicarBaseEditable').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>4b2d34b0-772f-44c7-98a0-fd639045c2bb</id>
+      <masked>false</masked>
+      <name>subProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_Caucion_ABMProductos_SinIndicarBaseEditable').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>2dfa0096-3584-4006-8ba7-f79090de2718</id>
+      <masked>false</masked>
+      <name>sumaAseguradaTope</name>
+   </variable>
+</TestCaseEntity>

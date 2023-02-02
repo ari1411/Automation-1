@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emisión_AP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9881d678-3458-44f1-a140-1cf91ddeb9d1</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>f8cca294-6a66-47c0-a1f2-a1169b8aff69</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>85292cb5-77fe-41f3-86c1-30d45f781089</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>b7a9a5eb-6daf-4e6b-8c2d-31e74b0bb3e4</id>
+      <masked>false</masked>
+      <name>Productor</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>f58247e6-4ecc-474f-bef4-1765ab670d55</id>
+      <masked>false</masked>
+      <name>ProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>50005ae4-2206-41e7-81b0-60bd790c9ff6</id>
+      <masked>false</masked>
+      <name>SubProductoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>ba952a3b-bef7-4146-85de-c41496ab4590</id>
+      <masked>false</masked>
+      <name>VigenciaContratoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>6d6265b3-eeac-4b31-aa76-f62ba30f868a</id>
+      <masked>false</masked>
+      <name>FormaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>c8725794-4650-4b06-b382-1f1693bbfb0e</id>
+      <masked>false</masked>
+      <name>PlanPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(9, 1)</defaultValue>
+      <description></description>
+      <id>6f87be4a-b6c2-461e-ae2c-86eceffa699e</id>
+      <masked>false</masked>
+      <name>NumeroDocumento</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>67f2dab4-77df-4afc-96e4-08494a4663b6</id>
+      <masked>false</masked>
+      <name>TasaMuerteAccidental</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(11, 1)</defaultValue>
+      <description></description>
+      <id>40087b3f-24da-4fc0-9baa-7b8776378fe4</id>
+      <masked>false</masked>
+      <name>TasaInvalidezParcial</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(12, 1)</defaultValue>
+      <description></description>
+      <id>deacb843-48be-41e5-af13-12ab33a74a15</id>
+      <masked>false</masked>
+      <name>TasaCuadriplejia</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(13, 1)</defaultValue>
+      <description></description>
+      <id>e7fe44be-eed1-4a2e-8899-1fb9bbc4833c</id>
+      <masked>false</masked>
+      <name>TasaMuerteAccidentalAsalto</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(14, 1)</defaultValue>
+      <description></description>
+      <id>4cd45acb-6cb5-4bfc-af7d-13a401705380</id>
+      <masked>false</masked>
+      <name>TasaFracturaHuesos</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(15, 1)</defaultValue>
+      <description></description>
+      <id>8fc39470-2061-49a7-a926-d76a19fb5617</id>
+      <masked>false</masked>
+      <name>RangoEdadId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(16, 1)</defaultValue>
+      <description></description>
+      <id>51d25715-cec3-4fc5-b059-26acd2dd6f28</id>
+      <masked>false</masked>
+      <name>TipoDocumentoAseguradoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(17, 1)</defaultValue>
+      <description></description>
+      <id>a60c9a35-ec7c-4770-b08e-b4107fd46e20</id>
+      <masked>false</masked>
+      <name>NumeroDocumentoAsegurado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(18, 1)</defaultValue>
+      <description></description>
+      <id>9429b35d-5a95-407a-a5bf-b6d88117b4ac</id>
+      <masked>false</masked>
+      <name>TipoBeneficiarioId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emisión_AP').getValue(19, 1)</defaultValue>
+      <description></description>
+      <id>8bdf0597-28f3-442d-9829-5c7a10351dce</id>
+      <masked>false</masked>
+      <name>GruposActividadDefinidosId</name>
+   </variable>
+</TestCaseEntity>

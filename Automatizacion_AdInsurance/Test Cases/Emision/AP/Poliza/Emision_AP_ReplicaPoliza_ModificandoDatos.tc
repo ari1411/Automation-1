@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_ReplicaPoliza_ModificandoDatos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>889770e5-2b43-419b-9885-b5466d607fb6</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ReplicaPoliza_ModificandoDatos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>86cfc0c2-d06e-4696-8ca6-fad21d6438a0</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ReplicaPoliza_ModificandoDatos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>02e84ed6-0d47-41bf-83b9-8dbb3007de96</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ReplicaPoliza_ModificandoDatos').getValue(3, 1)</defaultValue>
+      <description></description>
+      <id>566ee97a-0ffd-42a0-9fdd-3bee4587a742</id>
+      <masked>false</masked>
+      <name>FormaPagoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ReplicaPoliza_ModificandoDatos').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>441f3a27-3da8-4c12-be09-655a0f2dc03e</id>
+      <masked>false</masked>
+      <name>NumeroTarjeta</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_ReplicaPoliza_ModificandoDatos').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>2af354e9-1205-4a97-bce1-d5628e912a80</id>
+      <masked>false</masked>
+      <name>NumeroDocumento</name>
+   </variable>
+</TestCaseEntity>

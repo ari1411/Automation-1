@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Emision_AP_Poliza_AnulacionEndosos</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e3149ab8-1186-442a-9bb8-4f52686397c9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionEndosos').getValue(1, 1)</defaultValue>
+      <description></description>
+      <id>99079d67-72c7-4503-89e2-562f775d76e9</id>
+      <masked>false</masked>
+      <name>RamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionEndosos').getValue(2, 1)</defaultValue>
+      <description></description>
+      <id>a8f07f89-7e0b-4d90-a371-9e81881b8168</id>
+      <masked>false</masked>
+      <name>SubRamoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('_Emision_AP_Poliza_Endoso_FormaPago').getValue(10, 1)</defaultValue>
+      <description></description>
+      <id>776e5ecf-7552-4bfe-a7b5-0acac36a9c5e</id>
+      <masked>false</masked>
+      <name>numPolizaBase</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionEndosos').getValue(4, 1)</defaultValue>
+      <description></description>
+      <id>a8fd0360-3bdc-4437-acd3-34bf2f48421d</id>
+      <masked>false</masked>
+      <name>numEndosoDeseado</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionEndosos').getValue(5, 1)</defaultValue>
+      <description></description>
+      <id>0804a0e9-24a2-4578-affd-521ccf3bd2bc</id>
+      <masked>false</masked>
+      <name>grupoEndosoId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionEndosos').getValue(6, 1)</defaultValue>
+      <description></description>
+      <id>a1729236-c7b4-4e8a-a085-e69fdec24250</id>
+      <masked>false</masked>
+      <name>tipoEndosoId2</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionEndosos').getValue(7, 1)</defaultValue>
+      <description></description>
+      <id>57b206b9-ad6a-493e-9dbf-7679b9e02437</id>
+      <masked>false</masked>
+      <name>tipoEndosoCausaId</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData('Emision_AP_Poliza_AnulacionEndosos').getValue(8, 1)</defaultValue>
+      <description></description>
+      <id>d3b2fe9b-5a44-4c0b-aa64-0583062e57b2</id>
+      <masked>false</masked>
+      <name>tipoEndosoDeseado</name>
+   </variable>
+</TestCaseEntity>
