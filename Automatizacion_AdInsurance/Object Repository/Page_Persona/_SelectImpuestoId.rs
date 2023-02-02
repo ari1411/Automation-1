@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_SelectImpuestoId</name>
+   <tag></tag>
+   <elementGuidId>dee95fed-2090-415a-a6a1-2b0e47f979d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'ImpuestoId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>0043d80a-3919-46f8-b98d-1c03365e69f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ImpuestoId</value>
+      <webElementGuid>c9e9e970-71ea-4f66-9d2a-29fe56c2db99</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

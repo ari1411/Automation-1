@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_PorcentajeExclusion2</name>
+   <tag></tag>
+   <elementGuidId>688d77c9-a38e-4dcb-833d-18618feab533</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'PorcentajeExclusion']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>914a9a39-d846-42ae-aa45-75ef3319c4ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PorcentajeExclusion</value>
+      <webElementGuid>9d879645-6c36-48fd-958c-9383d15bc06e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

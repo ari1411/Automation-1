@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_ExclusionProvincia</name>
+   <tag></tag>
+   <elementGuidId>fe779b0a-9cc7-4fb6-98a0-4c13ded1c941</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name = 'exclusionProvinciaId_input']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a22b9081-c74e-46f4-b15a-6eb6106fafe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>exclusionProvinciaId_input</value>
+      <webElementGuid>5c5ea459-ed15-496c-8fcd-a09c325dc11f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

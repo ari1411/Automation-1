@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_VigenciaDesde</name>
+   <tag></tag>
+   <elementGuidId>d8b446cb-9f0c-4e68-b333-7dfddc47190d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'VigenciaDesde']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5e4a01a1-390e-4189-bc14-a50e9f5c57ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>VigenciaDesde</value>
+      <webElementGuid>34e1b109-b06c-4036-9bff-7c71b72cd05d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

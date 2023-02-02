@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>_SelectTipoContacto</name>
+   <tag></tag>
+   <elementGuidId>d31b4cc6-8a6b-45a2-af9a-cceddb3e7832</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'TipoContactoId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>33a84ca0-286e-432e-89a3-22a3e837596e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>TipoContactoId</value>
+      <webElementGuid>83748e05-fa0c-41df-8207-e0aa833fe36a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
