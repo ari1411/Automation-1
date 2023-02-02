@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_finVigenciaDesde</name>
+   <tag></tag>
+   <elementGuidId>b8634d61-b9d5-4401-a8fe-779c20edecd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'FechaFinVigenciaFROM']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f84d70ef-f247-4b58-b5e0-87eb9dfa9e2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FechaFinVigenciaFROM</value>
+      <webElementGuid>8b4d27eb-8177-4058-99a4-ccee671bb77a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxEquipoEmisorAP</name>
+   <tag></tag>
+   <elementGuidId>f9c4823c-78b6-4bbc-8156-4876804e083a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = '_7862ef80-5656-4d9b-8bb0-5e6eeb933431']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div[8]/section/div/div[5]/div[1]/div/div[2]/div/div/ul/li[1]/div/span[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_7862ef80-5656-4d9b-8bb0-5e6eeb933431</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>labelPorcentajeDescuento</name>
+   <tag></tag>
+   <elementGuidId>efa54de7-506f-4376-b247-651343558c28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[@id = 'lblPorcentajeDescuento']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>db7a9564-8ab5-4c3e-beea-20aaab6b5ff1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lblPorcentajeDescuento</value>
+      <webElementGuid>af05c77a-2a49-4642-853b-db8fb60cb46f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

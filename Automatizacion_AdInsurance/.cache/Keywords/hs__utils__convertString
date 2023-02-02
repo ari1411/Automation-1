@@ -1,0 +1,68 @@
+{
+  "keywordFileContentHash": "7C6F4427C37ACFF17E4569FBF3C62B3D",
+  "keywordClasses": [
+    {
+      "name": "hs.utils.convertString",
+      "keywordMethods": [
+        {
+          "name": "stringFormatoNumerico",
+          "parameters": [
+            {
+              "name": "numString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "stringFormatoNumericoSinDecimales",
+          "parameters": [
+            {
+              "name": "numString",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "stringFormatoNumericoInverso",
+          "parameters": [
+            {
+              "name": "numOriginal",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

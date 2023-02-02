@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkboxEquipoEmisorCaucion</name>
+   <tag></tag>
+   <elementGuidId>7ebd9d57-6d91-42b7-9609-6aea8ab86640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = '_00afc16d-87ef-4b41-94fb-ea3db7b1d18b']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div[8]/section/div/div[5]/div[1]/div/div[2]/div/div/ul/li[3]/div/span[2]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>_00afc16d-87ef-4b41-94fb-ea3db7b1d18b</value>
+   </webElementProperties>
+</WebElementEntity>

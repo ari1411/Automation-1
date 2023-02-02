@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_modificarAsegurado</name>
+   <tag></tag>
+   <elementGuidId>717b9341-1337-4a40-b7d5-8c7d8818bf38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[16]/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@id = 'mnuAsegurados_mn_active']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mnuAsegurados_mn_active</value>
+   </webElementProperties>
+</WebElementEntity>

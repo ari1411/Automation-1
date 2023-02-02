@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "68A938FEE3008D617A36D1F57BEBE13A",
+  "keywordClasses": [
+    {
+      "name": "hs.utils.Screenshots",
+      "keywordMethods": [
+        {
+          "name": "takeScreenshot",
+          "parameters": [],
+          "javadoc": "/**\n\t * take Screenshot\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

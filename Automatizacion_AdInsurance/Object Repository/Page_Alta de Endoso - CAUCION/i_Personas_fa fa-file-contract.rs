@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Personas_fa fa-file-contract</name>
+   <tag></tag>
+   <elementGuidId>1a3eeb9b-33e8-4814-8e54-ac836ca5172a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-file-contract</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='Emision']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4f2ce517-3f5b-410a-89dd-93982ce80db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Emisión</value>
+      <webElementGuid>7041e685-ee01-48c4-a257-967bdf03f66b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-file-contract</value>
+      <webElementGuid>2f044d27-1756-4842-993a-bc49b47db571</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Emision&quot;)/i[@class=&quot;fa fa-file-contract&quot;]</value>
+      <webElementGuid>f7c8129a-aae6-482a-ba21-940336675223</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='Emision']/i</value>
+      <webElementGuid>21428d6a-26e7-4f10-a31e-3769ea744339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/i</value>
+      <webElementGuid>cf8af198-69f2-4d1f-ac4e-be26a28835ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Emisión']</value>
+      <webElementGuid>0735e401-6f59-4853-b36a-369042abdc52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "07887DF484D3B1C21CB9626D8AE946C9",
+  "keywordClasses": [
+    {
+      "name": "hs.controles.kendo.NumericTextBox",
+      "keywordMethods": [
+        {
+          "name": "setValue",
+          "parameters": [
+            {
+              "name": "idText",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "valor",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\r\n\t * SetValueByCodigo\r\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

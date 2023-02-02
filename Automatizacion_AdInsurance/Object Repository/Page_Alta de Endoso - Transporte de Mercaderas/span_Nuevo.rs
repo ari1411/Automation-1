@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nuevo</name>
+   <tag></tag>
+   <elementGuidId>bbfb30e6-9c71-4342-a318-4c4da00cc57f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.k-button > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grdDeclaracionViaje']/div/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f645cd88-a3aa-4d06-9af6-eb2bc49bc5e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Nuevo</value>
+      <webElementGuid>eaa28a59-c2ee-4fe2-a8ce-e4e50fa9a886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grdDeclaracionViaje&quot;)/div[@class=&quot;k-toolbar k-grid-toolbar&quot;]/div[1]/button[@class=&quot;k-button&quot;]/span[1]</value>
+      <webElementGuid>42f06472-9b4e-416f-9268-b40081af3d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dce8c1b4-f5ca-46dc-aeb2-7e3b943a4b0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Nuevo</value>
+      <webElementGuid>d1fc30bd-66d1-4c21-b049-639cc0afae6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grdDeclaracionViaje&quot;)/div[@class=&quot;k-toolbar k-grid-toolbar&quot;]/div[1]/button[@class=&quot;k-button&quot;]/span[1]</value>
+      <webElementGuid>a7a44c44-b8a6-49bc-ac45-7edba41a3110</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grdDeclaracionViaje']/div/div/button/span</value>
+      <webElementGuid>07e69f1d-9b72-4d45-8907-839313c5f156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Viajes declarados'])[1]/following::span[1]</value>
+      <webElementGuid>aff63c98-f79b-4913-8871-46e7cdadcc0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado: Incompleta'])[1]/following::span[1]</value>
+      <webElementGuid>557a9fd5-7ac9-4ca1-82ae-41050cd12b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sin endosar'])[1]/preceding::span[2]</value>
+      <webElementGuid>59335802-e97b-48aa-bc31-c7ed41dc4cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/span</value>
+      <webElementGuid>cfa556bc-8759-4336-9903-c6b5cbfb0889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Nuevo' or . = ' Nuevo')]</value>
+      <webElementGuid>99fc0b22-1946-48a5-8386-ed21309b2731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No se encontraron registros con el criterio de búsqueda ingresado.'])[1]/preceding::span[2]</value>
+      <webElementGuid>f60d9ff4-e696-46fe-8f5b-01d7a73d166f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

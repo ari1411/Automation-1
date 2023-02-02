@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_numDocPersona</name>
+   <tag></tag>
+   <elementGuidId>a816c88b-0c19-4376-a71e-33fb033216a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'PersonaNumeroDocumento']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>PersonaNumeroDocumento</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8857df3b-d9ee-4343-917a-db83f0fbd12d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>PersonaNumeroDocumento</value>
+      <webElementGuid>144d7ee5-1dac-42d5-8951-203a0568d3e3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

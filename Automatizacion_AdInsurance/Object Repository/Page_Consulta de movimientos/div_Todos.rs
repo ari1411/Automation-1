@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Todos</name>
+   <tag></tag>
+   <elementGuidId>db29376b-4c0e-4ccc-a7cb-784dd3de3f2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cbochk_TipoEmisionId-list']/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Todos' or . = 'Todos')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.k-list-optionlabel.k-state-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Todos</value>
+      <webElementGuid>6b0b72ec-df0d-4b88-95f2-c16d5a9d64b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cbochk_TipoEmisionId-list&quot;)/div[@class=&quot;k-list-optionlabel k-state-hover&quot;]</value>
+      <webElementGuid>ba494ab7-398f-4ac6-a394-09c0a5daf3ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5fa0974f-3e05-4ad1-9aae-4cd2dd493193</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-list-optionlabel k-state-hover</value>
+      <webElementGuid>35585c10-c619-436c-a4fd-9dc3fd33cc28</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbochk_TipoEmisionId-list']/div</value>
+      <webElementGuid>1d0f7e4b-5bbc-4c9c-8787-9954572f9dd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[11]/following::div[13]</value>
+      <webElementGuid>b4405955-dfa4-49f4-b7f3-78706c4dadda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[10]/following::div[18]</value>
+      <webElementGuid>97c33382-c65f-4324-832f-3bf5693314cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Api - Gestión de movimientos [6]'])[1]/preceding::div[2]</value>
+      <webElementGuid>9244a7c4-7757-4aec-b6c5-085c5776c0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manual [1]'])[1]/preceding::div[2]</value>
+      <webElementGuid>f30cdd1d-d3a6-452a-9de9-b969e99cba95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[32]/div/div</value>
+      <webElementGuid>47c1f7e8-6492-42c1-b386-cb88a27e9c69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Todos' or . = 'Todos')]</value>
+      <webElementGuid>1e006f46-7027-445e-9640-88c1d6e608b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cbochk_EstadoCotizacionId-list']/div</value>
+      <webElementGuid>829d9d19-39d1-493c-8eb9-2051a690b65e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[3]/following::div[3]</value>
+      <webElementGuid>365f8f07-8575-4d76-9e65-a37f1305ad27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DM (Negocios Masivos) [2]'])[1]/following::div[5]</value>
+      <webElementGuid>525114ca-edb3-4474-a5ce-57f9dac9ed32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cálculo con error [17]'])[1]/preceding::div[2]</value>
+      <webElementGuid>9e0890c3-d64a-4766-94fc-b5d1f050bb3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emitida [14]'])[1]/preceding::div[2]</value>
+      <webElementGuid>8ead1c14-06b1-4809-9e74-8b00297dbea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>d84e5944-7438-45f5-9b08-00a9df7d77c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

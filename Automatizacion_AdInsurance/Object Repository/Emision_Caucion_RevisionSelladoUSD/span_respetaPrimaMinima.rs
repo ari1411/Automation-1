@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_respetaPrimaMinima</name>
+   <tag></tag>
+   <elementGuidId>63ae1a62-a8d0-401b-a1fc-bca2160b808f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div[8]/section/div/div[5]/div/div[1]/div[2]/div/div/div/div[1]/div[2]/div/div[7]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_GrupoRamoId</name>
+   <tag></tag>
+   <elementGuidId>ac30be75-f6e8-4be8-a84c-47da6aab088c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'GrupoRamoId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>06f2d24d-7720-4e7b-bf9d-ca2e0e35d521</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>GrupoRamoId</value>
+      <webElementGuid>c7820f63-0c7a-4f26-96c6-2da01505552c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

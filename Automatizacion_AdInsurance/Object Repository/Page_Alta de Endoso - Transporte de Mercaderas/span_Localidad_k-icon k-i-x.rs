@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Localidad_k-icon k-i-x</name>
+   <tag></tag>
+   <elementGuidId>0fbc233c-35e4-49b2-a9fc-675587cbd1db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='divLocalidadId']/span/span/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-dropdown-wrap.k-state-default.k-state-hover > span.k-clear-value > span.k-icon.k-i-x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>85ab07ee-57e5-4b9f-8193-7c82da4d70b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-i-x</value>
+      <webElementGuid>58285edd-00c3-4e70-8024-10264a1cf164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;divLocalidadId&quot;)/span[@class=&quot;k-widget k-combobox k-combobox-clearable&quot;]/span[@class=&quot;k-dropdown-wrap k-state-default k-state-hover&quot;]/span[@class=&quot;k-clear-value&quot;]/span[@class=&quot;k-icon k-i-x&quot;]</value>
+      <webElementGuid>e1582fac-af39-42d9-a70f-ba2836a1fcb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='divLocalidadId']/span/span/span/span</value>
+      <webElementGuid>ed05008d-f083-4c39-89b0-c9052d0231e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/span/span/span/span</value>
+      <webElementGuid>dc49ecfb-c267-4845-bba8-7691e7ad03d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

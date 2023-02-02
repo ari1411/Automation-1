@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_fechaPropDesde</name>
+   <tag></tag>
+   <elementGuidId>ba46797b-4aec-41ff-ba3e-8c677ea1b5d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'FechaPropuestaFROM']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>94968b28-90f8-4c1d-b148-72ff344a0293</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>FechaPropuestaFROM</value>
+      <webElementGuid>b2446b32-5112-4328-b91c-c7f7451938b0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

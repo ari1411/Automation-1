@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_tipoEmision</name>
+   <tag></tag>
+   <elementGuidId>230ec54d-0be9-4102-8f85-177edb7b0c89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id = 'cbochk_TipoEmisionId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>963adc15-1f24-4dab-9817-384587259a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cbochk_TipoEmisionId</value>
+      <webElementGuid>16cfaf8f-75eb-436d-85a8-419ee88b4e03</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

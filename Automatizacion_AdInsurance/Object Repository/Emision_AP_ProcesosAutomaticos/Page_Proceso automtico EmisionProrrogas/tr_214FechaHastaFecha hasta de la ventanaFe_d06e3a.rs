@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tr_214FechaHastaFecha hasta de la ventanaFe_d06e3a</name>
+   <tag></tag>
+   <elementGuidId>32f7cbf9-c4bd-4704-bffd-7f99b184622d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.k-alt.k-grid-edit-row</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grdParametroInstanciaPar_2']/table/tbody/tr[8]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tr</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-alt k-grid-edit-row</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-uid</name>
+      <type>Main</type>
+      <value>59109c99-b7c6-485c-b0a2-f285eb3c9b54</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>row</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-role</name>
+      <type>Main</type>
+      <value>editable</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 214FechaHastaFecha hasta de la ventanaFecha04/09/2022 00:00:00kendo.syncReady(function(){jQuery(&quot;#InstanciaValor&quot;).kendoTextBox({});});kendo.syncReady(function(){jQuery(&quot;#UsuarioInsert&quot;).kendoTextBox({});});kendo.syncReady(function(){jQuery(&quot;#FechaInsert&quot;).kendoDateTimePicker({&quot;format&quot;:&quot;{0:dd/MM/yyyy HH:mm}&quot;,&quot;timeFormat&quot;:&quot;HH:mm&quot;});});kendo.syncReady(function(){jQuery(&quot;#UsuarioUpdate&quot;).kendoTextBox({});});kendo.syncReady(function(){jQuery(&quot;#FechaUpdate&quot;).kendoDateTimePicker({&quot;format&quot;:&quot;{0:dd/MM/yyyy HH:mm}&quot;,&quot;timeFormat&quot;:&quot;HH:mm&quot;});});</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grdParametroInstanciaPar_2&quot;)/table[1]/tbody[1]/tr[@class=&quot;k-alt k-grid-edit-row&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grdParametroInstanciaPar_2']/table/tbody/tr[8]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha'])[1]/following::tr[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha desde de la ventana'])[1]/following::tr[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]</value>
+   </webElementXpaths>
+</WebElementEntity>

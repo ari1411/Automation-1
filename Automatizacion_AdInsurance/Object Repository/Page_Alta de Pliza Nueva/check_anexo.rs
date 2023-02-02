@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>check_anexo</name>
+   <tag></tag>
+   <elementGuidId>36de2afc-e956-4036-821c-b9bd1d296101</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@type = 'checkbox' and @onclick = 'UpdateAnexoIncluido(245, this);']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>678baa05-71c4-4f1f-b1e7-1d4c9f2c73b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>299ecdd8-29d1-4e27-adb8-8027a41d75e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>UpdateAnexoIncluido(245, this);</value>
+      <webElementGuid>f18a37a9-24d7-42f3-a6d8-132e8e1146d9</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

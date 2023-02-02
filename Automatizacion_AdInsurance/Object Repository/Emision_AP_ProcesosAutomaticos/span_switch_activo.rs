@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_switch_activo</name>
+   <tag></tag>
+   <elementGuidId>b17c2806-cf6e-4b01-94eb-dc62547f1975</elementGuidId>
+   <imagePath>C:\Users\Usuario\Documents\HSconsulting\Proyecto_Adinsurance\hs-main-ecaceres\Automatizacion_AdInsurance\Imagenes\Emision\AP\Emision_AP_ProcesosAutomaticos\grabar.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;descContainer&quot;]/div[1]/div[3]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>C:\Users\Usuario\Documents\HSconsulting\Proyecto_Adinsurance\hs-main-ecaceres\Automatizacion_AdInsurance\Imagenes\Emision\AP\Emision_AP_ProcesosAutomaticos\grabar.png</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Emision_AP_ProcesosAutomaticos/iframe_ventanaModalActivo</value>
+      <webElementGuid>894cddd7-572e-4fc3-a88d-bc181dc9837f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element_is_shadow_root</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f977527f-26ef-4313-b57a-a3d23a0ec94a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Productor principal_ProductorPrincipa_6f9864</name>
+   <tag></tag>
+   <elementGuidId>73d783d5-1391-4c4b-83a6-f10834a4e3ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='ProductorPrincipalId_input']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name=&quot;ProductorPrincipalId_input&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@name='ProductorPrincipalId_input']</value>
+      <webElementGuid>3fadf541-c063-4c09-9c08-e5a76e5194d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='filtrosBasicosContainer']/div[11]/div/span/span/input</value>
+      <webElementGuid>f0a5a7f0-1ba6-4d31-95c0-15b34f588abd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/span/span/input</value>
+      <webElementGuid>c798aa8c-5f8d-4c94-bf85-b4a6c9ae6376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@name = 'ProductorPrincipalId_input' and @type = 'text' and @placeholder = 'Ingrese al menos 3 caracteres para la búsqueda...']</value>
+      <webElementGuid>1457f341-ec11-4164-adc0-381a34ea1d6a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

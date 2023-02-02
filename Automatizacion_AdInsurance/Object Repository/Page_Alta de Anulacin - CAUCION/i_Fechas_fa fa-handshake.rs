@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Fechas_fa fa-handshake</name>
+   <tag></tag>
+   <elementGuidId>2b47a42f-29ee-4a8c-997f-122caded2564</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-handshake</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='RiesgosCaucion']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c1c4abef-7685-499e-9ae3-3d9f4d2f48f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Riesgos</value>
+      <webElementGuid>b543bd3b-b2bc-4049-a7b5-9cc0e41f3cc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-handshake</value>
+      <webElementGuid>a4252343-7d9e-41f6-9937-0ac79096ee1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RiesgosCaucion&quot;)/i[@class=&quot;fa fa-handshake&quot;]</value>
+      <webElementGuid>1fe319d9-81bc-46cd-a068-c179b0252cc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='RiesgosCaucion']/i</value>
+      <webElementGuid>dfdda5ca-1095-4ef5-91fa-594757b6f953</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/i</value>
+      <webElementGuid>5213f162-253e-4749-92df-325ea3a3cc9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Riesgos']</value>
+      <webElementGuid>8514f545-9774-4d0c-8574-f433e557e16c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

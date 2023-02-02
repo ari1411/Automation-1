@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_nuevaDeclaracionViaje</name>
+   <tag></tag>
+   <elementGuidId>da9cb53a-2b67-4aa7-bb4d-5864bc6cedd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[@onclick = 'NuevaDeclaracionViaje()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b8e66291-d558-4fb5-8ba0-4fed0161d217</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>NuevaDeclaracionViaje()</value>
+      <webElementGuid>244f6676-a4af-4737-9eda-64ded392cd70</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

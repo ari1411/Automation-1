@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Consulta de propuestas</name>
+   <tag></tag>
+   <elementGuidId>8889c76c-dd77-48f4-9969-ee968de47c5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='form1']/aside/section/ul/li[2]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[(contains(text(), 'Consulta de propuestas') or contains(., 'Consulta de propuestas'))]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ee1bf3c6-a468-4457-83e5-15f3293b2d74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:customOpenMenu('/AdInsurance/Emision/Gestion/Movimiento/ConsultaMovimientos?nombre=ConsultaPropuestaLM');</value>
+      <webElementGuid>88718e03-12d4-4676-a9df-a1c028d4e823</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Consulta de propuestas</value>
+      <webElementGuid>9da7b925-62a2-4914-a959-4dd85d2248c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/aside[@class=&quot;main-sidebar&quot;]/section[@class=&quot;sidebar&quot;]/ul[@class=&quot;sidebar-menu tree&quot;]/li[@class=&quot;treeview menu-open&quot;]/ul[@class=&quot;treeview-menu&quot;]/li[6]/a[1]</value>
+      <webElementGuid>e4ea554b-1405-4c4e-9584-4a229355be68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form1']/aside/section/ul/li[2]/ul/li[6]/a</value>
+      <webElementGuid>1987e7b4-9890-4d13-b359-edca632ae6c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, &quot;javascript:customOpenMenu('/AdInsurance/Emision/Gestion/Movimiento/ConsultaMovimientos?nombre=ConsultaPropuestaLM');&quot;)]</value>
+      <webElementGuid>ede023df-3f75-431b-bbcc-d957daa7708e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>abbd6de6-af1e-45e4-a6d4-bc08af0fddb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

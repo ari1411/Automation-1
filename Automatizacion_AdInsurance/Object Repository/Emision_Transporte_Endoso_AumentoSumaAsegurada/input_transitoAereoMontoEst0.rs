@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_transitoAereoMontoEst0</name>
+   <tag></tag>
+   <elementGuidId>4b6a8011-7348-4cfd-a36f-f6b1b0eadc3e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div[8]/section/div/div[6]/div/div[2]/div[2]/div[1]/div[2]/div/div[3]/div/table/tbody/tr[1]/td[4]/span[1]/span/input[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_despempActivProfesion1</name>
+   <tag></tag>
+   <elementGuidId>d6fccf36-3ab4-4b8c-9253-8781fdebb617</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/form/div[2]/div[8]/section/div/div[6]/div/div[2]/div[2]/div[1]/div[2]/div/div[1]/div[2]/div/table/tbody/tr/td[4]/span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>
