@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Grupo endoso_fas fa-bars</name>
+   <tag></tag>
+   <elementGuidId>558eac4f-0bce-4f35-bed7-aef7a9bcf167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-bars</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='grdConsultaMovimiento']/table/tbody/tr/td/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f8177358-b88b-45a8-b33f-998f07628ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-bars</value>
+      <webElementGuid>08bc1453-a393-423e-84a1-7df409fff6f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4424e683-595b-4826-8ac6-f9b7d09f11d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grdConsultaMovimiento&quot;)/table[1]/tbody[1]/tr[@class=&quot;k-master-row&quot;]/td[@class=&quot;k-command-cell&quot;]/a[@class=&quot;k-button k-button-icontext k-grid-Mostrarmenú k-font-icon&quot;]/i[@class=&quot;fas fa-bars&quot;]</value>
+      <webElementGuid>304ccc34-f506-44fe-97a8-e7a53e478a33</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='grdConsultaMovimiento']/table/tbody/tr/td/a/i</value>
+      <webElementGuid>db566988-033d-4676-a51f-a2f03bbfb33f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/a/i</value>
+      <webElementGuid>86b3b761-64d2-4045-9b0f-9e799f473a0c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

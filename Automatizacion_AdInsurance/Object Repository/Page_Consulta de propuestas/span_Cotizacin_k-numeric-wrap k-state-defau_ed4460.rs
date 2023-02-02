@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cotizacin_k-numeric-wrap k-state-defau_ed4460</name>
+   <tag></tag>
+   <elementGuidId>4484c126-f9a3-4fe6-a0da-1bb4d0fac6e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;filtrosBasicosContainer&quot;)/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;form-group form-group-filter&quot;]/span[@class=&quot;k-widget k-numerictextbox&quot;]/span[@class=&quot;k-numeric-wrap k-state-default k-expand-padding k-state-hover k-state-focused&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-numeric-wrap.k-state-default.k-expand-padding.k-state-hover.k-state-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='filtrosBasicosContainer']/div/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f3544dea-66b8-42b4-b9bd-da4b4a74adc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-numeric-wrap k-state-default k-expand-padding k-state-hover k-state-focused</value>
+      <webElementGuid>28724343-4706-4277-ac66-0b654c0adee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filtrosBasicosContainer&quot;)/div[@class=&quot;col-md-2&quot;]/div[@class=&quot;form-group form-group-filter&quot;]/span[@class=&quot;k-widget k-numerictextbox&quot;]/span[@class=&quot;k-numeric-wrap k-state-default k-expand-padding k-state-hover k-state-focused&quot;]</value>
+      <webElementGuid>4a86170e-4ffe-4e52-ad99-d23ca446a357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>46b823cc-0b7c-4678-99d7-8d8509e7eba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-numeric-wrap k-state-default k-expand-padding k-state-hover k-state-focused</value>
+      <webElementGuid>581794d9-708b-42d5-b41f-b157c1f86707</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;filtrosBasicosContainer&quot;)/div[@class=&quot;col-md-3&quot;]/div[@class=&quot;form-group form-group-filter&quot;]/span[@class=&quot;k-widget k-numerictextbox&quot;]/span[@class=&quot;k-numeric-wrap k-state-default k-expand-padding k-state-hover k-state-focused&quot;]</value>
+      <webElementGuid>f657101a-a4d6-4221-8cda-30143bd951e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='filtrosBasicosContainer']/div/div/span/span</value>
+      <webElementGuid>acc823fa-6fcb-49c7-8244-96d0c3a19c77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cotización'])[1]/following::span[2]</value>
+      <webElementGuid>02761b89-b014-4bbf-8bb2-279e05c4f217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grupo ramo'])[1]/preceding::span[7]</value>
+      <webElementGuid>a4e79d68-033d-42e1-aa37-11bd313b9085</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Todos'])[1]/preceding::span[7]</value>
+      <webElementGuid>7b5da361-5560-437a-b655-38ca5193bbb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/span/span</value>
+      <webElementGuid>fb8131cb-09c8-4ef6-90cd-0455d7be19ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
